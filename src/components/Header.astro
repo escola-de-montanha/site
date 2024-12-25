@@ -3,17 +3,21 @@ import {Image} from 'astro:assets';
 import logo from '../assets/logo.png';
 import NavigationLink from "./header/NavigationLink.astro";
 import NavigationMenu from "./header/NavigationMenu.astro";
+import HamburgerMenu from "./header/HamburgerMenu.astro";
 ---
 <header class="bg-aem-green-500 p-4">
     <div class="lg:container mx-auto">
         <div class="flex items-center gap-x-4">
             <Image class="h-12 w-auto" src={logo} alt="Logo"/>
-            <span class="text-lg text-white" style="font-family: 'AemFont', sans-serif">Escola de Montanha</span>
+            <div class="text-lg text-white grow" style="font-family: 'AemFont', sans-serif">
+                <a href="/">Escola de Montanha</a>
+            </div>
             <div class="grow md:flex gap-x-4 justify-end hidden">
                 <NavigationLink url="/agenda">Agenda</NavigationLink>
-                <NavigationMenu path="socios" label="Sócios" />
-                <NavigationMenu path="sobre" label="Associação" />
+                <NavigationMenu path="socios" label="Sócios"/>
+                <NavigationMenu path="sobre" label="Associação"/>
             </div>
+            <HamburgerMenu />
         </div>
     </div>
 </header>

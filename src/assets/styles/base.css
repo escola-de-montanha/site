@@ -17,3 +17,20 @@
     font-style: normal;
     font-display: swap;
 }
+
+.hamburger {
+    padding-top: 6px;
+    cursor: pointer;
+}
+
+.hamburger .line {
+    display: block;
+    width: 32px;
+    height: 4px;
+    margin-bottom: 6px;
+    background-color: white;
+}
+
+.hamburger .close {
+    font-size: 32px;
+}

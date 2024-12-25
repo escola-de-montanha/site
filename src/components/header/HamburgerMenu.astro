@@ -1,0 +1,11 @@
+---
+import HamburgerMenuComponent from "./HamburgerMenuComponent.jsx";
+
+
+const sobre = Object.values(import.meta.glob("../../pages/sobre/*.md", { eager: true }))
+    .sort((a, b) => a.frontmatter.order - b.frontmatter.order);
+const socios = Object.values(import.meta.glob("../../pages/socios/*.md", { eager: true }))
+    .sort((a, b) => a.frontmatter.order - b.frontmatter.order);
+
+---
+<HamburgerMenuComponent client:load sobre={sobre} socios={socios} />
