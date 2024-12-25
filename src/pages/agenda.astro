@@ -1,0 +1,51 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Calendar from "../components/Calendar.astro";
+import {isAfterByMonth} from '../components/calendar/utils';
+
+function addMonths(date, months) {
+    const result = new Date(date);
+    result.setMonth(result.getMonth() + months);
+    return result;
+}
+
+const eventGlobs = Object.values(import.meta.glob("./eventos/*.md", { eager: true }));
+const events = eventGlobs.map(glob => {
+
+    const rawDates = glob.frontmatter.dates || [glob.frontmatter.date];
+    const dates = rawDates.map(date => new Date(date));
+
+    const name = glob.frontmatter.shortTitle;
+
+    return {
+        name,
+        dates,
+        category: glob.frontmatter.category,
+        url: glob.url
+    }
+});
+
+const allDates = events.flatMap(event => event.dates);
+const lastDate = allDates.sort((a, b) => a - b)[allDates.length - 1];
+
+const today = new Date();
+const months = [];
+let loopDate = today;
+
+while (true) {
+    months.push(loopDate);
+    loopDate = addMonths(loopDate, 1);
+
+    if (isAfterByMonth(loopDate, lastDate)) {
+        break;
+    }
+}
+
+---
+
+<Layout title="Agenda">
+    {months.map((month, i) =>
+            <Calendar events={events} referenceDate={month} firstMonth={i === 0} lastMonth={i === months.length - 1} />
+    )}
+
+</Layout>

@@ -1,0 +1,17 @@
+---
+import NavigationLink from "./NavigationLink.astro";
+import DropdownMenu from "./DropdownMenu";
+const {label, path} = Astro.props;
+
+function getPages() {
+    switch (path) {
+        case 'sobre': return import.meta.glob("../../pages/sobre/*.md", { eager: true })
+        case 'socios': return import.meta.glob("../../pages/socios/*.md", { eager: true })
+    }
+}
+
+const allPages = Object.values(getPages())
+    .sort((a, b) => a.frontmatter.order - b.frontmatter.order);
+---
+<DropdownMenu client:load label={label} links={allPages} />
+

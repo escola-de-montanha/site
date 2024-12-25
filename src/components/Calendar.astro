@@ -1,0 +1,48 @@
+---
+import CalendarDay from "./calendar/CalendarDay.astro";
+import { addDays, adjustWeekDayToMondayStart, isSameDay, isBeforeByMonth, isAfterByMonth } from "./calendar/utils.js";
+const { referenceDate, events, firstMonth, lastMonth } = Astro.props;
+
+const startOfMonth = new Date(referenceDate.getFullYear(), referenceDate.getMonth(), 1);
+const startAtWeekDay = adjustWeekDayToMondayStart(startOfMonth.getDay());
+
+const calendarDays = [];
+
+let loopDate = addDays(startOfMonth, -startAtWeekDay);
+
+while (true) {
+
+    const invisible = (isBeforeByMonth(loopDate, startOfMonth) && !firstMonth) ||
+        (isAfterByMonth(loopDate, startOfMonth) && !lastMonth);
+
+    const dateEvents = !invisible ? events.filter(event => event.dates.filter(d => isSameDay(d, loopDate)).length) : [];
+
+    calendarDays.push({
+        date: loopDate,
+        isCurrentMonth: loopDate.getMonth() === startOfMonth.getMonth(),
+        events: dateEvents,
+        invisible
+    });
+
+    loopDate = addDays(loopDate, 1);
+
+    if (loopDate.getMonth() > startOfMonth.getMonth() || loopDate.getFullYear() > startOfMonth.getFullYear()) {
+        const loopWeekday = adjustWeekDayToMondayStart(loopDate.getDay());
+        if (loopWeekday === 0) {
+            break;
+        }
+    }
+}
+
+const monthName = startOfMonth.toLocaleString('pt-PT', { month: 'long' });
+
+---
+
+<div>
+    <div class="flex justify-around p-8">
+        <span class="text-lg capitalize">{monthName}</span>
+    </div>
+    <div class="flex flex-col md:grid md:grid-cols-7 gap-1 md:gap-4">
+        {calendarDays.map(info => <CalendarDay info={info} />)}
+    </div>
+</div>
