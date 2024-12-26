@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MdLayout.astro
+layout: ../../layouts/SobreMdLayout.astro
 shortTitle: 'Montanhismo'
 title: 'Montanhismo'
 order: 3

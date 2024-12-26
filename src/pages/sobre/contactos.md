@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MdLayout.astro
+layout: ../../layouts/SobreMdLayout.astro
 shortTitle: 'Contactos'
 title: 'Contactos'
 order: 6

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MdLayout.astro
+layout: ../../layouts/SobreMdLayout.astro
 shortTitle: 'Orgãos Sociais'
 title: 'Orgãos Sociais'
 order: 5

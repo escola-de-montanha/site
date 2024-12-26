@@ -18,7 +18,7 @@ export default function DropdownMenu({label, links}) {
         setOverTo(to);
     }
 
-    return <div class={`relative ${open ? 'pb-1' : 'pt-1'}`} style="font-family: 'AemFont', sans-serif"
+    return <div class={`relative font-sans font-bold text-md text-emerald-950 ${open ? 'pb-1' : 'pt-1'}`}
                 onMouseEnter={onHover}
                 onMouseLeave={startCloseTimer}>
         <span class={`text-sm cursor-pointer ${open ? 'underline' : ''}`}>{label}</span>

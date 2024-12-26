@@ -34,3 +34,7 @@
 .hamburger .close {
     font-size: 32px;
 }
+
+.aem-font {
+    font-family: 'AemFont', sans-serif;
+}

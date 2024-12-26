@@ -1,0 +1,14 @@
+---
+const {title, crumbs, noCrumbs} = Astro.props;
+---
+<div class="bg-aem-green-100 p-4">
+    <div class="lg:container mx-auto px-4">
+        <div class="flex flex-col">
+            {!noCrumbs && <div class="text-aem-green-900 text-sm">
+                <a href="/">Início</a> /
+                {crumbs && crumbs.map(crumb => <a href={crumb.url}>{crumb.title}</a>)}
+            </div>}
+            <h1 class="text-xl text-emerald-950 font-sans font-bold">{title}</h1>
+        </div>
+    </div>
+</div>

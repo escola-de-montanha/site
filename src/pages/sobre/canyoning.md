@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MdLayout.astro
+layout: ../../layouts/SobreMdLayout.astro
 shortTitle: 'Canyoning'
 title: 'Canyoning'
 order: 4

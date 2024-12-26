@@ -3,7 +3,6 @@ import {useState} from "preact/hooks";
 
 export default function HamburgerMenuComponent({socios, sobre}) {
     const [open, setOpen] = useState(false);
-    console.log(socios);
 
     return <div className="md:hidden text-lg text-white">
         {!open && <Hamburger onClick={() => setOpen(true)}/>}

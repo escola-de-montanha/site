@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MdLayout.astro
+layout: ../../layouts/CalendarMdLayout.astro
 title: Iniciação ao Canyioning Dezembro 2024
 shortTitle: Iniciação ao Canyoning
 dates: 

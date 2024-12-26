@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MdLayout.astro
+layout: ../../layouts/CalendarMdLayout.astro
 title: Iniciação à Escalada Dezembro 2024
 shortTitle: Iniciação à Escalada
 dates: 

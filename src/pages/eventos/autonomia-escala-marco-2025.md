@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MdLayout.astro
+layout: ../../layouts/CalendarMdLayout.astro
 title: Autonomia Escalada Março 2025
 shortTitle: Autonomia de Escalada
 dates: 

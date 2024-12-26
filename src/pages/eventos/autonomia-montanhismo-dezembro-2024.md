@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MdLayout.astro
+layout: ../../layouts/CalendarMdLayout.astro
 title: Autonomia Montahismo Dezembro 2024
 shortTitle: Autonomia de Montanhismo
 dates: 

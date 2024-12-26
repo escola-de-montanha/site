@@ -34,11 +34,11 @@ function categoryColor(category) {
     <span class={`${badgeColor} w-8 text-center text-white p-2 float-left md:float-none md:rounded-full md:absolute md:bottom-2 md:left-2 text-xs`}>
         {date.getDate()}
     </span>
-    <div class="w-full flex flex-col p-1 gap-1">
+    <div class="w-full flex md:flex-col p-1 gap-1">
         {events.map(event =>
-                <div class={`rounded ${categoryColor(event.category)}`}>
-                    <a href={event.url}>{event.name}</a>
-                </div>
+                <a href={event.url} class={`rounded grow ${categoryColor(event.category)}`}>
+                    {event.name}
+                </a>
         )}
     </div>
 </div>

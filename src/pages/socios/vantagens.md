@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MdLayout.astro
+layout: ../../layouts/SociosMdLayout.astro
 shortTitle: 'Vantagens'
 title: 'Vantagens do associado'
 order: 1
