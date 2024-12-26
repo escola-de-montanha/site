@@ -5,7 +5,7 @@ const {frontmatter} = Astro.props;
 ---
 
 <Layout title={frontmatter.title} crumbs={[{title: 'Socios', url: '/'}]}>
-    <form method="POST" data-netlify="true" action="/socios/obrigado">
+    <form method="POST" data-netlify="true" action="/socios/obrigado" name="Inscrição Socios">
         <div class="space-y-12">
             <div class="border-b border-gray-900/10 pb-12">
                 <p class="mt-1 text-sm/6 text-gray-600">Preencha o formulário cuidadosamente. Após a submissão será contactado por nós para validar e concluir o processo.</p>
@@ -31,7 +31,7 @@ const {frontmatter} = Astro.props;
                     </div>
 
                     <div class="col-span-full">
-                        <label html-for="about" class="block text-sm/6 font-medium text-gray-900">About</label>
+                        <label html-for="about" class="block text-sm/6 font-medium text-gray-900">Morada</label>
                         <div class="mt-2">
                             <textarea name="address" id="address" autocomplete="address" required rows="3"
                                       class="block w-full rounded-md bg-white px-3 py-1.5 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6"></textarea>
