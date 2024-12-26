@@ -1,9 +1,17 @@
 ---
-import Layout from "./Layout.astro";
-import Prose from "../components/Prose.astro";
+import MdLayout from "./MdLayout.astro";
+import {firstDay} from "../components/calendar/utils";
 const {frontmatter} = Astro.props;
+
+const eventGlobs = Object.values(import.meta.glob("../pages/eventos/*.md", { eager: true }));
+
+const sameCategory = eventGlobs.filter(event => event.frontmatter.category === frontmatter.category);
+const today = new Date();
+
+// const onlyInFuture = sameCategory.filter(event => firstDay(event).getTime() > today.getTime());
+
 ---
 
-<Layout title={frontmatter.title} crumbs={[{title: 'Agenda', url: '/agenda'}]}>
-    <Prose><slot /></Prose>
-</Layout>
+<MdLayout frontmatter={frontmatter} crumbs={[{title: 'Agenda', url: '/agenda'}]} related={onlyInFuture}>
+    <slot />
+</MdLayout>

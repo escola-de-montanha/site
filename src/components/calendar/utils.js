@@ -15,6 +15,15 @@ export function isSameDay(date1, date2) {
 export function isBeforeByMonth(cmpDate, refDate) {
     return cmpDate.getMonth() < refDate.getMonth() || cmpDate.getFullYear() < refDate.getFullYear()
 }
+
 export function isAfterByMonth(cmpDate, refDate) {
     return cmpDate.getMonth() > refDate.getMonth() || cmpDate.getFullYear() > refDate.getFullYear()
+}
+
+export function firstDay(event) {
+    const dates = (event.dates || [event.date])
+        .map(d => new Date(d))
+        .sort((a, b) => a.getTime() - b.getTime());
+
+    return dates[0];
 }

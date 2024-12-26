@@ -1,9 +1,12 @@
 ---
-import Layout from "./Layout.astro";
-import Prose from "../components/Prose.astro";
+import {filterAndSortPages} from "../components/header/utils";
+import MdLayout from "./MdLayout.astro";
+
 const {frontmatter} = Astro.props;
+const sobre = filterAndSortPages(import.meta.glob("../pages/sobre/*.md", {eager: true}))
+const crumbs = [{title: 'Sobre', url: '/sobre'}]
 ---
 
-<Layout title={frontmatter.title} crumbs={[{title: 'Sobre', url: '/sobre'}]}>
-    <Prose><slot /></Prose>
-</Layout>
+<MdLayout frontmatter={frontmatter} crumbs={crumbs} related={sobre}>
+    <slot />
+</MdLayout>

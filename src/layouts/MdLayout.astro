@@ -1,9 +1,28 @@
 ---
 import Layout from "./Layout.astro";
 import Prose from "../components/Prose.astro";
-const {frontmatter} = Astro.props;
+
+const {frontmatter, related, crumbs} = Astro.props;
+const currentPath = Astro.url.pathname;
 ---
 
-<Layout title={frontmatter.title}>
-    <Prose><slot /></Prose>
+<Layout title={frontmatter.title} crumbs={crumbs}>
+    <div class="flex flex-col md:flex-row">
+        <div class="grow">
+            <Prose>
+                <slot/>
+            </Prose>
+        </div>
+        <div>
+            <div class="bg-gray-200 rounded p-8 text-md text-emerald-950 font-sans font-bold">
+                <span class="text-aem-green-900 text-sm">Relacionados</span>
+                <ul>
+                    {related
+                        .filter(page => page.url !== currentPath)
+                        .map(page =>
+                                <li><a href={page.url}>{page.frontmatter.title}</a></li>)}
+                </ul>
+            </div>
+        </div>
+    </div>
 </Layout>
