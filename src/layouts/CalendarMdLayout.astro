@@ -12,6 +12,6 @@ const today = new Date();
 
 ---
 
-<MdLayout frontmatter={frontmatter} crumbs={[{title: 'Agenda', url: '/agenda'}]} related={onlyInFuture}>
+<MdLayout frontmatter={frontmatter} crumbs={[{title: 'Agenda', url: '/agenda'}]} related={sameCategory}>
     <slot />
 </MdLayout>
