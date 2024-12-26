@@ -1,8 +1,9 @@
 ---
 import Layout from "./Layout.astro";
+import Prose from "../components/Prose.astro";
 const {frontmatter} = Astro.props;
 ---
 
 <Layout title={frontmatter.title} crumbs={[{title: 'Agenda', url: '/agenda'}]}>
-    <slot />
+    <Prose><slot /></Prose>
 </Layout>
