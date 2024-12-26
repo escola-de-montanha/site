@@ -1,5 +1,6 @@
 ---
 import DropdownMenu from "./DropdownMenu";
+import {filterAndSortPages} from "./utils";
 const {label, path} = Astro.props;
 
 function getPages() {
@@ -9,8 +10,8 @@ function getPages() {
     }
 }
 
-const allPages = Object.values(getPages())
-    .sort((a, b) => a.frontmatter.order - b.frontmatter.order);
+const allPages = filterAndSortPages(getPages());
+
 ---
 <DropdownMenu client:load label={label} links={allPages} />
 

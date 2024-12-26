@@ -1,11 +1,9 @@
 ---
 import HamburgerMenuComponent from "./HamburgerMenuComponent.jsx";
+import {filterAndSortPages} from "./utils";
 
 
-const sobre = Object.values(import.meta.glob("../../pages/sobre/*.md", { eager: true }))
-    .sort((a, b) => a.frontmatter.order - b.frontmatter.order);
-const socios = Object.values(import.meta.glob("../../pages/socios/*.md", { eager: true }))
-    .sort((a, b) => a.frontmatter.order - b.frontmatter.order);
-
+const sobre = filterAndSortPages(import.meta.glob("../../pages/sobre/*.md", {eager: true}))
+const socios = filterAndSortPages(import.meta.glob("../../pages/socios/*.md", {eager: true}))
 ---
-<HamburgerMenuComponent client:load sobre={sobre} socios={socios} />
+<HamburgerMenuComponent client:load sobre={sobre} socios={socios}/>

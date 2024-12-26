@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/SociosMdLayout.astro
+layout: ../../layouts/SociosNewMdLayout.astro
 shortTitle: 'Inscrição'
 title: 'Nova Inscrição'
 order: 3
