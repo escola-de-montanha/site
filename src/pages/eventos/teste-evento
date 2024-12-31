@@ -1,0 +1,9 @@
+---
+layout: ../../layouts/CalendarMdLayout.astro
+title: teste 1
+shortTitle: teste1
+dates: 
+  - 2025-5-1
+category: escalada
+---
+Este ee um teste
