@@ -1,6 +1,7 @@
+---
 layout: ../../layouts/CalendarMdLayout.astro
 title: Sicar 2025
-shortTitle: Sicar 2025 - Serra do Sicó
+shortTitle: Sicar 2025
 dates: 
   - 2025-1-11
   - 2025-1-12
@@ -8,10 +9,8 @@ category: multi
 ---
 Encontro de abertura de atividades para a temporada que se segue! Na Serra de Sicó buscamos o sol do Inverno, as paredes de escalada, os trilhos para caminhar, as grutas e até as descolagens de parapente. Mas, acima de de tudo, procuramos o convívio e a partilha num cenário de extraordinária beleza natural.
 
-
 [Inscrições](https://docs.google.com/forms/d/e/1FAIpQLSds8Hl6DbaTcgCyVsTBwAjz0Pl_xoklj8YZ0eF2atrR8y2icA/viewform)
-
-![Cartaz](sicar-2025.jpeg)
+![Cartaz](../../assets/images/sicar-2025.jpeg)
 
 ### Programa:
 
