@@ -17,29 +17,48 @@ Encontro de abertura de atividades para a temporada que se segue! Na Serra de Si
 #### Sábado:
 - 9h - Secretariado
 - 10h - Início de atividades
-- Prática autónoma de escalada
-- Batismo de Espeleologia (mínimo de 6 e máximo de 12 participantes)
-- Batismo de Parapente (horário e local a combinar com os pilotos)
-- Aula de Ioga, em local a combinar
+
+ Prática autónoma de escalada
+
+ Batismo de Espeleologia (mínimo de 6 e máximo de 12 participantes)
+
+Batismo de Parapente (horário e local a combinar com os pilotos)
+
+Aula de Ioga, em local a combinar
 - 18h - Partilha gastronómica (cada um traz e partilha)
 
-Domingo:
-9h Secretariado
-10h Início de atividades
-Prática autónoma da escalada
-Oficina de treino de quedas em escalada (mínimo 2 e máximo 8 participantes)
-Caminhada guiada no Vale de Poios
-Aula de Ioga, em local a combinar
-Batismo de Parapente (horário e local a combinar com os pilotos)
-17h Encerramento
+### Domingo:
+- 9h Secretariado
+- 10h Início de atividades
 
-Valores de inscrição diários:
+Prática autónoma da escalada
+ 
+ Oficina de treino de quedas em escalada (mínimo 2 e máximo 8 participantes)
+
+Caminhada guiada no Vale de Poios
+
+Aula de Ioga, em local a combinar
+
+Batismo de Parapente (horário e local a combinar com os pilotos)
+- 17h Encerramento
+
+
+
+**Valores de inscrição diários**:
+
 15€ não associados
+
 10€ associados e membros de entidade com protocolo
+
 5€ associados e membros de entidade com protocolo com seguro desportivo ativo
-15€ extra para batismo de espeleologia
-15€ extra para oficina de quedas
-60€ extra para batismo de parapente (pago no dia aos Pilotos)
+
+*Extras:*
+
+15€  batismo de espeleologia
+
+15€  oficina de quedas
+
+60€ batismo de parapente (pago no dia aos Pilotos)
 
 Inclui: momento de partilha gastronómica, possibilidade de pernoita em regime de acantonamento, seguro, enquadramento e equipamento nas atividades enquadradas.
 
