@@ -4,7 +4,7 @@ shortTitle: 'Orgãos Sociais'
 title: 'Orgãos Sociais'
 order: 5
 ---
-## Orgão Sociais
+## Orgão Sociais 2024 - 2027
 
 # Mesa da Assembleia Geral
 
