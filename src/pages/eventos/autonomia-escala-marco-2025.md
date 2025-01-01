@@ -1,12 +1,10 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Autonomia Escalada Março 2025
-shortTitle: Autonomia de Escalada
+title: Autonomia Escalada Desportiva
+shortTitle: Autonomia Escalada Desportiva
 dates: 
-  - 2025-3-8
-  - 2025-3-9
-  - 2025-3-15
-  - 2025-3-16
+  - 2025-10-18
+  - 2025-10-19
 category: escalada
 ---
 Este é um curso bacano
