@@ -1,10 +1,13 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Iniciação ao Canyioning Dezembro 2024
+title: Iniciação ao Canyioning 
 shortTitle: Iniciação ao Canyoning
 dates: 
-  - 2024-12-14
-  - 2024-12-15
+  - 2025-07-19
+  - 2025-07-20
 category: canyoning
 ---
-Este é um curso bacano, mas de canyioning
+Local
+Formador
+
+Em breve mais informações
