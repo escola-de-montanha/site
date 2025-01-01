@@ -2,7 +2,7 @@
 layout: ../../layouts/CalendarMdLayout.astro
 title: Autonomia Escalada Deportiva
 shortTitle: Autonomia Escalada Desportiva
-date: 
+dates: 
 - 2025-10-18
 - 2025-10-19
 
