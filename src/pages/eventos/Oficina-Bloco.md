@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Oficina de Formação - Escalada de Bloco
-shortTitle: Oficina de Formação - Escalada Bloco
+title: Oficina de Treino - Escalada de Bloco
+shortTitle: Oficina de Treino - Escalada Bloco
 dates: 
   - 2025-02-08
   - 2025-02-09
