@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
 title: Iniciação ao Montahismo 
-shortTitle: Iniciação de Montanhismo
+shortTitle: Iniciação ao Montanhismo
 dates: 
   - 2025-04-05
   - 2025-04-06

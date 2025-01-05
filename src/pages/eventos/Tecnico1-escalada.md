@@ -5,6 +5,7 @@ shortTitle: Técnicao N1 Escalada
 dates: 
   - 2025-04-18
   - 2025-04-19
+  - 2025-04-20
   - 2025-05-01
   - 2025-05-02
   - 2025-05-03
@@ -17,3 +18,4 @@ category: escalada
 ---
 
 100h de formação
+Nivel 1 Tecnico AEM
