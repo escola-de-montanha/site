@@ -7,5 +7,4 @@ date:
 - 2025-03-13
 category: escalada
 ---
-#Aperfeiçoamento de Escalada Deportiva
 <p>nivel avançado </p>
