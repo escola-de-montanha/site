@@ -5,7 +5,6 @@ shortTitle: Natal na sede
 dates: 
 - 2025-12-13
 - 2025-12-14
-
 category: institucional
 ---
 Convivio na Sede de Natal
