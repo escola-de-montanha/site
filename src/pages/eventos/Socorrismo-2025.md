@@ -7,4 +7,4 @@ dates:
   - 2025-03-30
 category: institucional
 ---
-Curso de Socorrismo em Motnanha
+Curso de Socorrismo em Montanha
