@@ -4,7 +4,7 @@ shortTitle: 'Orgãos Sociais'
 title: 'Orgãos Sociais'
 order: 5
 ---
-# Orgão Sociais 2024 - 2027
+# Orgãos Sociais 2024 - 2027
 
 ## Mesa da Assembleia Geral
 
@@ -13,7 +13,7 @@ Presidente: Jorge Manuel da Costa Alves Rosa nº71
 
 Secretário: Tiago Francisco Correia da Silva nº79
 
-Secretário: João Carlos Oliveira Matos nº 17
+Secretário: João Carlos Oliveira Matos nº17
 
 
 ## Direção
