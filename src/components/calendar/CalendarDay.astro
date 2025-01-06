@@ -19,15 +19,17 @@ const [bgColor, badgeColor] = (() => {
 function categoryColor(category) {
     switch (category) {
         case 'escalada':
-            return 'bg-aem-brown';
+            return 'bg-aem-gray';
         case 'canyoning':
-            return 'bg-blue-500';
+            return 'bg-aem-blue';
         case 'montanhismo':
-            return 'bg-rose-700'
+            return 'bg-aem-green-500'
         case 'institucional':
-            return 'bg-aem-green-900'
+            return 'bg-aem-orange'
         case 'multi':
             return 'bg-purple-500'
+        case 'socios'
+            return ''bg-aem-lime'
         default:
             return 'bg-white'
     }
