@@ -9,10 +9,10 @@ export default {
 					500: '#558944',
 					900: '#336E3D'
 				},
-				"aem-brown": '#D36E5A'
-				"aem-blue" : '#87CEEB'
-				"aem-gray" : '#D3D3D3'
-				"aem-orange" : '#DAA520'
+				"aem-brown": '#D36E5A',
+				"aem-blue" : '#87CEEB',
+				"aem-gray" : '#D3D3D3',
+				"aem-orange" : '#DAA520',
 				"aem-lime" : '#00FF00'
 			}
 		},
