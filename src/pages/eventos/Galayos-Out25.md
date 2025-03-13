@@ -16,7 +16,7 @@ category: multi
 # Galayos 2025
 ### Estágio de escalada clássica
 
-
+![Galayos](../../assets/images/jp-galayos.jpeg)
 ##### **Introdução:**
 Este projeto consiste no acompanhamento dum grupo ao longo de diversas atividades, tendo em vista um estágio final nos Galayos, de modo a que os participantes cheguem a esta atividade com:
 
