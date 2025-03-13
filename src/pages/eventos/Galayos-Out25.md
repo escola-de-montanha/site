@@ -93,10 +93,10 @@ Esse acompanhamento será feito em atividades a combinar entre o técnico e os p
 *na adesão ao projeto, pagam com 50% deste valor, reembolsável (25%)
 em caso de não participar na atividade final.*
 
-> Inclui: enquadramento da atividade, equipamento coletivo e reportagem fotográfica.
-> Viagem, refeições e alojamento são da responsabilidade do participante.
-> Possibilidade de dormida e refeições em refúgio ou bivacar e cozinhar.
-> Aproximação de cerca de 6km com muito desnível que pode demorar até 3h.
+> <p>Inclui: enquadramento da atividade, equipamento coletivo e reportagem fotográfica.<br>
+> Viagem, refeições e alojamento são da responsabilidade do participante.<br>
+> Possibilidade de dormida e refeições em refúgio ou bivacar e cozinhar.<br>
+> Aproximação de cerca de 6km com muito desnível que pode demorar até 3h.</p>
 
 
 ##### **Fase de preparação:**
