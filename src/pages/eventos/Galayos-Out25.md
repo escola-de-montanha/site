@@ -20,10 +20,10 @@ category: multi
 ##### **Introdução:**
 Este projeto consiste no acompanhamento dum grupo ao longo de diversas atividades, tendo em vista um estágio final nos Galayos, de modo a que os participantes cheguem a esta atividade com:
 
-- mais treino técnico e físico
-- melhor conhecimento do grupo
-- noção das suas capacidades e limitações
-- mais confiança para os desafios a enfrentar
+- Mais treino técnico e físico
+- Melhor conhecimento do grupo
+- Noção das suas capacidades e limitações
+- Mais confiança para os desafios a enfrentar
 
 <p>O projeto será liderado pelo técnico [JP Lopes] que irá acompanhar o grupo de inscritos ao longo de vários meses até à realização da atividade final prevista para os dias 25 a 28 de outubro.<br> 
 Esse acompanhamento será feito em atividades a combinar entre o técnico e os participantes em diferentes locais, com diferentes temas.<br>
