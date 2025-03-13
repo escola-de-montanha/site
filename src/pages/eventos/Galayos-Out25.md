@@ -53,7 +53,7 @@ O projeto será liderado pelo técnico [JP Lopes] que irá acompanhar o grupo de
 - O pré-inscrito não se vê obrigado a participar na fase final.
 
 
-##### Programa da fase final:
+#### Programa da fase final:
 
 **Dia 24 - 6ª feira**
 - Viagem: saída de Portugal ao final da tarde ou noite para chegar ao local de madrugada
@@ -78,28 +78,28 @@ O projeto será liderado pelo técnico [JP Lopes] que irá acompanhar o grupo de
 
 #### Custos 
 
-##### Fase Final:
+##### **Fase Final:**
 - **100€** associados autónomos na prática de escalada clássica
 (capazes de liderar uma cordada)
-**200€** Associados AEM, praticantes de escalada clássica, não autónomos
+- **200€** Associados AEM, praticantes de escalada clássica, não autónomos
 (habituados a escalar em segundo de cordada)
-**300€** para não associados (autónomos ou não)
+- **300€** para não associados (autónomos ou não)
 
 *na adesão ao projeto, pagam com 50% deste valor, reembolsável em metade (25%), 
 em caso de não participar na atividade final.
 Inclui: enquadramento da atividade, equipamento coletivo e reportagem fotográfica.*
 _Viagem, refeições e alojamento são da responsabilidade do participante._
-	Possibilidade de dormida e refeições em refúgio ou bivacar e cozinhar.
-	Aproximação de cerca de 6km com muito desnível que pode demorar até 3h.
+> Possibilidade de dormida e refeições em refúgio ou bivacar e cozinhar.
+> Aproximação de cerca de 6km com muito desnível que pode demorar até 3h.
 
 
-##### Fase de preparação:
-30€/dia associados
-45€/dia não associados
-Rácio máximo de 1 técnico para 4 participantes
+##### **Fase de preparação:**
+- 30€/dia associados
+- 45€/dia não associados
+- Rácio máximo de 1 técnico para 4 participantes
 
 
-##### Equipamento individual necessário:
+##### **Equipamento individual necessário:**
 - Roupa desportiva e calçado robusto para caminhar
 - Reforço alimentar para meio da manhã, lanches e outras pausas
 - Mochila média (20 a 30L) para transportar equipamento e alimentos.
@@ -113,10 +113,11 @@ Rácio máximo de 1 técnico para 4 participantes
 
 Em regime facultativo, disponibilizamos a aluguer de equipamento individual, pelo valor total de 25€ ou 5€ por equipamento necessário, pagos no dia ao formador.
 
-##### Inscrições 
+#### Inscrições 
 Até dia 30 de junho
 [INSCRIÇÃO](https://docs.google.com/forms/d/15DbE8h3Q7ANgciet3hsE3XkMDUC-8uULVMNRBVsJN3Y/viewform?edit_requested=true)
 
-##### Pagamento
+#### Pagamento
 Por transferência bancária: **IBAN:PT50 0033 0000 45589654875 05**
+
 MBWAY: 911 843 936 
