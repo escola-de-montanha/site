@@ -81,8 +81,9 @@ Possibilidade de pernoita na sede, em chão duro*
 - Proximidade Regional
 
 #### Inscrições:
-Até dia 21 de outubro no seguinte link: Ficha de Inscrição - Formações 2024 - Google Forms
-	
+Até dia 21 de outubro 2025
+[INSCRIÇÃO](https://docs.google.com/forms/d/15DbE8h3Q7ANgciet3hsE3XkMDUC-8uULVMNRBVsJN3Y/viewform?edit_requested=true)
+
 #### Pagamento
 Por transferência bancária: **IBAN:PT50 0033 0000 45589654875 05**
 
