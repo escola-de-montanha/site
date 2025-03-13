@@ -17,7 +17,7 @@ category: multi
 ### Estágio de escalada clássica
 
 
-##### Introdução:
+##### **Introdução:**
 Este projeto consiste no acompanhamento dum grupo ao longo de diversas atividades, tendo em vista um estágio final nos Galayos, de modo a que os participantes cheguem a esta atividade com:
 
 - mais treino técnico e físico
@@ -27,25 +27,24 @@ Este projeto consiste no acompanhamento dum grupo ao longo de diversas atividade
 
 O projeto será liderado pelo técnico [JP Lopes] que irá acompanhar o grupo de inscritos ao longo de vários meses até à realização da atividade final prevista para os dias 25 a 28 de outubro. Esse acompanhamento será feito em atividades a combinar entre o técnico e os participantes em diferentes locais, com diferentes temas. Não sendo de carácter obrigatório, são altamente recomendadas e será estipulado um mínimo de participações para poder participar no estágio final.
 
-##### Data:
-- Fase preparatória: diversas atividades em datas a propor pelo técnico
+##### **Data:**
+- Fase preparatória: diversas atividades em datas a propor pelo técnico e participantes
 - Fase final: 25 a 28 de outubro + 1 sessão preparatória online
 
-##### Técnicos:
+##### **Técnicos:**
 - João Paulo Ferrão, entre outros, se necessário.
 
-##### Público alvo:
+##### **Público alvo:**
 - Praticantes de escalada autónomos:
     - Podem liderar largos de auto-proteção ou apenas escalar de segundo
-    - Tem que ser autónomos em escalada de desportiva e 
-    - Ter experiência em escalada de multilargos (vias equipadas ou de autoproteção).
+    - Tem que ser autónomos em escalada de desportiva e ter experiência em escalada de multilargos (vias equipadas ou de autoproteção).
     
-##### Objetivos: 
+##### **Objetivos:** 
 - Preparar um grupo de praticantes para escalada de grandes paredes
 - Melhorar competências técnicas de segurança e progressão em escalada clássica
 - Realizar uma atividade final com níveis elevados de competência e confiança
 
-##### Condições de participação:
+##### **Condições de participação:**
 - Inscrição prévia no projeto, com intenção e compromisso de participar na fase final
 - Pagamento adiantado de uma parte do valor da atividade final.
 - Participação em atividades a marcar com os técnicos envolvidos, pagas ao dia.
@@ -58,18 +57,24 @@ O projeto será liderado pelo técnico [JP Lopes] que irá acompanhar o grupo de
 
 **Dia 24 - 6ª feira**
 - Viagem: saída de Portugal ao final da tarde ou noite para chegar ao local de madrugada
+
 **Dia 25 - sábado**
 - Aproximação ao Torozo
 - Escalada de 1 via de ambientação (Diedro)
 - Viagem para o parque dos Galayos e aproximação ao refúgio
+
 **Dia 26 - domingo**
 - Escalada de uma grande via (Torreon, ou Punta Maria Luísa)
+
 **Dia 27 - 2ª feira**
 - Escalada de outra grande via (agulha Negra)
+
 **Dia 28 - 3ª feira**
 - Escalada de uma via mais curta
 - Descida e viagem de regresso.
+
 **Dia 29 - opção de regresso na 4ª feira**
+
 
 #### Custos 
 
