@@ -28,9 +28,10 @@ category: montanhismo
  - 16 e 17 novembro
  - 23 e 24 novembro
  - 30 novembro e 01 dezembro
- 
-Sede da Escola de Montanha, em Albergaria da Serra – Arouca, Serra da Freita
+<p> 
+Sede da Escola de Montanha, em Albergaria da Serra – Arouca, Serra da Freita <br>
 Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
+</p>
 
 #### Formadores: 
  Bruno Silva 
@@ -49,13 +50,14 @@ Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
 - **Bloco 04 _ Condução de Briefing (UFCD: 3494)** Comunicação; Técnicas de briefing; Animação Turística e gestão de grupo; Organização de programas de animação turística;
 
 #### Horários:
-Das 9h de sábado às 19h de domingo, aproximadamente
- 8 aulas online às 21h, na semana anterior, em dia a definir.
+<p>Das 9h de sábado às 19h de domingo, aproximadamente <br>
+8 aulas online às 21h, na semana anterior, em dia a definir
+</p>
 
 #### Custo:
-Associados AEM: 400€
-Não sócios: 600€
-Reciclagem do curso para associados que queiram repetir sessões: 20€/dia
+- Associados AEM: 400€
+- Não sócios: 600€
+- Reciclagem do curso para associados que queiram repetir sessões: 20€/dia
 
 <p>Inclui: seguro, certificação DGERT e AEM, partilha de fotografias e documentos de apoio<br>
 Deslocações, dormida e refeições da responsabilidade do participante.<br>
