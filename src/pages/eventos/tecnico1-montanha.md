@@ -98,7 +98,3 @@ Bruno Silva
 - Técnico da Escola de Montanha, nas áreas de Montanhismo, Canyoning e Escalada;
 - CEO e Guia da Empresa de Animação e Agência de turismo, Rebeldes & Nómadas, Lda;
 - Professor de escalada no Núcleo De Montanha de Espinho;
-
-
-
-
