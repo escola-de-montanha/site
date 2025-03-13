@@ -13,7 +13,7 @@ category: multi
 
 ## Estágio de Escalada e Montanhismo nos Galayos
 ## Projeto GRANDES PAREDES
-# ✨Galayos 2025✨
+# Galayos 2025
 ### Estágio de escalada clássica
 
 
