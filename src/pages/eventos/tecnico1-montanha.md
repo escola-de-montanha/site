@@ -18,16 +18,16 @@ dates:
 category: montanhismo
 ---
 ## Técnico de Montanha Nível 1
-# Guia de Percursos Pedestres
+# Guia de Percursos Pedestres 2025
 ### 100h de formação presencial e online 
 #### Data | Local
 
 
- - 26 e 27 outubro
- - 09 e 10 novembro
- - 16 e 17 novembro
- - 23 e 24 novembro
- - 30 novembro e 01 dezembro
+ - 11 e 12 Outubro
+ - 01 e 02 Novembro
+ - 15 e 16 Novembro
+ - 22 e 23 Novembro
+ - 29 e 30 Novembro
 <p> 
 Sede da Escola de Montanha, em Albergaria da Serra – Arouca, Serra da Freita <br>
 Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
@@ -59,9 +59,11 @@ Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
 - Não sócios: 600€
 - Reciclagem do curso para associados que queiram repetir sessões: 20€/dia
 
-<p>Inclui: seguro, certificação DGERT e AEM, partilha de fotografias e documentos de apoio<br>
+<p>
+*Inclui: seguro, certificação DGERT e AEM, partilha de fotografias e documentos de apoio<br>
 Deslocações, dormida e refeições da responsabilidade do participante.<br>
-Possibilidade de pernoita na sede, em chão duro_</p>
+Possibilidade de pernoita na sede, em chão duro*
+</p>
 
 #### Equipamento individual necessário:
 - Calçado robusto para caminhar em montanha
