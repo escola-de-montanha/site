@@ -17,5 +17,84 @@ dates:
 category: escalada
 ---
 
-100h de formação
-Nivel 1 Tecnico AEM
+## Técnico de Escalada Nível 1
+# Monitores de Escalada
+### 100h de formação presencial e online 
+#### Data | Local
+
+
+ - 18, 19 e 20 Abril : Caramulo, Penacova e Serra de Sicó
+ - 25, 26 e 27 de abril: Penha Garcia, Escusa e Puerto Roque
+ - 3 e 4 de maio: Barragem de Santa Luzia e Oleiros
+ - 10 e 11 de maio: Serra da Freita e Pedra Má
+ - Mais  10  sessões online, em período pós laboral em dias a definir.
+<p> 
+Sede da Escola de Montanha, em Albergaria da Serra – Arouca, Serra da Freita <br>
+Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
+</p>
+
+#### Formadores: 
+ Nelson Cunha
+ 
+ 
+#### Objetivos: 
+- Habilitar técnicos capazes de enquadrar atividades de escalada em vias equipadas de um  ou mais largos e  vias ferrata
+- Transmitir fundamentos técnicos e didáticos para o ensino de escalada
+
+#### Público Alvo
+- Escaladores autônomos na escalada de vias equipadas, com equipamento próprio
+- Nível mínimo recomendado de 6b trabalhado e 6a consolidado
+
+#### Conteúdos: 
+
+- Equipamentos: preparação e manutenção. 
+- Aperfeiçoamento de técnicas de segurança e progressão, em escalada desportiva  
+- Instalação e enquadramento de rapel e corrimões
+- Enquadramento de grupos em vias ferratas 
+- Ancoragens e amarrações
+- Gestão de Risco e Atuação em caso de acidente 
+- Princípios de auto resgate
+- Meteorologia e planificação
+- Técnicas de comunicação
+- Boas práticas ambientais
+
+#### Horários:
+<p>Das 9h de sábado às 19h de domingo, aproximadamente <br>
+8 aulas online às 21h, na semana anterior, em dia a definir
+</p>
+
+#### Custo:
+- Associados AEM: 500€
+- Não sócios: 750€
+- Reciclagem do curso para técnicos nivel 1: 25€/dia
+- Desconto de 5€/dia para associados com seguro
+
+<p>
+Inclui: Seguro, equipamento coletivo, certificação e documentos de apoio<br>
+Certificação DGEST, em parceria com o Centro de Formação Gomes e Canoso<br>
+Deslocações, dormida e refeições da responsabilidade do participante.<br>
+</p>
+
+#### Equipamento individual necessário:
+- Arnês, capacete, pés de gato e magnésio 
+- 10 expressos e 5 mosquetões de segurança 
+- 2 anéis de fita e 1 cordino 
+- 1 dispositivo de segurança 
+- 1 corda de escalada desportiva (mínimo 20m) 
+- Mochila para transporte do equipamento
+<p>
+Em regime facultativo, disponibilizamos a aluguer de equipamento, mediante pedido na ficha de inscrição <br>
+Equipamento completo por um valor de 15€/dia
+</p>
+
+#### Inscrições:
+Até dia 10 de Abril 2025
+[INSCRIÇÃO](https://docs.google.com/forms/d/15DbE8h3Q7ANgciet3hsE3XkMDUC-8uULVMNRBVsJN3Y/viewform?edit_requested=true)
+
+#### Pagamento
+Por transferência bancária: **IBAN:PT50 0033 0000 45589654875 05**
+
+Por MBWAY: **911 843 936**
+
+***
+
