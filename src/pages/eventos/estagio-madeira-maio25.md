@@ -40,12 +40,12 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
 
 | Atividade     | Segunda-feira 26 | Terça-feira 27 | Quarta-feira 28 | Quinta-feira 29 | Sexta-feira 30 | Sábado 31 | Domingo 1 |
 |--------------|----------------|----------------|----------------|----------------|----------------|-----------|----------|
-| **Canyoning** | Dia de Recepção | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning | | Experiência |
-| **Montanhismo** | | Montanhismo Semiautonomia | Montanhismo Semiautonomia | Montanhismo Semiautonomia | | | |
-| **Caminhada** | | Caminhada | | | | |
-| **Escalada** | | Escalada Autónoma | Escalada Autónoma | Escalada Autónoma | | |
-| **Mergulho** | | | | | Batismo Mergulho | |
-| **Parapente** | | | | | Batismo Parapente | Batismo Parapente |
+| **Canyoning** | Dia de Recepção | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning e Experiência | Experiência | |
+| **Montanhismo** | Dia de Recepção | Montanhismo Semiautonomia | Montanhismo Semiautonomia | Montanhismo Semiautonomia | | | |
+| **Caminhada** | Dia de Recepção | | | | Caminhada | Caminhada |
+| **Escalada** | Dia de Recepção | | | Escalada Autónoma | Escalada Autónoma | Escalada Autónoma| |
+| **Mergulho** | Dia de Recepção | | | | Batismo Mergulho | |
+| **Parapente** | Dia de Recepção | | | | Batismo Parapente | Batismo Parapente |
 
 ### Atividades Detalhadas
 
