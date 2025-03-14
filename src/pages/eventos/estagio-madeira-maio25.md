@@ -39,7 +39,7 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
 ## Programa
 
 | Atividade     | Segunda 26   | Terça 27 | Quarta 28   | Quinta 29 | Sexta 30 | Sábado 31 | Domingo 1  |
-|--------------|----------------|----------------|----------------|----------------|----------------|-----------|----------|
+|--------------|------------------|----------------|----------------|----------------|----------------|-----------|----------|
 | **Canyoning** | Dia de Recepção | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning e Experiência | Experiência | |
 | **Montanhismo** | Dia de Recepção | Montanhismo Semiautonomia | Montanhismo Semiautonomia | Montanhismo Semiautonomia | | | |
 | **Caminhada** | Dia de Recepção | | | | | Caminhada | Caminhada
