@@ -38,11 +38,11 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
 
 ## Programa
 
-| Atividade     | Segunda-feira 26 | Terça-feira 27 | Quarta-feira 28 | Quinta-feira 29 | Sexta-feira 30 | Sábado 31 | Domingo 1 |
+| Atividade     | Segunda 26   | Terça 27 | Quarta 28   | Quinta 29 | Sexta 30 | Sábado 31 | Domingo 1  |
 |--------------|----------------|----------------|----------------|----------------|----------------|-----------|----------|
 | **Canyoning** | Dia de Recepção | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning e Experiência | Experiência | |
 | **Montanhismo** | Dia de Recepção | Montanhismo Semiautonomia | Montanhismo Semiautonomia | Montanhismo Semiautonomia | | | |
-| **Caminhada** | Dia de Recepção | | | | Caminhada | Caminhada |
+| **Caminhada** | Dia de Recepção | | | | | Caminhada | Caminhada
 | **Escalada** | Dia de Recepção | | | Escalada Autónoma | Escalada Autónoma | Escalada Autónoma| |
 | **Mergulho** | Dia de Recepção | | | | Batismo Mergulho | |
 | **Parapente** | Dia de Recepção | | | | Batismo Parapente | Batismo Parapente |
@@ -88,6 +88,7 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
 ### **Montanhismo Semi Autonomia**
 - Experiência anterior em pernoita de montanha com tenda
 - Boa condição física para caminhar 15 km por dia
+- Ambição em explorar a ilha
 - Vestuário e Equipamento adequado
 - Calçado adequado a piso escorregadio
 
@@ -120,6 +121,16 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
 ### **Batismo Mergulho e Parapente** (30 e 31 de Maio)
 - **Batismo Mergulho:** 80€  
 - **Batismo Parapente:** 130€  
+
+| Dia | Associado | Não Associado |
+|-----|-----------|--------------|
+| 26 Maio | 30€ | 45€ |
+| 27 Maio | 45€ | 65€ |
+| 28 Maio | 45€ | 65€ |
+| 29 Maio | 45€ | 65€ |
+| 30 Maio | 45€ | 65€ |
+| 31 Maio | 45€ | 65€ |
+| 1 Junho | 30€ | 45€ |
 
 ## Condições de Inscrição
 - Limite de **7 participantes** por atividade
