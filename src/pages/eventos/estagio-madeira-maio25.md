@@ -112,13 +112,13 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
 - **Não Associado:** 45€  
 - **Seguro de atividade:** +5€  
 
-### **Dias 27, 28, 29, 30 e 31 de Maio** (* e **)
+### **Dias 27, 28, 29, 30 e 31 de Maio** 
 - **Associado:** 45€  
 - **Entidade Parceira:** 45€  
 - **Não Associado:** 65€  
 - **Seguro de atividade:** +5€  
 
-### **Batismo Mergulho e Parapente** (30 e 31 de Maio)
+### **Batismos**
 - **Batismo Mergulho:** 80€  
 - **Batismo Parapente:** 130€  
 
@@ -143,6 +143,7 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
 - **Estágio de Canyoning:** 2 dias
 - **Montanhismo Semi Autonomia:** 3 dias
 - **Mergulho e Parapente:** pagamento feito diretamente com as entidades responsáveis
+> Possibilidade de incompatibilidade com as restantes atividades
 
 ## Condições Especiais
 - **Primeiros 7 inscritos** terão alojamento partilhado gratuito
