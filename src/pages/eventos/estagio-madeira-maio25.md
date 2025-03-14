@@ -20,6 +20,7 @@ category: multi
 
 ## Montanhismo, Caminhadas, Escalada, Canyoning, Parapente e Mergulho
 ### 26 de maio a 1 de junho
+### [INSCRIÇÃO](https://docs.google.com/forms/d/e/1FAIpQLSe2xuDwKaLq95CnaPXz2HrDsPmEkca54sG87XC2YEDiKd39NA/viewform)
 
 ## Contextualização
 Uma ilha portuguesa no meio do Atlântico com enorme potencial para atividades de montanha e sabores únicos para descobrir.
@@ -168,6 +169,5 @@ Os casos omissos neste documento serão resolvidos pela organização do evento.
 Todos os participantes deverão assinar um termo de responsabilidade, confirmando conhecimento e concordância com as condições de participação.
 
 ## Inscrições
-- **Até dia 19 de Maio de 2025**, através do formulário
-- **Pagamento por transferência bancária:**  
-  - IBAN: **PT50 0033 0000 45589654875 05**
+- **Até dia 19 de Maio de 2025**, através do [formulário](https://docs.google.com/forms/d/e/1FAIpQLSe2xuDwKaLq95CnaPXz2HrDsPmEkca54sG87XC2YEDiKd39NA/viewform)
+- **Pagamento por transferência bancária:**   IBAN: **PT50 0033 0000 45589654875 05**
