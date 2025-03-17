@@ -13,14 +13,14 @@ Lista de Cursos
 
 #### Desportiva
 
-- [Iniciação](../eventos/iniciacao-desportiva-maio25.md)
-- [Autonomia](../eventos/autonomia-escala-marco-2025.md)
-- [Avançado](../../pages/eventos/avançado-desportiva25.md)
+- [Iniciação](https://escolademontanha.com/eventos/iniciacao-desportiva-maio25/)
+- [Autonomia](https://escolademontanha.com/eventos/autonomia-escala-marco-2025/)
+- [Avançado](https://escolademontanha.com/eventos/avançado-desportiva25/)
 
 #### Clássica
 
-- [Iniciação](../eventos/iniciacao-classica.md)
-- [Autonomia](../eventos/autonomia-classica-out25.md)
+- [Iniciação](https://escolademontanha.com/eventos/iniciacao-classica/)
+- [Autonomia](https://escolademontanha.com/eventos/autonomia-classica-out25/)
 
 ### Técnicos
 
