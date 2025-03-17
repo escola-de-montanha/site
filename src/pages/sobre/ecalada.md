@@ -15,7 +15,7 @@ Lista de Cursos
 
 - [Iniciação](../eventos/iniciacao-desportiva-maio25.md)
 - [Autonomia](../eventos/autonomia-escala-marco-2025.md)
-- [Avançado](../eventos/avançado-desportiva25.md)
+- [Avançado](../../pages/eventos/avançado-desportiva25.md)
 
 #### Clássica
 
@@ -24,7 +24,7 @@ Lista de Cursos
 
 ### Técnicos
 
-[Nivel 1](../eventos/Tecnico1-escalada.md)
+[Nivel 1](https://escolademontanha.com/eventos/tecnico1-escalada/)
 
 
 ## <p> Niveis de Formação</p>
