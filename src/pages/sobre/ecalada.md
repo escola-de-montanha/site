@@ -7,7 +7,6 @@ order: 2
 # Escalada
 
 ## <p> Formação 2025 </p>
-Lista de Cursos
 
 ### Praticante
 
@@ -15,14 +14,16 @@ Lista de Cursos
 
 - [Iniciação](https://escolademontanha.com/eventos/iniciacao-desportiva-maio25/)
 - [Autonomia](https://escolademontanha.com/eventos/autonomia-escala-marco-2025/)
-- [Avançado](https://escolademontanha.com/eventos/avançado-desportiva25/)
-    - [Mulilargos](https://escolademontanha.com/eventos/avan%C3%A7ado-multilargos/)
+- **Avançado**
+    - [Multi-largos](https://escolademontanha.com/eventos/avan%C3%A7ado-multilargos/)
     - [Aperfeiçoamento Segurança](https://escolademontanha.com/eventos/avan%C3%A7ado-desportiva25/)
-    
+
 #### Clássica
 
 - [Iniciação](https://escolademontanha.com/eventos/iniciacao-classica/)
 - [Autonomia](https://escolademontanha.com/eventos/autonomia-classica-out25/)
+
+
 
 ### Técnicos
 
