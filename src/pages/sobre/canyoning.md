@@ -6,6 +6,7 @@ order: 4
 ---
 
 # Canyoning
+![Canyoning](canyoning.JPG)
 
 ## <p> Formação 2025 </p>
 
