@@ -10,28 +10,26 @@ order: 2
 ![CLUBE GUARDA](../../assets/images/cmg_cor.png)
 
 [Coimbra Climbing](https://www.instagram.com/coimbraclimbing/)
-![]()
+
 
 [Espeleo Club Descenso de Cañones - Portugal](http://ecdcportugal.com/)
-![]()
+
 
 [Grupo de Espeleologia e Montanhismo](https://gem.pt/1/)
-![]()
+
 
 [Gomes & Canoso](https://gomesecanoso.pt/)
-![]()
+
 
 [International Canyoning Academy](https://www.ica-canyoning.org/pt/)
-![C](.)
+
 
 [Nucelo de Montanha de Espinho](https://montanha.org/)
-![]()
+
 
 [Safe](https://safe-climbing.org/home/)
-![]()
 
 [Zone Climb](https://zone.com.pt/climb/)
-!]()
 
 # FILIAÇÕES
 
@@ -39,11 +37,11 @@ order: 2
 
 
 [Municipio de Arouca](https://www.cm-arouca.pt/)
-![]()
+
 
 [Federação de Campismo e Montanhismo de Portugal](hhttps://www.fcmportugal.com/)
-![]()
+
 
 [Federação Portuguesa de Escalada de Competição](https://www.fpme.org/webpu/)
-![]()
+
 
