@@ -30,6 +30,5 @@ order: 2
 [Nivel 1](https://escolademontanha.com/eventos/tecnico1-escalada/)
 
 
-## <p> Niveis de Formação</p>
-> Criar o esquema com desportiva e classica e técnicos
+
 
