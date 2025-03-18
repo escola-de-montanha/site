@@ -7,7 +7,7 @@ order: 2
 # PARCERIAS 
 
 [Clube de Montanhismo da Guarda](https://www.montanhismo-guarda.pt/portal/)
-![CLUBE GUARDA](../../assets/images/cmg_cor.png)
+
 
 [Coimbra Climbing](https://www.instagram.com/coimbraclimbing/)
 
@@ -29,7 +29,9 @@ order: 2
 
 [Safe](https://safe-climbing.org/home/)
 
+
 [Zone Climb](https://zone.com.pt/climb/)
+
 
 # FILIAÇÕES
 
@@ -39,7 +41,7 @@ order: 2
 [Municipio de Arouca](https://www.cm-arouca.pt/)
 
 
-[Federação de Campismo e Montanhismo de Portugal](hhttps://www.fcmportugal.com/)
+[Federação de Campismo e Montanhismo de Portugal](https://www.fcmportugal.com/)
 
 
 [Federação Portuguesa de Escalada de Competição](https://www.fpme.org/webpu/)
