@@ -6,7 +6,7 @@ order: 4
 ---
 
 # Canyoning
-![Canyoning](canyoning.JPG)
+![Canyoning](../../assets/images/canyoning1.JPG)
 
 ## <p> Formação 2025 </p>
 

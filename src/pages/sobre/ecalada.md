@@ -5,7 +5,7 @@ title: 'Escalada'
 order: 2
 ---
 # Escalada
-
+![Escalador](../../assets/images/escalada4.jpg)
 ## <p> Formação 2025 </p>
 
 ### Praticante

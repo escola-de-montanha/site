@@ -5,7 +5,7 @@ title: 'Montanhismo'
 order: 3
 ---
 # Montanhismo
-
+![Montanhismo](../../assets/images/montanhismo2.jpg)
 ## <p> Formação 2025 </p>
 
 ### Praticante
