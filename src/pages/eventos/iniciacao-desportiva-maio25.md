@@ -13,7 +13,7 @@ category: escalada
 *(Presencial e Online)*  
 
 ## 📍 Data e Local  
-📅 **06 | 07 de maio** + 1 sessão preparatória online  
+📅 **17 | 18 de maio** + 1 sessão preparatória online  
 📍 **Serra da Freita e Pedra Má (Oliveira de Azeméis)**  
 
 ## 👨‍🏫 Formadores  
