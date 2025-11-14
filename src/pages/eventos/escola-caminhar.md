@@ -12,3 +12,7 @@ dates:
   - 2025-11-30
 category: socios
 ---
+
+# 29 e 30 Novembro
+Local: Serra da Estrela
+Caminhada em Autonomia

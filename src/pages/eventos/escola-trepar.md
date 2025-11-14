@@ -19,3 +19,4 @@ category: socios
 
 Para praticar a modalidade acompanhados por um técnico da Escola e conhecer novos locais
 <p> Escalada Deportiva</p>
+
