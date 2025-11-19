@@ -8,4 +8,16 @@ dates:
 
 category: institucional
 ---
-Dia de Convivio na Sede da Associação 
+## 🎄 Convívio de Natal — Almoço Tardio
+
+Tragam **sobremesas** e **bebidas alusivas à época natalícia**.  
+A **Associação** prepara o tacho principal!
+
+Vamos convidar as pessoas da Aldeia para vir provar as nossas doçarias!
+
+### 🧗‍♂️ Atividades
+- Tragam **crashpads** para escalarmos os blocos da sede  
+- Restantes atividades de montanha informais  
+- Possibilidade de **estadia na associação** para quem quiser ficar até mais tarde
+
+🎅🎄🎁
