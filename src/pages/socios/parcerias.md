@@ -24,7 +24,7 @@ order: 2
 ![logo](../../assets/images/nem.png)
 [Nucelo de Montanha de Espinho](https://montanha.org/)
 
-![logo](../../assets/images/guarda.png)
+![logo](../../assets/images/safe.png)
 [Safe](https://safe-climbing.org/home/)
 
 ![logo](../../assets/images/zone.png)
