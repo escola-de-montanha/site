@@ -6,15 +6,16 @@ order: 2
 ---
 # PARCERIAS 
 
+![logo](../../assets/images/guarda.png)
 [Clube de Montanhismo da Guarda](https://www.montanhismo-guarda.pt/portal/)
 
-
+![logo](../../assets/images/guarda.png)
 [Coimbra Climbing](https://www.instagram.com/coimbraclimbing/)
 
-
+![logo](../../assets/images/guarda.png)
 [Espeleo Club Descenso de Cañones - Portugal](http://ecdcportugal.com/)
 
-
+![logo](../../assets/images/guarda.png)
 [Grupo de Espeleologia e Montanhismo](https://gem.pt/1/)
 
 
