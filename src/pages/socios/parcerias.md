@@ -35,7 +35,7 @@ order: 2
 ![logo](../../assets/images/guarda.png)
 [Arouca Geopark](https://aroucageopark.pt/)
 
-![logo](../../assets/images/guarda.png)
+![logo](../../assets/images/arouca.png)
 [Municipio de Arouca](https://www.cm-arouca.pt/)
 
 ![logo](../../assets/images/fcmp.png)
