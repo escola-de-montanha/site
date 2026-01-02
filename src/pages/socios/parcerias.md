@@ -11,7 +11,7 @@ order: 2
 ![logo](../../assets/images/guarda.png)
 [Espeleo Club Descenso de Cañones - Portugal](http://ecdcportugal.com/)
 
-![logo](../../assets/images/guarda.png)
+![logo](../../assets/images/gem.png)
 [Grupo de Espeleologia e Montanhismo](https://gem.pt/1/)
 
 ![logo](../../assets/images/guarda.png)
