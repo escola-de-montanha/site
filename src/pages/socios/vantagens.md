@@ -14,5 +14,5 @@ order: 1
 
 - Participar nas atividades dos nossos parceiros como associado
 
-- Ativação de [seguro](../assets/pdfs/segurosaem.pdf) com as nossas filiações
+- Ativação de [seguro](../../assets/pdfs/segurosaem.pdf) com as nossas filiações
 
