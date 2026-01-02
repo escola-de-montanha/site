@@ -32,7 +32,7 @@ order: 2
 
 
 # FILIAÇÕES
-![logo](../../assets/images/guarda.png)
+![logo](../../assets/images/geo.png)
 [Arouca Geopark](https://aroucageopark.pt/)
 
 ![logo](../../assets/images/arouca.png)
