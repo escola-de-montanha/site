@@ -8,7 +8,8 @@ order: 2
 
 ![logo](../../assets/images/guarda.png)
 [Clube de Montanhismo da Guarda](https://www.montanhismo-guarda.pt/portal/)
-![logo](../../assets/images/guarda.png)
+
+![logo](../../assets/images/ecdc.png)
 [Espeleo Club Descenso de Cañones - Portugal](http://ecdcportugal.com/)
 
 ![logo](../../assets/images/gem.png)
@@ -17,16 +18,16 @@ order: 2
 ![logo](../../assets/images/guarda.png)
 [Gomes & Canoso](https://gomesecanoso.pt/)
 
-![logo](../../assets/images/guarda.png)
+![logo](../../assets/images/ica.png)
 [International Canyoning Academy](https://www.ica-canyoning.org/pt/)
 
-![logo](../../assets/images/guarda.png)
+![logo](../../assets/images/nem.png)
 [Nucelo de Montanha de Espinho](https://montanha.org/)
 
 ![logo](../../assets/images/guarda.png)
 [Safe](https://safe-climbing.org/home/)
 
-![logo](../../assets/images/guarda.png)
+![logo](../../assets/images/zone.png)
 [Zone Climb](https://zone.com.pt/climb/)
 
 
@@ -37,10 +38,10 @@ order: 2
 ![logo](../../assets/images/guarda.png)
 [Municipio de Arouca](https://www.cm-arouca.pt/)
 
-![logo](../../assets/images/guarda.png)
+![logo](../../assets/images/fcmp.png)
 [Federação de Campismo e Montanhismo de Portugal](https://www.fcmportugal.com/)
 
-![logo](../../assets/images/guarda.png)
+![logo](../../assets/images/fpme.png)
 [Federação Portuguesa de Escalada de Competição](https://www.fpme.org/webpu/)
 
 
