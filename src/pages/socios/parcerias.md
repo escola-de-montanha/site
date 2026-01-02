@@ -15,7 +15,7 @@ order: 2
 ![logo](../../assets/images/gem.png)
 [Grupo de Espeleologia e Montanhismo](https://gem.pt/1/)
 
-![logo](../../assets/images/guarda.png)
+![logo](../../assets/images/gomes.png)
 [Gomes & Canoso](https://gomesecanoso.pt/)
 
 ![logo](../../assets/images/ica.png)
