@@ -7,49 +7,27 @@ order: 1
 ![Quid tamen](../../assets/images/jp-galayos.jpeg)
 
 
-A **“Escola de Montanha”** é uma associação que tem como fim a Formação Desportiva,
-Formação Profissional, Treino Desportivo, Organização de Atividades Desportivas,
-Organização de Eventos, Educação ambiental, Informação Turística, Animação Turística,
-Publicações e Investigação Científica.
+# Associação Escola de Montanha
 
- ## A Associação Escola de Montanha pretende:
- 
-a) Promover boas práticas de segurança em atividades desportivas de montanha,
-com foco prioritário na caminhada, montanhismo, alpinismo, todas as formas de
-escalada e canyoning, tendo abertura para outras atividades desportivas de montanha,
-tais como corridas de montanha, trail, orientação, canoagem, parapente, rafting, BTT,
-espeleologia, entre outras.
+## **Boas práticas... em bom ambiente!**
 
-b) Formar praticantes e técnicos das atividades desportivas de montanha
-anteriormente referidas.
+A Escola de Montanha é uma associação sem fins lucrativos criada em 2019 por 11 sócios-fundadores, com sede em Albergaria da Serra, na Serra da Freita, Arouca.
 
-c) Promover atividades de iniciação, prática e treino de aperfeiçoamento para os
-seus associados.
+Tem por objetivo promover o potencial da região para atividades de natureza, com foco na formação de praticantes e técnicos em montanhismo, escalada, canyoning e alpinismo. 
 
-d) Dinamizar áreas de formação de carácter não desportivo, tais como primeiros
-socorros, educação ambiental, percursos interpretados de natureza, campos de férias,
-entre outras.
+Até à data, mais de 250 praticantes e simpatizantes se associaram às nossas atividades, apoiados por uma equipa com mais de 20 técnicos que dinamizam cursos, atividades, estágios, expedições, palestras online e eventos mutidesportivos. 
 
-e) Organizar eventos lúdicos e competitivos, abertos à comunidade, com o fim da
-divulgação e promoção das atividades que desenvolve.
+Sempre que possível, também enveredámos por temas de interesse como primeiros socorros, meteorologia, educação ambiental e interpretação do território, entre outros.
 
-f) Preparar e apoiar associados para participação em eventos e competições.
+Trabalhamos em parceria com a Câmara Municipal de Arouca, Arouca Geoparque, Federações de Escalada e Montanismo e outras associações.
 
-g) Fazer publicações de modo a difundir informação sobre cuidados de segurança
-em montanha, preservação de património natural e promoção de boas práticas
-ambientais, desenvolvendo, se necessário, projetos editoriais.
+### **Valores e premissas:**
 
-h) Associar-se, filiar-se ou colaborar com associações congéneres e outras
-entidades municipais, de ensino e federativas, com objetivos e estratégias comuns.
+Boas práticas de segurança: formação, rigor e vigilância.
 
-i) Cooperar com entidades locais, nacionais e internacionais para a prossecução
-dos fins da associação.
+Boas práticas ambientais: respeito, sustentabilidade, educação.
 
-
-
-
-
-
+Bom ambiente: comunidade, crescimento e amizade.
 
 
 ![Quid tamen](../../assets/images/material.jpg)
