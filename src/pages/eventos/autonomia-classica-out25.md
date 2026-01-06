@@ -21,7 +21,7 @@ category: escalada
 📍 **Sede da Escola de Montanha, em Albergaria da Serra**  
 🏔 **Serras da Freita e São Macário**  
 
-💻 **Inclui 1 aula online** *(horário pós-laboral, em dia a combinar)*  
+💻 **Inclui aulas online** *(horário pós-laboral, em dia a combinar)*  
 
 ---
 
