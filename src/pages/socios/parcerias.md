@@ -6,8 +6,7 @@ order: 2
 ---
 # PARCERIAS 
 
-![logo](../../assets/images/guarda.png)
-![logo](../../assets/images/ecdc.png)
+![logo](../../assets/images/guarda.png)![logo](../../assets/images/ecdc.png)
 ![logo](../../assets/images/gem.png)
 ![logo](../../assets/images/gomes.png)
 ![logo](../../assets/images/ica.png)
