@@ -41,6 +41,7 @@ order: 2
 ![logo](../../assets/images/fcmp.png)
 [Federação de Campismo e Montanhismo de Portugal](https://www.fcmportugal.com/)
 
+![logo](../../assets/images/fpme.png)
 [Federação Portuguesa de Escalada de Competição](https://www.fpme.org/webpu/)
 
 
