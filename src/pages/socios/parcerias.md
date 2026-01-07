@@ -6,7 +6,7 @@ order: 2
 ---
 # PARCERIAS 
 
-![logo](../../assets/images/guarda.png)
+## ![logo](../../assets/images/guarda.png)
 [Clube de Montanhismo da Guarda](https://www.montanhismo-guarda.pt/portal/)
 
 ![logo](../../assets/images/ecdc.png)
