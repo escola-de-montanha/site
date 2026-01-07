@@ -3,18 +3,17 @@ layout: ../../layouts/CalendarMdLayout.astro
 title: Técnico N1 Escalada
 shortTitle: Técnicao N1 Escalada
 dates: 
-  - 2025-04-18
-  - 2025-04-19
-  - 2025-04-20
-  - 2025-04-25
-  - 2025-04-26
-  - 2025-04-27
-  - 2025-05-03
-  - 2025-05-04
-  - 2025-05-10
-  - 2025-05-11
+  - 2026-09-12
+  - 2026-09-13
+  - 2026-09-19
+  - 2026-09-20
+  - 2026-10-10
+  - 2026-10-11
+  - 2026-10-17
+  - 2026-10-18
+  - 2026-10-31
+  - 2026-11-01
   
-
 category: escalada
 ---
 
@@ -23,11 +22,8 @@ category: escalada
 ### 100h de formação presencial e online 
 #### Data | Local
 
-
- - 18, 19 e 20 Abril : Caramulo, Penacova e Serra de Sicó
- - 25, 26 e 27 de abril: Penha Garcia, Escusa e Puerto Roque
- - 3 e 4 de maio: Barragem de Santa Luzia e Oleiros
- - 10 e 11 de maio: Serra da Freita e Pedra Má
+A definir
+ 
  - Mais  10  sessões online, em período pós laboral em dias a definir.
 <p> 
 Sede da Escola de Montanha, em Albergaria da Serra – Arouca, Serra da Freita <br>
@@ -65,8 +61,8 @@ Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
 </p>
 
 #### Custo:
-- Associados AEM: 500€
-- Não sócios: 750€
+- Associados AEM: €
+- Não sócios: €
 - Reciclagem do curso para técnicos nivel 1: 25€/dia
 - Desconto de 5€/dia para associados com seguro
 
@@ -89,8 +85,8 @@ Equipamento completo por um valor de 15€/dia
 </p>
 
 #### Inscrições:
-Até dia 10 de Abril 2025
-[INSCRIÇÃO](https://docs.google.com/forms/d/15DbE8h3Q7ANgciet3hsE3XkMDUC-8uULVMNRBVsJN3Y/viewform?edit_requested=true)
+Até 10 dias antes
+[INSCRIÇÃO](link)
 
 #### Pagamento
 Por transferência bancária: **IBAN:PT50 0033 0000 45589654875 05**
