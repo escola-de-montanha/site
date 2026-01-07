@@ -16,22 +16,19 @@ Encontro de abertura de atividades para a temporada que se segue! Na Serra de Si
 
 #### Sábado:
 - 9h - Secretariado.
-- 10h Início de atividades.
+- 10h Início de atividades:
   - Prática de escalada: Autónomos e Iniciados.
   - Caminhada guiada no Vale de Poios.
 - 17h - Aula de Ioga, em local a combinar.
 - 18h - Partilha gastronómica (cada um traz e partilha).
-* Item 2b
-    * Item 3a
-    * Item 3b
+
 #### Domingo:
 - 8h - Aula de Ioga.
 - 9h - Secretariado.
-- 9h30m  Início de atividades.
-Prática de escalada: Autónomos e Iniciados.
-Experiencia de Escalada (máximo 6 participantes)
-dois turnos: 9h30-12h30 e 14h-17h.
-Caminhada guiada nas Buracas do Casmilo.
+- 9h30m  Início de atividades:
+  - Prática de escalada: Autónomos e Iniciados.
+  - Experiencia de Escalada (máximo 6 participantes) dois turnos: 9h30-12h30 e 14h-17h.
+  - Caminhada guiada nas Buracas do Casmilo.
 - 17h Encerramento
 
 
