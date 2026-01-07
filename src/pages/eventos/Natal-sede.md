@@ -1,11 +1,9 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Natal na Sede 2025
+title: Natal na Sede 2026
 shortTitle: Natal na Sede
 dates: 
-  - 2025-12-13
-  - 2025-12-14
-
+  - 2026-12-20
 category: institucional
 ---
 ## 🎄 Convívio de Natal — Almoço Tardio
