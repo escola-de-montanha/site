@@ -17,11 +17,13 @@ Encontro de abertura de atividades para a temporada que se segue! Na Serra de Si
 #### Sábado:
 - 9h - Secretariado.
 - 10h Início de atividades.
-Prática de escalada: Autónomos e Iniciados.
-Caminhada guiada no Vale de Poios.
+  - Prática de escalada: Autónomos e Iniciados.
+  - Caminhada guiada no Vale de Poios.
 - 17h - Aula de Ioga, em local a combinar.
 - 18h - Partilha gastronómica (cada um traz e partilha).
-
+* Item 2b
+    * Item 3a
+    * Item 3b
 #### Domingo:
 - 8h - Aula de Ioga.
 - 9h - Secretariado.
