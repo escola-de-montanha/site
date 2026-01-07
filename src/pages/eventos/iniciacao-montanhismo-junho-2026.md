@@ -4,7 +4,7 @@ title: Iniciação ao Montahismo
 shortTitle: Iniciação ao Montanhismo
 dates: 
   - 2026-07-27
-  - 2026-08-28  
+  - 2026-07-28  
 category: montanhismo
 ---
 # 🏔️ Curso de MONTANHISMO (Iniciação)  
