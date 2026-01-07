@@ -1,19 +1,19 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Estágio Galayos Outubro 2025
-shortTitle: Galayos Outubro 2025
+title: Estágio Galayos Outubro 2026
+shortTitle: Galayos Outubro 2026
 dates: 
-- 2025-10-25
-- 2025-10-26
-- 2025-10-27
-- 2025-10-28
+- 2026-10-03
+- 2026-10-04
+- 2026-10-05
+
 
 category: multi 
 ---
 
 ## Estágio de Escalada e Montanhismo nos Galayos
 ## Projeto GRANDES PAREDES
-# Galayos 2025
+# Galayos 2026
 ### Estágio de escalada clássica
 
 ![Galayos](../../assets/images/jp-galayos.jpeg)
@@ -31,7 +31,7 @@ Esse acompanhamento será feito em atividades a combinar entre o técnico e os p
 
 ##### **Data:**
 - Fase preparatória: diversas atividades em datas a propor pelo técnico e participantes
-- Fase final: 25 a 28 de outubro + 1 sessão preparatória online
+- Fase final: ? + 1 sessão preparatória online
 
 ##### **Técnicos:**
 - João Paulo Ferrão, entre outros, se necessário.
@@ -58,25 +58,21 @@ Esse acompanhamento será feito em atividades a combinar entre o técnico e os p
 
 ### Programa da fase final:
 
-**Dia 24 - 6ª feira**
+**Dia 2 - 6ª feira**
 - Viagem: saída de Portugal ao final da tarde ou noite para chegar ao local de madrugada
 
-**Dia 25 - sábado**
+**Dia 3 - sábado**
 - Aproximação ao Torozo
 - Escalada de 1 via de ambientação (Diedro)
 - Viagem para o parque dos Galayos e aproximação ao refúgio
 
-**Dia 26 - domingo**
+**Dia 4 - domingo**
 - Escalada de uma grande via (Torreon, ou Punta Maria Luísa)
 
-**Dia 27 - 2ª feira**
+**Dia 5 - 2ª feira**
 - Escalada de outra grande via (agulha Negra)
 
-**Dia 28 - 3ª feira**
-- Escalada de uma via mais curta
-- Descida e viagem de regresso.
-
-**Dia 29 - opção de regresso na 4ª feira**
+**Dia 6 - opção de regresso na 3ª feira**
 
 
 
@@ -84,11 +80,11 @@ Esse acompanhamento será feito em atividades a combinar entre o técnico e os p
 ### Custos 
 
 ##### **Fase Final:**
-- **100€** associados autónomos na prática de escalada clássica
+- **€** associados autónomos na prática de escalada clássica
 (capazes de liderar uma cordada)
-- **200€** Associados AEM, praticantes de escalada clássica, não autónomos
+- **€** Associados AEM, praticantes de escalada clássica, não autónomos
 (habituados a escalar em segundo de cordada)
-- **300€** para não associados (autónomos ou não)
+- **€** para não associados (autónomos ou não)
 
 *na adesão ao projeto, pagam com 50% deste valor, reembolsável (25%)
 em caso de não participar na atividade final.*
@@ -100,8 +96,8 @@ em caso de não participar na atividade final.*
 
 
 ##### **Fase de preparação:**
-- 30€/dia associados
-- 45€/dia não associados
+- €/dia associados
+- €/dia não associados
 - Rácio máximo de 1 técnico para 4 participantes
 
 
@@ -121,8 +117,8 @@ em caso de não participar na atividade final.*
 Em regime facultativo, disponibilizamos a aluguer de equipamento individual, pelo valor total de 25€ ou 5€ por equipamento necessário, pagos no dia ao formador.
 
 #### Inscrições 
-Até dia 30 de junho 2025
-[INSCRIÇÃO](https://docs.google.com/forms/d/15DbE8h3Q7ANgciet3hsE3XkMDUC-8uULVMNRBVsJN3Y/viewform?edit_requested=true)
+Até dia 
+[INSCRIÇÃO](link)
 
 #### Pagamento
 Por transferência bancária: **IBAN:PT50 0033 0000 45589654875 05**
