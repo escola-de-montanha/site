@@ -3,38 +3,39 @@ layout: ../../layouts/CalendarMdLayout.astro
 title: Técnico N1 Montanhismo - Guia de Percursos Pedestres
 shortTitle: Técnicao N1 Montanha
 dates: 
-  - 2025-10-11
-  - 2025-10-12
-  - 2025-11-01
-  - 2025-11-02
-  - 2025-11-15
-  - 2025-11-16
-  - 2025-11-22
-  - 2025-11-23
-  - 2025-11-29
-  - 2025-11-30
+  - 2026-10-24
+  - 2026-10-25
+  - 2026-10-31
+  - 2026-11-01
+  - 2026-11-14
+  - 2026-11-15
+  - 2026-11-21
+  - 2026-11-22
+  - 2026-11-28
+  - 2026-11-29
   
 
 category: montanhismo
 ---
 ## Técnico de Montanha Nível 1
-# Guia de Percursos Pedestres 2025
+# Guia de Percursos Pedestres 2026
 ### 100h de formação presencial e online 
 #### Data | Local
 
 
- - 11 e 12 Outubro
- - 01 e 02 Novembro
- - 15 e 16 Novembro
- - 22 e 23 Novembro
- - 29 e 30 Novembro
+ - 24 e 25 Outubro
+ - 31 de Outubro
+ - 01 Novembro
+ - 14 e 15 Novembro
+ - 21 e 22 Novembro
+ - 28 e 29 Novembro
 <p> 
 Sede da Escola de Montanha, em Albergaria da Serra – Arouca, Serra da Freita <br>
 Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
 </p>
 
 #### Formadores: 
- Bruno Silva 
+ **Bruno Silva** 
  
  
 #### Objetivos: 
@@ -55,8 +56,8 @@ Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
 </p>
 
 #### Custo:
-- Associados AEM: 400€
-- Não sócios: 600€
+- Associados AEM: €
+- Não sócios: €
 - Reciclagem do curso para associados que queiram repetir sessões: 20€/dia
 
 <p>
@@ -81,8 +82,8 @@ Possibilidade de pernoita na sede, em chão duro*
 - Proximidade Regional
 
 #### Inscrições:
-Até dia 21 de outubro 2025
-[INSCRIÇÃO](https://docs.google.com/forms/d/15DbE8h3Q7ANgciet3hsE3XkMDUC-8uULVMNRBVsJN3Y/viewform?edit_requested=true)
+Até dia 20 de Setembro 2026
+[INSCRIÇÃO]()
 
 #### Pagamento
 Por transferência bancária: **IBAN:PT50 0033 0000 45589654875 05**
@@ -90,14 +91,3 @@ Por transferência bancária: **IBAN:PT50 0033 0000 45589654875 05**
 Por MBWAY: **911 843 936**
 
 ***
-
-
-##### Formador:
-Bruno Silva
-- Licenciado em Educação Física e Desporto, Piaget;
-- CCP de Formador;
-- Título Profissional de Treinador de Desporto na área de Montanhismo;
-- Guia de Canyoning - ICA;
-- Técnico da Escola de Montanha, nas áreas de Montanhismo, Canyoning e Escalada;
-- CEO e Guia da Empresa de Animação e Agência de turismo, Rebeldes & Nómadas, Lda;
-- Professor de escalada no Núcleo De Montanha de Espinho;

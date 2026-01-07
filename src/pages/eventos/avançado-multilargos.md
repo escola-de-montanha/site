@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Escalada Multilargos
-shortTitle: Escalada Multilargos
+title: Escalada Multilargos Julho 2026
+shortTitle: Curso Escalada Multilargos
 dates: 
-  - 2025-06-28
-  - 2025-06-29
+  - 2026-07-18
+  - 2026-07-19
 category: escalada
 ---
 
@@ -14,12 +14,12 @@ category: escalada
 *(Presencial e Online)*  
 
 ## 📍 Data e Local  
-📅 **28 | 29 de junho** + 1 sessão preparatória online  
+📅 **18 | 19 de junho** + 1 sessão preparatória online  
 📍 **Oleiros e Pampilhosa da Serra**  
 
 ## 👨‍🏫 Formadores  
-- **João Paulo Lopes**  
-- **Hugo Carvalho**  
+- **A definir**  
+
 
 ## 🎯 Objetivos  
 - Habilitar à prática de escalada de vias equipadas de vários largos  
@@ -43,8 +43,8 @@ category: escalada
 🖥 **Aula online:** às 21h, na semana anterior *(dia a definir)*  
 
 ## 💰 Custo  
-- **Associados AEM:** 120€ *(aplica-se a membros das entidades parceiras)*  
-- **Não sócios:** 180€  
+- **Associados AEM:** € *(aplica-se a membros das entidades parceiras)*  
+- **Não sócios:** €  
 - **Reciclagem do curso para associados:** 30€/dia  
 
 ### ✅ Inclui  

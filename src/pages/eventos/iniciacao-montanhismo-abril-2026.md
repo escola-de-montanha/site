@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Iniciação ao Montahismo 
+title: Iniciação ao Montahismo Abril 2026
 shortTitle: Iniciação ao Montanhismo
 dates: 
   - 2026-04-18
@@ -13,7 +13,7 @@ category: montanhismo
 ---
 
 ## 📅 Data e Local  
-📅 **18|19 de abril**  
+📅 **27|28 de Julho**  
 📍 **Serra da Freita**  
 
 💻 **Inclui 1 sessão online preparatória** *(horário a definir na semana anterior)*  
@@ -93,4 +93,4 @@ IBAN: **PT50 0033 0000 45589654875 05**
 
 📲 **MBWAY:** 911 843 936  
 
-📌 *Referir o nome e a atividade no comprovativo de pagamento*  
+📌 *Referir o nome e a atividade no comprovativo de pagamento* 

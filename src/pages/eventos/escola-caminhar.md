@@ -1,18 +1,15 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Escola a Caminhar
-shortTitle: Escola a Caminhar
+title: Escola a Caminhar Gredos
+shortTitle: Gredos
 dates: 
-  - 2025-03-22
-  - 2025-03-23
-  - 2025-04-25
-  - 2025-04-26
-  - 2025-04-27
-  - 2025-11-29
-  - 2025-11-30
-category: socios
+  - 2026-10-03
+  - 2026-10-04
+  - 2026-10-05
+
+category: montanhismo
 ---
 
-# 29 e 30 Novembro
-Local: Serra da Estrela
+# 03 e 05 Outubro
+Local: Serra de Gredos
 Caminhada em Autonomia

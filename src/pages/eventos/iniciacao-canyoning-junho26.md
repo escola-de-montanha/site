@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Iniciação ao Canyioning 
+title: Iniciação ao Canyioning Junho
 shortTitle: Iniciação ao Canyoning
 dates: 
-  - 2025-07-19
-  - 2025-07-20
+  - 2026-06-20
+  - 2026-06-21
 category: canyoning
 ---
 # 🌊 Curso de CANYONING  
@@ -14,7 +14,7 @@ category: canyoning
 ---
 
 ## 📅 Data e Local  
-📅 **19|20 de julho**  
+📅 **20|21 de junho**  
 📍 **Serras da Freita e Arada**  
 
 💻 **Inclui 1 sessão online preparatória** *(horário a definir na semana anterior)*  
@@ -50,8 +50,8 @@ category: canyoning
 ---
 
 ## 💰 Custo  
-- **Associados AEM:** 120€ *(aplica-se este valor a membros das entidades parceiras)*  
-- **Não sócios:** 180€  
+- **Associados AEM:** € *(aplica-se este valor a membros das entidades parceiras)*  
+- **Não sócios:** €  
 - **Reciclagem do curso para associados:** 25€/dia *(não inclui EPI)*  
 
 ### ✅ Inclui  

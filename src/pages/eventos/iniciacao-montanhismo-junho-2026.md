@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Iniciação ao Montahismo 
+title: Iniciação ao Montahismo Junho 2026
 shortTitle: Iniciação ao Montanhismo
 dates: 
-  - 2026-07-27
-  - 2026-07-28  
+  - 2026-06-27
+  - 2026-06-28  
 category: montanhismo
 ---
 # 🏔️ Curso de MONTANHISMO (Iniciação)  
