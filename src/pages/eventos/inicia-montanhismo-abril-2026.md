@@ -3,8 +3,8 @@ layout: ../../layouts/CalendarMdLayout.astro
 title: Iniciação ao Montahismo 
 shortTitle: Iniciação ao Montanhismo
 dates: 
-  - 2025-04-18
-  - 2025-04-19  
+  - 2026-04-18
+  - 2026-04-19  
 category: montanhismo
 ---
 # 🏔️ Curso de MONTANHISMO (Iniciação)  
