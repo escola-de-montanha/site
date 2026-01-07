@@ -41,12 +41,12 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
 
 | Atividade     | Segunda 25   | Terça 26 | Quarta 27   | Quinta 28 | Sexta 29 | Sábado 30 | Domingo 31  |
 |--------------|------------------|----------------|----------------|----------------|----------------|-----------|----------|
-| **Canyoning** | Dia de Recepção | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning e Experiência | Experiência | |
-| **Montanhismo** | Dia de Recepção | Montanhismo Semiautonomia | Montanhismo Semiautonomia | Montanhismo Semiautonomia | | | |
-| **Caminhada** | Dia de Recepção | | | | | Caminhada | Caminhada
-| **Escalada** | Dia de Recepção | | | Escalada Autónoma | Escalada Autónoma | Escalada Autónoma| |
-| **Mergulho** | Dia de Recepção | | | | Batismo Mergulho | |
-| **Parapente** | Dia de Recepção | | | | Batismo Parapente | Batismo Parapente |
+| **Canyoning** | | | | | | | | |
+| **Montanhismo** | | | | | | | | |
+| **Caminhada** | | | | | | | | |
+| **Escalada** | | | | | | | | |
+| **Mergulho** | | | | | | | | |
+| **Parapente** | | | | | | | | |
 
 ### Atividades Detalhadas
 
@@ -62,16 +62,13 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
   - Local a definir conforme condições meteorológicas e grupo
 
 - **Montanhismo Semiautonomia:**
-  - 3 dias e 2 noites (Aprox. 45 km)
-  - Planalto da Madeira, Loural e Vereda da Encumeada
+  - A definir
 
 - **Caminhada:**
-  - Caldeirão Verde
-  - Ponta de São Lourenço
-  - Outros locais
+  - Local a definir
 
 - **Batismo de Mergulho:**
-  - Reserva Natural Parcial do Garajau
+  - Local a definir
 
 - **Batismo de Parapente:**
   - Local a definir
@@ -107,31 +104,31 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
 
 ## Custos de Inscrição
 
-### **Dias 26 de Maio e 1 de Junho**
-- **Associado:** 30€  
-- **Entidade Parceira:** 30€  
-- **Não Associado:** 45€  
-- **Seguro de atividade:** +5€  
+### **Dias**
+- **Associado:** €  
+- **Entidade Parceira:** €  
+- **Não Associado:** €  
+- **Seguro de atividade:** €  
 
-### **Dias 27, 28, 29, 30 e 31 de Maio** 
-- **Associado:** 45€  
-- **Entidade Parceira:** 45€  
-- **Não Associado:** 65€  
-- **Seguro de atividade:** +5€  
+### **Dias  Maio** 
+- **Associado:** €  
+- **Entidade Parceira:** €  
+- **Não Associado:** €  
+- **Seguro de atividade:** €  
 
 ### **Batismos**
-- **Batismo Mergulho:** 80€  
-- **Batismo Parapente:** 130€  
+- **Batismo Mergulho:** €  
+- **Batismo Parapente:** €  
 
 | Dia | Associado | Não Associado |
 |-----|-----------|--------------|
-| 26 Maio | 30€ | 45€ |
-| 27 Maio | 45€ | 65€ |
-| 28 Maio | 45€ | 65€ |
-| 29 Maio | 45€ | 65€ |
-| 30 Maio | 45€ | 65€ |
-| 31 Maio | 45€ | 65€ |
-| 1 Junho | 30€ | 45€ |
+| 25 Maio | € | € |
+| 26 Maio | € | € |
+| 27 Maio | € | € |
+| 28 Maio | € | € |
+| 29 Maio | € | € |
+| 30 Maio | € | € |
+| 31 Maio | € | € |
 
 ## Condições de Inscrição
 - Limite de **7 participantes** por atividade
@@ -169,5 +166,5 @@ Os casos omissos neste documento serão resolvidos pela organização do evento.
 Todos os participantes deverão assinar um termo de responsabilidade, confirmando conhecimento e concordância com as condições de participação.
 
 ## Inscrições
-- **Até dia 19 de Maio de 2025**, através do [formulário](https://docs.google.com/forms/d/e/1FAIpQLSe2xuDwKaLq95CnaPXz2HrDsPmEkca54sG87XC2YEDiKd39NA/viewform)
+- **Até dia 18 de Maio de 2026**, através do [formulário]()
 - **Pagamento por transferência bancária:**   IBAN: **PT50 0033 0000 45589654875 05**
