@@ -15,7 +15,7 @@ order: 2
 ![logo](../../assets/images/zone.png)
 
 # FILIAÇÕES
-![logo](../../assets/images/geo.png)
+![logo](../../assets/images/geo.png)![logo](../../assets/images/fpme.png)
 ![logo](../../assets/images/arouca.png)
 ![logo](../../assets/images/fcmp.png)
 ![logo](../../assets/images/fpme.png)
