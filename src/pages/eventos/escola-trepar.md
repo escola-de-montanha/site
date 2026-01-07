@@ -1,11 +1,12 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Escola a Trepar
-shortTitle: Escola a Trepar
+title: Escola a Trepar (Castelo Vide)
+shortTitle: Escola a Trepar Castelo Vide
 dates: 
-  - -03-22
+  - 2026-04-25
+  - 2026-04-26
   
-category: socios
+category: escalada
 ---
 
 Para praticar a modalidade acompanhados por um técnico da Escola e conhecer novos locais

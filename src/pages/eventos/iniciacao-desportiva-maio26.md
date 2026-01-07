@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Iniciação à Escalada Desportiva Maio 2025
+title: Iniciação à Escalada Desportiva Maio 2026
 shortTitle: Iniciação à Escalada Desportiva
 dates: 
-  - 2025-05-17
-  - 2025-05-18
+  - 2026-05-09
+  - 2026-05-10
 
 category: escalada
 ---
@@ -13,11 +13,10 @@ category: escalada
 *(Presencial e Online)*  
 
 ## 📍 Data e Local  
-📅 **17 | 18 de maio** + 1 sessão preparatória online  
+📅 **09 | 10 de maio** + 1 sessão preparatória online  
 📍 **Serra da Freita e Pedra Má (Oliveira de Azeméis)**  
 
 ## 👨‍🏫 Formadores  
-- **Eduardo Ventura**  
 - **JP Lopes**  
 
 ## 🎯 Objetivos  
@@ -40,8 +39,8 @@ category: escalada
 🖥 **Aula online:** às 21h, na semana anterior *(dia a definir)*  
 
 ## 💰 Custo  
-- **Associados AEM e membros de entidades parceiras:** 120€  
-- **Não sócios:** 180€  
+- **Associados AEM e membros de entidades parceiras:** €  
+- **Não sócios:** €  
 - **Reciclagem do curso para associados:** 30€/dia  
 
 ### ✅ Inclui  
@@ -79,7 +78,7 @@ category: escalada
 📌 **Preenchimento do formulário** *(link a ser fornecido)*  
 
 ## 💳 Pagamento  
-💰 **Transferência bancária**:  
+**Transferência bancária**:  
 IBAN: **PT50 0033 0000 45589654875 05**  
 
-💰 MBWAY: **911 843 936**  
+MBWAY: **911 843 936**  

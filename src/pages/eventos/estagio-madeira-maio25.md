@@ -1,15 +1,15 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Estágio Madeira 2025
-shortTitle: Estagio Madeira 2025
+title: Estágio Madeira 2026
+shortTitle: Estagio Madeira 2026
 dates: 
-  - 2025-05-26
-  - 2025-05-27
-  - 2025-05-28
-  - 2025-05-29
-  - 2025-05-30
-  - 2025-05-31
-  - 2025-06-01
+  - 2026-05-25
+  - 2026-05-26
+  - 2026-05-27
+  - 2026-05-28
+  - 2026-05-29
+  - 2026-05-30
+  - 2026-06-31
   
   
 
@@ -19,8 +19,8 @@ category: multi
 # Estágio Multiatividades - Madeira Vertical
 
 ## Montanhismo, Caminhadas, Escalada, Canyoning, Parapente e Mergulho
-### 26 de maio a 1 de junho
-### [INSCRIÇÃO](https://docs.google.com/forms/d/e/1FAIpQLSe2xuDwKaLq95CnaPXz2HrDsPmEkca54sG87XC2YEDiKd39NA/viewform)
+### 25 de maio a 31 de Maio
+### [INSCRIÇÃO](lonk)
 
 ## Contextualização
 Uma ilha portuguesa no meio do Atlântico com enorme potencial para atividades de montanha e sabores únicos para descobrir.
@@ -29,8 +29,8 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
 
 ### Técnicos
 - **Montanhismo e Caminhada** - João Miranda  
-- **Escalada** - JP Lopes  
-- **Canyoning** - Miguel Monteiro e Ivone  
+- **Escalada** -   
+- **Canyoning** -   
 
 ### Objetivos
 - Reunir associados num estágio multiatividades
@@ -39,7 +39,7 @@ Um grupo irá realizar um estágio de até 4 dias de Canyoning no coração da M
 
 ## Programa
 
-| Atividade     | Segunda 26   | Terça 27 | Quarta 28   | Quinta 29 | Sexta 30 | Sábado 31 | Domingo 1  |
+| Atividade     | Segunda 25   | Terça 26 | Quarta 27   | Quinta 28 | Sexta 29 | Sábado 30 | Domingo 31  |
 |--------------|------------------|----------------|----------------|----------------|----------------|-----------|----------|
 | **Canyoning** | Dia de Recepção | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning | Estágio Canyoning e Experiência | Experiência | |
 | **Montanhismo** | Dia de Recepção | Montanhismo Semiautonomia | Montanhismo Semiautonomia | Montanhismo Semiautonomia | | | |
