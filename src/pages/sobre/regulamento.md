@@ -5,4 +5,4 @@ title: 'Regulamento'
 order: 4
 ---
 
-[link regulamenty](../../assets/pdfs/exemplo.pdf)
+Brevemente

@@ -5,6 +5,8 @@ title: 'Geral'
 order: 5
 ---
 # Formação Geral
-![Escalador](../../assets/images/escalada4.jpg)
 
-Curso de Socorrismo
+
+## Curso de Socorrismo 
+
+[Curso de Socorrismo](https://escolademontanha.com/eventos/socorrismo26-1/)
