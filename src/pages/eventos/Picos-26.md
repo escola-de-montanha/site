@@ -2,7 +2,7 @@
 layout: ../../layouts/CalendarMdLayout.astro
 title: Estágio Picos de Europa 2026
 shortTitle: Picos de Europa 2026
-date: 
+dates: 
 - 2026-06-10
 - 2026-06-11
 - 2026-06-12

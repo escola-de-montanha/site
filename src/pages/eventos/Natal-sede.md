@@ -2,7 +2,7 @@
 layout: ../../layouts/CalendarMdLayout.astro
 title: Natal na Sede 2026
 shortTitle: Natal na Sede
-dates: 
+date: 
   - 2026-12-20
 category: institucional
 ---

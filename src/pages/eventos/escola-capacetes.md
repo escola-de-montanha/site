@@ -3,7 +3,8 @@ layout: ../../layouts/CalendarMdLayout.astro
 title: Escola a molhar Capacetes
 shortTitle: Escola a molhar Capacetes
 dates: 
-  - 2025-09-13
-  - 2025-09-14
-category: socios
+  - 2026-07-11
+  - 2026-07-12
+category: canyoning
 ---
+

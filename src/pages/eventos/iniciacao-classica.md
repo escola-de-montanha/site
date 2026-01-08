@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Iniciação Escalada Clássica
+title: Iniciação Escalada Clássica Julho
 shortTitle: Iniciação Escalada Clássica
 dates: 
-  - 2025-07-19
-  - 2025-07-20
+  - 2026-07-04
+  - 2026-07-05
 category: escalada
 ---
 
@@ -18,8 +18,8 @@ category: escalada
 📍 **Serras da Freita e São Macário**  
 
 ## 👨‍🏫 Formadores  
-- **JP Lopes**  
-- **Hugo Carvalho**  
+- **#**  
+- 
 
 ## 🎯 Objetivos  
 - Introduzir e contextualizar a atividade  
