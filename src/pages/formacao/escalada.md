@@ -25,7 +25,7 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
     - [Equipamento de vias](https://escolademontanha.com/eventos/equiparviar26/)
 #### Clássica
 
-- [Iniciação](https://escolademontanha.com/eventos/iniciacao-classica/)
+- [Iniciação](https://escolademontanha.com/eventos/iniciacao-classica-jul/)
 - [Autonomia](https://escolademontanha.com/eventos/autonomia-cl%C3%A1ssica-2026/)
 
 
