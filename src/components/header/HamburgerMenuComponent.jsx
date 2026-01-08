@@ -21,7 +21,7 @@ export default function HamburgerMenuComponent({socios, sobre, formacao}) {
             {sobre.map(page => <div><a href={page.url}>{page.frontmatter.shortTitle}</a></div>)}
 
             <br/>
-            <div><span className="text-gray-300">formacao</span></div>
+            <div><span className="text-gray-300">Formação</span></div>
             {sobre.map(page => <div><a href={page.url}>{page.frontmatter.shortTitle}</a></div>)}
 
             <br/>
