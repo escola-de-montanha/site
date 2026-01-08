@@ -7,7 +7,7 @@ dates:
   - 2025-10-19
   - 2025-11-01
   - 2025-11-02
-category: escalada
+category: 
 ---
 # Curso de Escalada Desportiva  
 **50h de formação - Nível de Autonomia**  
