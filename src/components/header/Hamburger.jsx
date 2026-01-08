@@ -3,6 +3,7 @@ export default function Hamburger({onClick}) {
         <span class="line"></span>
         <span class="line"></span>
         <span class="line"></span>
+        <span class="line"></span>
     </div>;
 }
 
