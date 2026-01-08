@@ -1,7 +1,7 @@
 import Hamburger, {HamburgerClose} from './Hamburger.jsx'
 import {useState} from "preact/hooks";
 
-export default function HamburgerMenuComponent({socios, sobre}) {
+export default function HamburgerMenuComponent({socios, sobre, formacao}) {
     const [open, setOpen] = useState(false);
 
     return <div className="md:hidden text-lg text-white">

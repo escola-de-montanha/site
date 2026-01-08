@@ -1,0 +1,12 @@
+---
+import {filterAndSortPages} from "../components/header/utils";
+import MdLayout from "./MdLayout.astro";
+
+const {frontmatter} = Astro.props;
+const formacao = filterAndSortPages(import.meta.glob("../pages/formacao/*.md", {eager: true}))
+const crumbs = [{title: 'formacao', url: '/formacao'}]
+---
+
+<MdLayout frontmatter={frontmatter} crumbs={crumbs} related={formacao}>
+    <slot />
+</MdLayout>
