@@ -5,7 +5,7 @@ shortTitle: Escaramular 2026
 dates: 
   - 2026-07-25
   - 2026-07-26
-category: multi
+category: socios
 ---
 
 Serra do Caramulo

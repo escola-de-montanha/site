@@ -5,6 +5,6 @@ shortTitle: Socorrismo em Montanha
 dates: 
   - 2026-11-07
   - 2026-11-08
-category: institucional
+category: socios
 ---
 # CURSO DE SOCORRISMO EM MONTANHA

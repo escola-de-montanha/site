@@ -5,7 +5,7 @@ shortTitle: Sicar 2026
 dates: 
   - 2026-1-24
   - 2026-1-25
-category: multi
+category: socios
 ---
 Encontro de abertura de atividades para a temporada que se segue! Na Serra de Sicó buscamos o sol do Inverno, as paredes de escalada, os trilhos para caminhar. Mas, acima de de tudo, procuramos o convívio e a partilha num cenário de extraordinária beleza natural.
 
