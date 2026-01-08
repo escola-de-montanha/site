@@ -3,8 +3,8 @@ layout: ../../layouts/CalendarMdLayout.astro
 title: Escola a Caminhar Gerês
 shortTitle: Escola a Caminhar Gerês
 dates: 
-  - 2026-12-28
-  - 2026-12-29
+  - 2026-11-28
+  - 2026-11-29
 
 category: montanhismo
 ---
