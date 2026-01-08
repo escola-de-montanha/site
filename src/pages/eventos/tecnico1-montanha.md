@@ -13,8 +13,6 @@ dates:
   - 2026-11-22
   - 2026-11-28
   - 2026-11-29
-  
-
 category: montanhismo
 ---
 ## Técnico de Montanha Nível 1
