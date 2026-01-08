@@ -7,7 +7,7 @@ order: 1
 
 # Formação AEM
 
-## Niveis de Formação para Praticantes
+## Formação para Praticantes
 
 
 | **Nível**     | **Descrição**   | 
@@ -16,7 +16,7 @@ order: 1
 | **2. Autonomia** |Desenvolvimento de competências para praticar com maior independência, sabendo avaliar e gerir riscos em contextos usuais |
 | **3. Aprefeiçoamento** |Consolidação técnica e melhoria de desempenho, com foco em situações mais desafiantes e progressão contínua |	
 
-## Niveis de Formação Técnicos
+## Formação Técnicos
 
 | **Nível**     | **Descrição**   | 
 |----------------------|-------------------------------------------|
