@@ -16,3 +16,5 @@ order: 1
 
 - Ativação de [seguro](../../assets/pdfs/seguros.pdf) com as nossas filiações
 
+- Email: seguros.aemontanha@gmail.com 
+
