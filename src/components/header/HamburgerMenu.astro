@@ -5,5 +5,6 @@ import {filterAndSortPages} from "./utils";
 
 const sobre = filterAndSortPages(import.meta.glob("../../pages/sobre/*.md", {eager: true}))
 const socios = filterAndSortPages(import.meta.glob("../../pages/socios/*.md", {eager: true}))
+const formacao = filterAndSortPages(import.mega.glob("../../pages/formacao/*.md", {eager: true}))
 ---
 <HamburgerMenuComponent client:load sobre={sobre} socios={socios}/>
