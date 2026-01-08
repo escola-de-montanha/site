@@ -16,7 +16,7 @@ order: 1
 | **2. Autonomia** |Desenvolvimento de competências para praticar com maior independência, sabendo avaliar e gerir riscos em contextos usuais |
 | **3. Aprefeiçoamento** |Consolidação técnica e melhoria de desempenho, com foco em situações mais desafiantes e progressão contínua |	
 
-## Formação Técnicos
+## Formação para Técnicos
 
 | **Nível**     | **Descrição**   | 
 |----------------------|-------------------------------------------|
