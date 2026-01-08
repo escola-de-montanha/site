@@ -1,7 +1,7 @@
 import Hamburger, {HamburgerClose} from './Hamburger.jsx'
 import {useState} from "preact/hooks";
 
-export default function HamburgerMenuComponent({socios, sobre, formacao}) {
+export default function HamburgerMenuComponent({socios, formacao, sobre}) {
     const [open, setOpen] = useState(false);
 
     return <div className="md:hidden text-lg text-white">
@@ -17,12 +17,13 @@ export default function HamburgerMenuComponent({socios, sobre, formacao}) {
             {socios.map(page => <div><a href={page.url}>{page.frontmatter.shortTitle}</a></div>)}
 
             <br/>
-            <div><span className="text-gray-300">Associação</span></div>
+            <div><span className="text-gray-300">Formação</span></div>
             {sobre.map(page => <div><a href={page.url}>{page.frontmatter.shortTitle}</a></div>)}
 
             <br/>
-            <div><span className="text-gray-300">Formação</span></div>
+            <div><span className="text-gray-300">Associação</span></div>
             {sobre.map(page => <div><a href={page.url}>{page.frontmatter.shortTitle}</a></div>)}
+
 
             <br/>
         </div>
