@@ -17,20 +17,20 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 
 #### Desportiva
 
-- [Iniciação]()
-- [Autonomia](/)
+- [Iniciação](https://escolademontanha.com/eventos/iniciacao-desportiva-maio26/)
+- Autonomia
 - **Avançado**
-    - [Multi-largos]()
-    - [Aperfeiçoamento Segurança]()
-    - [Equipamento de vias]()
+    - [Multi-largos](https://escolademontanha.com/eventos/avan%C3%A7ado-multilargos/)
+    - [Aperfeiçoamento Segurança](https://escolademontanha.com/eventos/avan%C3%A7ado-seguran%C3%A7aes/)
+    - [Equipamento de vias](https://escolademontanha.com/eventos/equiparviar26/)
 #### Clássica
 
-- [Iniciação]()
-- [Autonomia]()
+- [Iniciação](https://escolademontanha.com/eventos/iniciacao-classica/)
+- [Autonomia](https://escolademontanha.com/eventos/autonomia-cl%C3%A1ssica-2026/)
 
 
 
 ### Técnicos
 
-[Nivel 1]()
+[Nivel 1](https://escolademontanha.com/eventos/tecnico1-escalada/)
 
