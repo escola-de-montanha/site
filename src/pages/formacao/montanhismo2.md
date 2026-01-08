@@ -2,7 +2,7 @@
 layout: ../../layouts/formacaoMdLayout.astro
 shortTitle: 'Montanhismo'
 title: 'Montanhismo'
-order: 3
+order: 2
 ---
 # Montanhismo
 ![Montanhismo](../../assets/images/montanhismo2.jpg)
