@@ -2,7 +2,7 @@
 layout: ../../layouts/SobreMdLayout.astro
 shortTitle: 'Regulamento'
 title: 'Regulamento'
-order: 7
+order: 4
 ---
 
 [link regulamenty](../../assets/pdfs/exemplo.pdf)

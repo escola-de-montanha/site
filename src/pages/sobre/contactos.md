@@ -2,7 +2,7 @@
 layout: ../../layouts/SobreMdLayout.astro
 shortTitle: 'Contactos'
 title: 'Contactos'
-order: 6
+order: 3
 ---
 ### Contactos
 

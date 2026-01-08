@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/formacaoMdLayout.astro
-shortTitle: 'Montanhismo2'
-title: 'Montanhismo2'
+shortTitle: 'Montanhismo'
+title: 'Montanhismo'
 order: 4
 ---
 # Montanhismo

@@ -2,7 +2,7 @@
 layout: ../../layouts/SobreMdLayout.astro
 shortTitle: 'Orgãos Sociais'
 title: 'Orgãos Sociais'
-order: 5
+order: 2
 ---
 # Orgãos Sociais 2024 - 2027
 
