@@ -1,11 +1,9 @@
 ---
 layout: ../../layouts/formacaoMdLayout.astro
-shortTitle: 'Intro'
-title: 'Intro'
+shortTitle: 'Níveis de Formação'
+title: 'Níveis de Formação'
 order: 1
 ---
-
-colocar a tabela de e niveis de formacao
 
 # Formação AEM
 
@@ -23,6 +21,6 @@ colocar a tabela de e niveis de formacao
 | **Nível**     | **Descrição**   | **Requisitos de acesso** | 
 |--------------|-----------------------------------|---------------------------|
 | **1. Técnico Acompanhante** |Apoia e acompanha grupos sob supervisão, aplicando procedimentos básicos de segurança | Experiência comprovada de 2 anos| 
-| **2. Técnico Autónomo** |onduz atividades de forma independente, planeando e executando saídas dentro do seu âmbito de competência |Experiência comprovada de 3 anos | 
+| **2. Técnico Autónomo** |Conduz atividades de forma independente, planeando e executando saídas dentro do seu âmbito de competência |Experiência comprovada de 3 anos | 
 | **3. Formador de Técnicos** |Responsável por formar novos técnicos, estruturando conteúdos e processos de avaliação |	Experiência comprovada de 4 anos |
 | **4. Formador de Formadores** |Nível de maior responsabilidade pedagógica, que define orientações, referenciais e boas práticas de formação |	Experiência comprovada de 5 anos |
