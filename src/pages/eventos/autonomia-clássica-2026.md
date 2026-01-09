@@ -18,7 +18,7 @@ category: escalada
 ---
 
 ## 📅 Datas e Local  
-📅 **21|22 de Janeiro e 07|08 de Março e 21/22 de Março**  
+📅 **21|22 de Fevereiro e 07|08 de Março e 21/22 de Março**  
 📍 **Sede da Escola de Montanha, em Albergaria da Serra**  
 🏔 **Serras da Freita e São Macário**  
 
@@ -93,8 +93,8 @@ Opcionalmente, disponibilizamos o aluguer de equipamento individual:
 ---
 
 ## 📌 Inscrições  
-📅 **Até dia 14 de Fevereiro**  
-📝 **Formulário de inscrição:** [Clique aqui](novo link)  
+📅 **Até dia 5 dias antes**  
+📝 **Formulário de inscrição:** [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)  
 
 ---
 
