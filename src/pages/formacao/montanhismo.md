@@ -19,3 +19,6 @@ Prática que consiste na exploração e conquista de montanhas, abrangendo desde
 ### Técnicos
 
 [Guia de Percursos Pedestres](https://escolademontanha.com/eventos/tecnico1-montanha/)
+
+
+## [Inscrições](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
