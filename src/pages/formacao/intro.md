@@ -27,8 +27,9 @@ order: 1
 
 
 
-|dir|||
-|-----------|---|--|
-| res |||
-| mad|asda|ada |
-| adas|asad|adsa |
+||**Diretor de Formação**||
+|-----------|-----------|-----------|
+||Nelson Cunha||
+||**Responsável Modalidades**| |
+|**Canyoning**|**Escalada**|**Montanhismo** |
+|Miguel Monteiro|Nelson Cunha|Bruno Silva|
