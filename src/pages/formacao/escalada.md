@@ -34,3 +34,14 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 
 [Nivel 1](https://escolademontanha.com/eventos/tecnico1-escalada/)
 
+||teste||
+|----------|------------|-----------
+||Escalada||
+||Desportiva||
+|ini|auto|[Multi-largos](https://escolademontanha.com/eventos/avan%C3%A7ado-multilargos/)
+[Aperfeiçoamento Segurança](https://escolademontanha.com/eventos/avan%C3%A7ado-seguran%C3%A7aes/)
+[Equipamento de vias](https://escolademontanha.com/eventos/equiparviar26/)|
+||Clássica||
+|ini|||auto|
+||técnicos||
+||monitor de escalada||

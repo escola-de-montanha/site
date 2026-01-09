@@ -14,7 +14,7 @@ order: 1
 |-----|-----------------------|-----------------------------------------------------------------------------------------------------------------|
 |**1**| **Iniciação** |Primeiro contacto com a modalidade, aprendizagem de princípios básicos de segurança e técnicas fundamentais | 
 |**2**| **Autonomia** |Desenvolvimento de competências para praticar com maior independência, sabendo avaliar e gerir riscos em contextos usuais |
-|**3**| **Aprefeiçoamento** |Consolidação técnica e melhoria de desempenho, com foco em situações mais desafiantes e progressão contínua |	
+|**3**| **Avançado** |Consolidação técnica e melhoria de desempenho, com foco em situações mais desafiantes e progressão contínua |	
 
 ## Formação para Técnicos
 
