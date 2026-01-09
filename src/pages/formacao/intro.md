@@ -25,11 +25,11 @@ order: 1
 | **3. Formador de Técnicos** |Responsável por formar novos técnicos, estruturando conteúdos e processos de avaliação |
 | **4. Formador de Formadores** |Nível de maior responsabilidade pedagógica, que define orientações, referenciais e boas práticas de formação |
 
-
+---
 
 ||**Diretor de Formação**||
-|-----------|-----------|-----------|
+|---------------|---------------|---------------|
 ||Nelson Cunha||
-||**Responsável Modalidades**| |
-|**Canyoning**|**Escalada**|**Montanhismo** |
-|Miguel Monteiro|Nelson Cunha|Bruno Silva|
+||**Responsável Modalidades**||
+|**Canyoning**|**Escalada**|**Montanhismo**|
+| Miguel Monteiro | Nelson Cunha | Bruno Silva |
