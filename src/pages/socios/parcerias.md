@@ -15,3 +15,4 @@ order: 2
 
 ![logo](../../assets/images/arouca.png)
 ![logo](../../assets/images/fcmp.png)
+![logo](../../assets/images/parceiros.png)
