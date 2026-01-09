@@ -39,7 +39,7 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 ||**Desportiva**||
 |||[Multi-largos](https://escolademontanha.com/eventos/avan%C3%A7ado-multilargos/)|
 |[Iniciação](https://escolademontanha.com/eventos/iniciacao-desportiva-maio26/)|Autonomia|[Aperfeiçoamento Segurança](https://escolademontanha.com/eventos/avan%C3%A7ado-seguran%C3%A7aes/)|
-||[Equipamento de vias](https://escolademontanha.com/eventos/equiparviar26/)|
+|||[Equipamento de vias](https://escolademontanha.com/eventos/equiparviar26/)|
 ||**Clássica**||
 |[Iniciação](https://escolademontanha.com/eventos/iniciacao-classica-jul/)||[Autonomia](https://escolademontanha.com/eventos/autonomia-cl%C3%A1ssica-2026/)|
 ||**Técnicos**||
