@@ -24,3 +24,11 @@ order: 1
 | **2. Técnico Autónomo** |Conduz atividades de forma independente, planeando e executando saídas dentro do seu âmbito de competência |
 | **3. Formador de Técnicos** |Responsável por formar novos técnicos, estruturando conteúdos e processos de avaliação |
 | **4. Formador de Formadores** |Nível de maior responsabilidade pedagógica, que define orientações, referenciais e boas práticas de formação |
+
+
+
+|dir|
+|-----------|
+| res |
+| mad|asda|ada |
+| adas|asad|adsa |
