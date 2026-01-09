@@ -15,6 +15,7 @@ order: 1
 - Participar nas atividades dos nossos parceiros como associado
 
 - Ativação de [seguro](../../assets/pdfs/seguros.pdf) com as nossas filiações
+[seguro](../../assets/pdfs/seguros.pdf)
 
 - Email: seguros.aemontanha@gmail.com 
 
