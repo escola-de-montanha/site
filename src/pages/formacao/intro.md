@@ -28,7 +28,7 @@ order: 1
 
 
 |dir|
-|-----------|
+|-----------|---|--|
 | res |
 | mad|asda|ada |
 | adas|asad|adsa |
