@@ -14,7 +14,7 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 ## Formação 2026 
 
 ||**PRATICANTES**||
-|----------|------------|-----------
+|----------|------------|-----------|
 ||**Desportiva**||
 |||[Multi-largos](https://escolademontanha.com/eventos/avan%C3%A7ado-multilargos/)|
 |[Iniciação](https://escolademontanha.com/eventos/iniciacao-desportiva-maio26/)|Autonomia|[Aperfeiçoamento Segurança](https://escolademontanha.com/eventos/avan%C3%A7ado-seguran%C3%A7aes/)|
