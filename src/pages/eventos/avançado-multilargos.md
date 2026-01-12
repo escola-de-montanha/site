@@ -10,7 +10,7 @@ category: escalada
 
 # Curso Avançado de Escalada Desportiva  
 **Vias equipadas de multi-largos**  
-**20h de formação - Nível de Autonomia**  
+**20h de formação - Nível Avançado**  
 *(Presencial e Online)*  
 
 ## 📍 Data e Local  

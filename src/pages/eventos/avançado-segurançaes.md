@@ -9,7 +9,7 @@ category: escalada
 ---
 # Curso Avançado de Escalada Desportiva  
 **Aperfeiçoamento de Técnicas de Segurança**  
-*(20h de formação - Nível de Autonomia, presencial e online)*  
+**20h de formação - Nível Avançado**  
 
 ## 📍 Data e Local  
 📅 **6 e 7 de Junho** + 1 sessão preparatória online  

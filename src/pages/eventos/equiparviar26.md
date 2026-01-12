@@ -11,8 +11,7 @@ category: escalada
 # CURSO AVANÇADO DE EQUIPAMENTO DE VIAS DE ESCALADA
 
 ## Curso de Escalada Desportiva  
-**25h de formação - Nível de Avançado**  
- 
+**20h de formação - Nível de Avançado**   
 
 ### 📍 Data e Local  
 📅 **11 | 12 de Abril 2026**
