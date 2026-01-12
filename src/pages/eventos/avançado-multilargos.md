@@ -14,7 +14,7 @@ category: escalada
 *(Presencial e Online)*  
 
 ## 📍 Data e Local  
-📅 **18 | 19 de junho** + 1 sessão preparatória online  
+📅 **18 | 19 de julho** + 1 sessão preparatória online  
 📍 **Oleiros e Pampilhosa da Serra**  
 
 ## 👨‍🏫 Formadores  
@@ -91,7 +91,7 @@ Opcionalmente, disponibilizamos o aluguer de equipamento individual:
 
 ## 📌 Inscrições  
 📅 **Até 5 dias antes do início do curso**  
-📌 **Preenchimento do formulário** *(link a ser fornecido)*  
+📌 **Formulário de inscrição:** [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
 
 ## 💳 Pagamento  
 💰 **Transferência bancária**:  

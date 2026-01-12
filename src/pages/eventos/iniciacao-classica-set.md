@@ -13,7 +13,7 @@ category: escalada
 *(Presencial e Online)*  
 
 ## 📍 Data e Local  
-📅 **19 | 20 de julho** + 1 sessão preparatória online  
+📅 **05 | 06 de Setembro** + 1 sessão preparatória online  
 📍 **Serras da Freita e São Macário**  
 
 ## 👨‍🏫 Formadores  
@@ -78,7 +78,7 @@ category: escalada
 
 ## 📌 Inscrições  
 📅 **Até 5 dias antes do início do curso**  
-📌 **Preenchimento do formulário** *(link a ser fornecido)*  
+📌 **Formulário de inscrição:** [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
 
 ## 💳 Pagamento  
 💰 **Transferência bancária**:  

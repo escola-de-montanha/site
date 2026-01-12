@@ -15,7 +15,7 @@ category: escalada
  
 
 ### 📍 Data e Local  
-📅 **11 | 12 de Abril 2026
+📅 **11 | 12 de Abril 2026**
 📍 **A definir**  
 
 ### 👨‍🏫 Formador Principal  
@@ -51,7 +51,7 @@ category: escalada
 ---
 ## 📌 Inscrições  
 📅 **Até dia 6 de Abril**  
-📌 **Preenchimento do formulário** *(link a ser fornecido)*  
+📌 **Formulário de inscrição:** [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)  
 
 ## 💳 Pagamento  
 💰 **Transferência bancária**:  

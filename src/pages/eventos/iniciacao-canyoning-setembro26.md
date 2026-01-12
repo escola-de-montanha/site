@@ -14,7 +14,7 @@ category: canyoning
 ---
 
 ## 📅 Data e Local  
-📅 **20|21 de junho**  
+📅 **26|27 de Setembro**  
 📍 **Serras da Freita e Arada**  
 
 💻 **Inclui 1 sessão online preparatória** *(horário a definir na semana anterior)*  
@@ -91,8 +91,7 @@ category: canyoning
 
 ## 📌 Inscrições  
 📅 **Até 5 dias antes do início do curso**  
-📝 **Formulário de inscrição:** *(link a disponibilizar)*  
-
+📝 **Formulário de inscrição:** [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
 ---
 
 ## 💳 Pagamento  

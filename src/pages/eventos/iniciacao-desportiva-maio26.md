@@ -75,7 +75,7 @@ category: escalada
 
 ## 📌 Inscrições  
 📅 **Até 5 dias antes do início do curso**  
-📌 **Preenchimento do formulário** *(link a ser fornecido)*  
+📌 **Formulário de inscrição:** [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
 
 ## 💳 Pagamento  
 **Transferência bancária**:  

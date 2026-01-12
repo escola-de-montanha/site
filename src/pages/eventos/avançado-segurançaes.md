@@ -12,7 +12,7 @@ category: escalada
 *(20h de formação - Nível de Autonomia, presencial e online)*  
 
 ## 📍 Data e Local  
-📅 **12 e 13 de abril** + 1 sessão preparatória online  
+📅 **6 e 7 de Junho** + 1 sessão preparatória online  
 📍 **Vila Nova de Poiares**  
 
 ## 👨‍🏫 Formadores  
@@ -78,7 +78,7 @@ Opcionalmente, disponibilizamos o aluguer de equipamento individual:
 
 ## 📌 Inscrições  
 📅 **Até 5 dias antes do início do curso**  
-📌 **Preenchimento do formulário** *(link a ser fornecido)*  
+📌 **Formulário de inscrição:** [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)  
 
 ## 💳 Pagamento  
 💰 **Transferência bancária**:  

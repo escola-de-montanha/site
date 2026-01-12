@@ -13,7 +13,7 @@ category: montanhismo
 ---
 
 ## 📅 Data e Local  
-📅 **27|28 de Julho**  
+📅 **18|19 de Abril**  
 📍 **Serra da Freita**  
 
 💻 **Inclui 1 sessão online preparatória** *(horário a definir na semana anterior)*  
@@ -83,7 +83,7 @@ category: montanhismo
 
 ## 📌 Inscrições  
 📅 **Até 5 dias antes do início do curso**  
-📝 **Formulário de inscrição:** *(link a disponibilizar)*  
+📝 **Formulário de inscrição:** [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
 
 ---
 

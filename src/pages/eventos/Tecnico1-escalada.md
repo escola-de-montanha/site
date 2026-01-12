@@ -86,7 +86,7 @@ Equipamento completo por um valor de 15€/dia
 
 #### Inscrições:
 Até 10 dias antes
-[INSCRIÇÃO](link)
+**Formulário de inscrição:** [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
 
 #### Pagamento
 Por transferência bancária: **IBAN:PT50 0033 0000 45589654875 05**

@@ -9,6 +9,6 @@ dates:
 category: montanhismo
 ---
 
-# 28 e 29 Dezembro
+# 28 e 29 Novembro
 Local: Serra da Peneda-Gerês
 Caminhada em Autonomia

@@ -80,8 +80,8 @@ Possibilidade de pernoita na sede, em chão duro*
 - Proximidade Regional
 
 #### Inscrições:
-Até dia 20 de Setembro 2026
-[INSCRIÇÃO]()
+Até dia 10 dias antes
+**Formulário de inscrição:** [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
 
 #### Pagamento
 Por transferência bancária: **IBAN:PT50 0033 0000 45589654875 05**
