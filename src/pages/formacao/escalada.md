@@ -24,6 +24,27 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 ||**TÉCNICOS**||
 ||[Monitor de Escalada](https://escolademontanha.com/eventos/tecnico1-escalada/)||
 
+**PRATICANTE**
+
+|**Nível**||**Descrição**|
+|-----|--------------------------|----|
+|**1**|**Desportiva** |**[Iniciação](https://escolademontanha.com/eventos/iniciacao-desportiva-maio26/)** |
+|**2**|**Desportiva** |**Autonomia** |
+|**3**|**Desportiva** |**[Multi-largos](https://escolademontanha.com/eventos/avan%C3%A7ado-multilargos/)** |
+|**3**|**Desportiva** |**[Aperfeiçoamento Segurança](https://escolademontanha.com/eventos/avan%C3%A7ado-seguran%C3%A7aes/)** |
+|**3**|**Desportiva** |**[Equipamento de vias](https://escolademontanha.com/eventos/equiparviar26/)** |
+
+|**Nível**||**Descrição**|
+|-----|--------------------------|----|
+|**1**|**Clássica** |**[Iniciação](https://escolademontanha.com/eventos/iniciacao-classica-jul/)** |
+|**2**|**Clássica** |**[Autonomia](https://escolademontanha.com/eventos/autonomia-cl%C3%A1ssica-2026/)** |
+
+**TÉCNICO**
+
+|**Nível**||**Descrição**|
+|-----|------------------------|----|
+|**1**|**Técnico** |**[Monitor de Escalada](https://escolademontanha.com/eventos/tecnico1-escalada/)** |
+
 
 
 ## [Inscrições](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
