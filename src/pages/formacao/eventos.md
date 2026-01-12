@@ -7,6 +7,14 @@ excludeFromNav: true
 ---
 
 
-test
+# Eventos 2026
 
-[SICAR](https://escolademontanha.com/eventos/sicar26/) 
+- [Sicar](https://escolademontanha.com/eventos/sicar26/)
+
+- [Escaramular](https://escolademontanha.com/eventos/escaramular/)
+
+- [Pedra Má](https://escolademontanha.com/eventos/pedram%C3%A126/)
+
+- [Festival Cogne]
+
+- [Convivio de Natal]

@@ -1,0 +1,30 @@
+---
+layout: ../../layouts/formacaoMdLayout.astro
+shortTitle: 'Atividades'
+title: 'Atividades'
+order: 7
+excludeFromNav: true
+---
+
+# Atividades 
+
+## Estágios
+
+- [Sanábria](https://escolademontanha.com/eventos/sanabria26/)
+- [Picos de Europa](https://escolademontanha.com/eventos/picos-26/)
+- [Madeira](https://escolademontanha.com/eventos/estagio-madeira-maio26/)
+- [Galayos](https://escolademontanha.com/eventos/galayos-out26/)
+
+## Escolas
+
+- [Escola a Trepar - Castelo de Vide](https://escolademontanha.com/eventos/escola-trepar-vide/)
+- [Escola a Trepar - Penha Guimarães](https://escolademontanha.com/eventos/trepar-penha/)
+
+- [Escola a Molhar Capacetes - Arouca](https://escolademontanha.com/eventos/escola-capacetes/)
+
+- [Escola a Caminhar - Gredos](https://escolademontanha.com/eventos/escola-caminhar-gredos/)
+- [Escola a Caminhar - Gerês](https://escolademontanha.com/eventos/escola-caminha-geres/)
+
+## Expedição
+
+- [Expediçao Kilimanjaro](https://escolademontanha.com/eventos/expedicao-kilimanjaro26/)
