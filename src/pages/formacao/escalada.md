@@ -13,16 +13,6 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 
 ## Formação 2026 
 
-||**PRATICANTES**||
-|----------|------------|-----------|
-||**Desportiva**||
-|||[Multi-largos](https://escolademontanha.com/eventos/avan%C3%A7ado-multilargos/)|
-|[Iniciação](https://escolademontanha.com/eventos/iniciacao-desportiva-maio26/)|Autonomia|[Aperfeiçoamento Segurança](https://escolademontanha.com/eventos/avan%C3%A7ado-seguran%C3%A7aes/)|
-|||[Equipamento de vias](https://escolademontanha.com/eventos/equiparviar26/)|
-||**Clássica**||
-|[Iniciação](https://escolademontanha.com/eventos/iniciacao-classica-jul/)||[Autonomia](https://escolademontanha.com/eventos/autonomia-cl%C3%A1ssica-2026/)|
-||**TÉCNICOS**||
-||[Monitor de Escalada](https://escolademontanha.com/eventos/tecnico1-escalada/)||
 
 **PRATICANTE**
 
@@ -34,10 +24,12 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 |**3**|**Desportiva** |**[Aperfeiçoamento Segurança](https://escolademontanha.com/eventos/avan%C3%A7ado-seguran%C3%A7aes/)** |
 |**3**|**Desportiva** |**[Equipamento de vias](https://escolademontanha.com/eventos/equiparviar26/)** |
 
+
 |**Nível**||**Descrição**|
 |-----|--------------------------|----|
 |**1**|**Clássica** |**[Iniciação](https://escolademontanha.com/eventos/iniciacao-classica-jul/)** |
 |**2**|**Clássica** |**[Autonomia](https://escolademontanha.com/eventos/autonomia-cl%C3%A1ssica-2026/)** |
+
 
 **TÉCNICO**
 
