@@ -11,10 +11,7 @@ order: 3
 Atividade refrescante de montanha e água que combina aventura e diversão. Consiste na progressão por curso de água encaixados, superando desníveis como cascatas e outros obstáculos através de saltos, natação, escorregas e técnicas de progressão em corda, como o rapel. É uma forma privilegiada de explorar ambientes naturais de rara beleza e pouca presença humana.
 ## <p> Formação 2026 </p>
 
-|**PRATICANTE**|
-|--------------|
-|[Iniciação](https://escolademontanha.com/eventos/iniciacao-canyoning-junho26/)|
-|Autonomia|
+**PRATICANTE**
 
 |**Nível**|**Descrição**| 
 |-----|--------------------------|
