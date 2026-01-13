@@ -27,10 +27,12 @@ order: 1
 
 ---
 
+## Equipa Técnica
 
-||**Diretor de Formação**||
-|---------------|---------------|---------------|
-||Nelson Cunha||
-||**Responsável Modalidades**||
-|**Canyoning**|**Escalada**|**Montanhismo**|
-| Miguel Monteiro | Nelson Cunha | Bruno Silva |
+|                 |   **Diretor de Formação**   |                 |
+|:---------------:|:---------------------------:|:---------------:|
+|                 |         Nelson Cunha        |                 |
+|                 | **Responsável Modalidades** |                 |
+|  **Canyoning**  |         **Escalada**        | **Montanhismo** |
+| Miguel Monteiro |         Nelson Cunha        |   Bruno Silva   |
+
