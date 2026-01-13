@@ -7,4 +7,4 @@ const sobre = filterAndSortPages(import.meta.glob("../../pages/sobre/*.md", {eag
 const formacao = filterAndSortPages(import.meta.glob("../../pages/formacao/*.md", {eager: true}))
 const socios = filterAndSortPages(import.meta.glob("../../pages/socios/*.md", {eager: true}))
 ---
-<HamburgerMenuComponent client:load sobre={sobre} socios={socios}/>
+<HamburgerMenuComponent client:load sobre={sobre} socios={socios} formacao={formacao}/>
