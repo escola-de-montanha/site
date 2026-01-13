@@ -11,7 +11,7 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 <p> Na escalada desportiva, o foco está no movimento do corpo e na superação de vias previamente equipadas com proteções permanentes. 
 <p>A escalada clássica distingue-se pelo maior compromisso e sentido de aventura, com o escalador a colocar as suas próprias proteções de segurança amovíveis à medida que progride.</p>
 
-## Formação 2026 
+## Cursos de Escalada 
 
 
 **PRATICANTE**
