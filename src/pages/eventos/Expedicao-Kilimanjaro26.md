@@ -21,9 +21,19 @@ dates:
   - 2026-08-30
 category: montanhismo
 ---
+
+
 # Expedição Kilimanjaro
-<p> A definir</p>
+
+## Sessão de Esclarecimento 
+
+**29 de Janeiro 2026**
+Horas 21h00
+[Link sessão online](https://meet.google.com/aem-hwwa-nwa)
+
 
 ## Datas
 15 a 30 de Agosto
-## Local 
+
+
+
