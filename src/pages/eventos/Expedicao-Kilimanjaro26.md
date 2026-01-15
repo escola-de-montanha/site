@@ -27,9 +27,9 @@ category: montanhismo
 
 ## Sessão de Esclarecimento 
 
-**29 de Janeiro 2026**
-Horas 21h00
-[Link sessão online](https://meet.google.com/aem-hwwa-nwa)
+- **29 de Janeiro 2026**
+- Horas 21h00
+- [Link sessão online](https://meet.google.com/aem-hwwa-nwa)
 
 
 ## Datas
