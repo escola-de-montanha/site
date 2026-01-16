@@ -39,9 +39,10 @@ Rota de 8 a 10 dias
 Sessão de esclarecimento online para falar sobre:
 - logística, rota, custos, inscrição e preparação.
 
+---
 ## Datas
 15 a 30 de Agosto
-
+---
 
 **Limitado a 12 participantes**
 - Exclusiva para Associados da Escola de Montanha (desde 2025)!​
