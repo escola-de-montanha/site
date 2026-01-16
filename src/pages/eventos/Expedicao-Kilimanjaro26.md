@@ -25,15 +25,25 @@ category: montanhismo
 
 # Expedição Kilimanjaro
 
+Rumo ao topo de África​
+
+Rota de 8 a 10 dias
+
+
 ## Sessão de Esclarecimento 
 
 - **29 de Janeiro 2026**
 - Horas 21h00
 - [Link sessão online](https://meet.google.com/aem-hwwa-nwa)
 
+Sessão de esclarecimento online para falar sobre:
+- logística, rota, custos, inscrição e preparação.
 
 ## Datas
 15 a 30 de Agosto
 
 
+**Limitado a 12 participantes**
+- Exclusiva para Associados da Escola de Montanha (desde 2025)!​
+- Prioridade a praticantes autónomos, com experiência de ascensão.
 
