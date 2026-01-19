@@ -26,7 +26,9 @@ const events = eventGlobs.map(glob => {
 });
 
 const allDates = events.flatMap(event => event.dates);
-const lastDate = allDates.sort((a, b) => a - b)[allDates.length - 1];
+
+const sortedDates = allDates.filter(date => !isNaN(date.getTime())).sort((a, b) => a.getTime() - b.getTime())
+const lastDate = sortedDates[sortedDates.length - 1];
 
 const today = new Date();
 const months = [];
