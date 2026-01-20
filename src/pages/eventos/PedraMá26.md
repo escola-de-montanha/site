@@ -11,3 +11,6 @@ category: socios
 # Encontro da Pedra Má
 
 ## Local: Oliveira de Azemeis ( Cascata da Pedra Má)
+
+
+Vamos apoiar e participar no evento organizado pelo MOA na nossa escola de Escalada da Pedra Má

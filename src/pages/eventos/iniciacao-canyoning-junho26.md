@@ -50,9 +50,9 @@ category: canyoning
 ---
 
 ## 💰 Custo  
-- **Associados AEM:** € *(aplica-se este valor a membros das entidades parceiras)*  
-- **Não sócios:** €  
-- **Reciclagem do curso para associados:** 25€/dia *(não inclui EPI)*  
+- **Associados AEM:** 120€ *(aplica-se este valor a membros das entidades parceiras)*  
+- **Não sócios:** 180€  
+- **Reciclagem do curso para associados:** 30€/dia *(não inclui EPI)*  
 
 ### ✅ Inclui  
 ✔ **Seguro**  

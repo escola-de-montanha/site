@@ -54,9 +54,9 @@ Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
 </p>
 
 #### Custo:
-- Associados AEM: €
-- Não sócios: €
-- Reciclagem do curso para associados que queiram repetir sessões: 20€/dia
+- Associados AEM: 450€
+- Não sócios: 675€
+- Reciclagem do curso para associados que queiram repetir sessões: 25€/dia
 
 <p>
 *Inclui: seguro, certificação DGERT e AEM, partilha de fotografias e documentos de apoio<br>

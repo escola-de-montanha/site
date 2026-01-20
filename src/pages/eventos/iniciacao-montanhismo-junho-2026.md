@@ -8,7 +8,7 @@ dates:
 category: montanhismo
 ---
 # 🏔️ Curso de MONTANHISMO (Iniciação)  
-**25h de formação - Presencial e online**  
+**20h de formação - Presencial e online**  
 
 ---
 
@@ -53,8 +53,8 @@ category: montanhismo
 ---
 
 ## 💰 Custo  
-- **Associados AEM:** € *(aplica-se este valor a membros das entidades parceiras)*  
-- **Não sócios:** €  
+- **Associados AEM:** 120€ *(aplica-se este valor a membros das entidades parceiras)*  
+- **Não sócios:** 180€  
 - **Reciclagem do curso para associados:** 30€/dia  
 
 ### ✅ Inclui  

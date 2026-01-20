@@ -46,6 +46,11 @@ category: escalada
 
 🚫 **Não inclui:** deslocações, dormida e refeições *(responsabilidade do participante)*  
  
+ ### 💰 Custo  
+- **Associados AEM:** 150€ *(membros das entidades parceiras também têm este valor)*  
+- **Não sócios:** 225€  
+- **Reciclagem do curso para associados:** 30€/dia  
+
 
 ---
 ## 📌 Inscrições  

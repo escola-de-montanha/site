@@ -12,7 +12,7 @@ dates:
 category: escalada 
 ---
 # 🧗 Curso de Escalada Clássica  
-**40h de formação - Nível de Autonomia**  
+**75h de formação - Nível de Autonomia**  
 *(Presencial e online)*  
 
 ---
@@ -52,9 +52,9 @@ category: escalada
 ---
 
 ## 💰 Custo  
-- **Associados AEM:** €  
-- **Não sócios:** €  
-- **Reciclagem do curso para associados:** €/dia  
+- **Associados AEM:** 410€  
+- **Não sócios:** 600€  
+- **Reciclagem do curso para associados:** 50€/dia  
 
 ### ✅ Inclui  
 ✔ **Seguro**  

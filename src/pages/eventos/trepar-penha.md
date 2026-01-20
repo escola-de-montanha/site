@@ -12,3 +12,8 @@ category: escalada
 Para praticar a modalidade acompanhados por um técnico da Escola e conhecer novos locais
 <p> Escalada Deportiva</p>
 
+
+Local : Guimarães
+
+Possibilidade de Dormida em Alojamento Partilhado ou no Parque de Campismo da Penha
+

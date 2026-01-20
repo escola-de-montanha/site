@@ -61,14 +61,13 @@ Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
 </p>
 
 #### Custo:
-- Associados AEM: €
-- Não sócios: €
+- Associados AEM: 500€
+- Não sócios: 750€
 - Reciclagem do curso para técnicos nivel 1: 25€/dia
-- Desconto de 5€/dia para associados com seguro
 
 <p>
 Inclui: Seguro, equipamento coletivo, certificação e documentos de apoio<br>
-Certificação DGEST, em parceria com o Centro de Formação Gomes e Canoso<br>
+Certificação DGERT, em parceria com o Centro de Formação Gomes e Canoso<br>
 Deslocações, dormida e refeições da responsabilidade do participante.<br>
 </p>
 

@@ -9,3 +9,7 @@ category: socios
 ---
 
 Serra do Caramulo
+
+Evento Multiatividades 
+
+Mais informações brevemente

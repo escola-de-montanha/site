@@ -15,7 +15,7 @@ category: socios
 ---
 
 ## 🗓️ Data e Local
-* **Data:** 29 e 30 de março de 2025
+* **Data:** 29 e 30 de março de 2026
 * **Local:** Sede da AEM - Escola Primária de Albergaria da Serra - Arouca e espaço envolvente.
 
 ## 🕒 Horários
@@ -43,10 +43,9 @@ category: socios
 ---
 
 ## 💰 Custos e Inscrições
-* **Associados AEM e Entidades Protocoladas:** €
-* **Não Associados:** €
-* **Técnicos da Escola de Montanha:** € (50% de desconto)
-* **Reciclagem:** €
+* **Associados AEM e Entidades Protocoladas:** 150€
+* **Não Associados:** 225€
+* **Reciclagem:** 30€/dia
 
 > **Inclui:** Seguro, certificação, equipamento coletivo e documento de apoio.  
 > **Nota:** Deslocações e refeições são da responsabilidade do participante.

@@ -38,8 +38,8 @@ category: escalada
 🖥 **Aula online:** às 21h, na semana anterior *(dia a definir)*  
 
 ## 💰 Custo  
-- **Associados AEM:** € *(membros das entidades parceiras também têm este valor)*  
-- **Não sócios:** €  
+- **Associados AEM:** 150€ *(membros das entidades parceiras também têm este valor)*  
+- **Não sócios:** 225€  
 - **Reciclagem do curso para associados:** 30€/dia  
 
 ### ✅ Inclui  
