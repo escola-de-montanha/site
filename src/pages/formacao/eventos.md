@@ -15,6 +15,6 @@ excludeFromNav: true
 
 - [Pedra Má](https://escolademontanha.com/eventos/pedram%C3%A126/)
 
-- [Festival Cogne]
+- [Festival Cogne](https://escolademontanha.com/eventos/cogne/)
 
-- [Convivio de Natal]
+- [Convivio de Natal](https://escolademontanha.com/eventos/natal-sede/)
