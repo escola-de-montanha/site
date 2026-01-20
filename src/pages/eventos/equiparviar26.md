@@ -32,10 +32,6 @@ category: escalada
 ### ⏰ Horários  
 🕘 **Das 9h de sábado às 18h de domingo** *(aproximadamente)*  
 
-### 💰 Custo  ?
-- **Associados AEM:** € *(aplica-se a membros das entidades parceiras)*  
-- **Não sócios:** €  
- 
 
 ### ✅ Inclui  
 ✔   
