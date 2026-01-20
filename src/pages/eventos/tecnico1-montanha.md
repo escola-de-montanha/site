@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
 title: Técnico N1 Montanhismo - Guia de Percursos Pedestres
-shortTitle: Técnicao N1 Montanha
+shortTitle: Técnico N1 Montanha
 dates: 
   - 2026-10-24
   - 2026-10-25

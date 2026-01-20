@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
 title: Técnico N1 Escalada
-shortTitle: Técnicao N1 Escalada
+shortTitle: Técnico N1 Escalada
 dates: 
   - 2026-09-12
   - 2026-09-13
