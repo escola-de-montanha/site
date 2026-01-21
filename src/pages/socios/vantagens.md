@@ -18,3 +18,4 @@ order: 1
 
 - Email: seguros.aemontanha@gmail.com 
 
+![Canyoning](../../assets/images/insc.png)
