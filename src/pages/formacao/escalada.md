@@ -39,6 +39,5 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 
 
 
-## [Inscrições](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
-
+[![INSCRIÇÕES](../../assets/images/insc.png)](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
 
