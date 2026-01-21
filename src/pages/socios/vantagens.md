@@ -17,5 +17,3 @@ order: 1
 - Ativação de seguro com as nossas filiações
 
 - Email: seguros.aemontanha@gmail.com 
-
-![Canyoning](../../assets/images/insc.png)
