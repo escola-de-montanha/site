@@ -26,13 +26,3 @@ order: 1
 |**4**| **Formador de Formadores** |Nível de maior responsabilidade pedagógica, que define orientações, referenciais e boas práticas de formação |
 
 ---
-
-## Equipa Técnica
-
-|                 |   **Diretor de Formação**   |                 |
-|:---------------:|:---------------------------:|:---------------:|
-|                 |         Nelson Cunha        |                 |
-|                 | **Responsável Modalidades** |                 |
-|  **Canyoning**  |         **Escalada**        | **Montanhismo** |
-| Miguel Monteiro |         Nelson Cunha        |   Bruno Silva   |
-
