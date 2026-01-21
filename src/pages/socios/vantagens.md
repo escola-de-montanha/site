@@ -6,6 +6,8 @@ order: 1
 ---
 # Vantagens do associado
 
+![foto](../../assets/images/asso.JPG)
+
 - Pertencer a uma rede comunitária de montanha com boas práticas
 
 - Realizar atividades em bom ambiente
