@@ -17,3 +17,5 @@ order: 1
 - Ativação de seguro com as nossas filiações
 
 - Email: seguros.aemontanha@gmail.com 
+
+[![Associado Novo](../../assets/images/socio.png)](https://docs.google.com/forms/d/e/1FAIpQLSetcB--S426t_epCJcwIzUdgiTaItSC3B7ZXHCZW9nWFxV7Pw/viewform)
