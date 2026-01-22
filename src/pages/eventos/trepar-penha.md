@@ -17,3 +17,6 @@ Local : Guimarães
 
 Possibilidade de Dormida em Alojamento Partilhado ou no Parque de Campismo da Penha
 
+## 💰 Custo  
+- **Associados AEM:** 30€  
+- **Não sócios:** 45€  
