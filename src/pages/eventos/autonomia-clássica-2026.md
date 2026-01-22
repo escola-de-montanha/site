@@ -52,7 +52,7 @@ category: escalada
 ---
 
 ## 💰 Custo  
-- **Associados AEM:** 410€  
+- **Associados AEM:** 400€  
 - **Não sócios:** 600€  
 - **Reciclagem do curso para associados:** 50€/dia  
 
