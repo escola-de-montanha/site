@@ -60,6 +60,8 @@ Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
 8 aulas online às 21h, na semana anterior, em dia a definir
 </p>
 
+---
+
 #### Custo:
 - Associados AEM: 500€
 - Não sócios: 750€

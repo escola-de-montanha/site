@@ -13,6 +13,3 @@ Para praticar a modalidade acompanhados por um técnico da Escola e conhecer nov
 <p> Escalada Deportiva</p>
 
 
-## 💰 Custo  
-- **Associados AEM:** 30€  
-- **Não sócios:** 45€  
