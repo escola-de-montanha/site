@@ -12,11 +12,11 @@ order: 1
 
 - Realizar atividades em bom ambiente
 
-- Usufruir dos preços de associado nas formações da associação e parceiros
+- Usufruir dos preços de associado nas formações, eventos e atividades da associação
 
 - Participar nas atividades dos nossos parceiros como associado
 
-- Ativação de seguro com as nossas filiações
+- Ativação de seguro com as nossas filiações (FCMP e FPME)
 
 - Email: seguros.aemontanha@gmail.com 
 
