@@ -15,6 +15,7 @@ category: escalada
 
 ### 📍 Data e Local  
 📅 **11 | 12 de Abril 2026** + 1 sessão online dia 9 Abril (5ªfeira)
+
 📍 **Cabaços e Mizarela**  
 
 ### 👨‍🏫 Formador Principal  
@@ -27,13 +28,13 @@ category: escalada
 
 ### 📚 Conteúdos   
 
-● Ética da abertura de vias
-● Tipos e métodos de aberturas
-● Equipamentos fundamentais
-● Organização do equipamento
-● Instalação de ancoragens mecânicas
-● Técnicas de abordagem da via com corda
-● Escolha de linhas e localização de ancoragens
+- Ética da abertura de vias
+- Tipos e métodos de aberturas
+- Equipamentos fundamentais
+- Organização do equipamento
+- Instalação de ancoragens mecânicas
+- Técnicas de abordagem da via com corda
+- Escolha de linhas e localização de ancoragens
 
 
 ### ⏰ Horários  
