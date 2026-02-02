@@ -21,3 +21,12 @@ order: 1
 - Email: seguros.aemontanha@gmail.com 
 
 [![Associado Novo](../../assets/images/socio.png)](https://docs.google.com/forms/d/e/1FAIpQLSetcB--S426t_epCJcwIzUdgiTaItSC3B7ZXHCZW9nWFxV7Pw/viewform)
+
+
+
+
+|---|**Preços Associado**|---|
+|:---:|:---:|:---:|
+|Jóia|10€||
+|Quota Semestral|10€||
+|Quota Anual|20€||
