@@ -25,8 +25,8 @@ order: 1
 
 
 
-||**Preços Associado**||
-|:---:|:---:|:---:|
-|Jóia|10€||
-|Quota Semestral|10€||
-|Quota Anual|20€||
+|**Preços**||
+|:---:|:---:|
+|Jóia|10€|
+|Quota Semestral|10€|
+|Quota Anual|20€|
