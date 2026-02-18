@@ -38,7 +38,7 @@ category: socios
 ---
 
 ## 💰 Custos e Inscrições
-* **Associados AEM e Entidades Protocoladas:** 150€ f
+* **Associados AEM e Entidades Protocoladas:** 150€ (*25% Desconto para Técnicos da AEM*)
 * **Não Associados:** 225€
 * **Reciclagem:** 75€ (descontos não aplicáveis)
 
