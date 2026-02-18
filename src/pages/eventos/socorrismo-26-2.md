@@ -38,9 +38,9 @@ category: socios
 ---
 
 ## 💰 Custos e Inscrições
-* **Associados AEM e Entidades Protocoladas:** A confirmar
-* **Não Associados:** A confirmar
-* **Reciclagem:** A confirmar
+* **Associados AEM e Entidades Protocoladas:** 150€
+* **Não Associados:** 225€
+* **Reciclagem:** 30€/dia
 
 > **Inclui:** Seguro, certificação, equipamento coletivo e documento de apoio.  
 > **Nota:** Deslocações e refeições são da responsabilidade do participante.
