@@ -15,7 +15,7 @@ category: socios
 ---
 
 ## 🗓️ Data e Local
-* **Data:** 29 e 30 de março de 2026
+* **Data:** 14 e 15 de março de 2026
 * **Local:** Sede da AEM - Escola Primária de Albergaria da Serra - Arouca e espaço envolvente.
 
 ## 🕒 Horários
