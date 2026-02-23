@@ -8,7 +8,7 @@ dates:
 
 category: escalada
 ---
-# CURSO AVANÇADO DE EQUIPAMENTO DE VIAS DE ESCALADA
+# CURSO AVANÇADO DE ESCALADA -  EQUIPAMENTO DE VIAS 
 
 ## Curso de Escalada Desportiva  
 **20h de formação - Nível de Avançado**   
