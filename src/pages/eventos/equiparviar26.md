@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Curso Avançado de Equipamento de Vias
-shortTitle: Curso de Equipamento de Vias 
+title: Curso Avançado de Escalada Desportiva - Equipamento de Vias
+shortTitle: Escalada Deportiva Avançado - Equipamento de Vias 
 dates: 
   - 2026-04-11
   - 2026-04-12
