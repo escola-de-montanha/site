@@ -3,8 +3,8 @@ layout: ../../layouts/CalendarMdLayout.astro
 title: Curso Avançado de Escalada Desportiva - Equipamento de Vias
 shortTitle: Escalada Deportiva Avançado - Equipamento de Vias 
 dates: 
-  - 2026-04-11
-  - 2026-04-12
+  - 2026-04-18
+  - 2026-04-19
 
 category: escalada
 ---
@@ -14,7 +14,7 @@ category: escalada
 **20h de formação - Nível de Avançado**   
 
 ### 📍 Data e Local  
-📅 **11 | 12 de Abril 2026** + 1 sessão online dia 9 Abril (5ªfeira)
+📅 **18 | 19 de Abril 2026** + 1 sessão online dia 9 Abril (5ªfeira)
 
 📍 **Cabaços e Mizarela**  
 
