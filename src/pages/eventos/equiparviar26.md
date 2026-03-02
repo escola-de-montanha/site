@@ -80,7 +80,7 @@ category: escalada
 
 ---
 ### 📌 Inscrições  
-📅 **Até dia 6 de Abril**  
+📅 **Até dia 13 de Abril**  
 📌 **Formulário de inscrição:** [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)  
 
 ## 💳 Pagamento  
