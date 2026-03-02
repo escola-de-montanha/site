@@ -14,7 +14,7 @@ category: escalada
 **20h de formação - Nível de Avançado**   
 
 ### 📍 Data e Local  
-📅 **18 | 19 de Abril 2026** + 1 sessão online dia 9 Abril (5ªfeira)
+📅 **18 | 19 de Abril 2026** + 1 sessão online dia 16 Abril (5ªfeira)
 
 📍 **Cabaços e Mizarela**  
 
