@@ -54,7 +54,7 @@ Mínimo de **4** e máximo de **18** participantes.
 ## 🧗‍♂️ Dia 16 – Sábado
 
 - Receção dos participantes e secretariado  
-- Escalada no **Sector Varanda dos Namorados / Pio IX**  
+- Escalada no **Sector Varanda dos Namorados e Pio IX**  
 - Possibilidade de almoço na **Adega do Ermitão** (10€/pessoa)  
 - Escalada no **Sector Desfiladeiro**  
 - Possibilidade de jantar no centro da cidade ou cozinhar no local de pernoita  
