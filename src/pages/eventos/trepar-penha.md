@@ -58,7 +58,7 @@ Mínimo de **4** e máximo de **18** participantes.
 - Possibilidade de almoço na **Adega do Ermitão** (10€/pessoa)  
 - Escalada no **Sector Desfiladeiro**  
 - Possibilidade de jantar no centro da cidade ou cozinhar no local de pernoita  
-- Possibilidade de pernoitar no **PCEG – Guimarães** (4€/pessoa, camaratas)
+- Possibilidade de pernoitar no **PCEG – Guimarães** (camaratas)
 
 ---
 
@@ -101,7 +101,7 @@ As refeições e o alojamento são da responsabilidade do participante.
 
 No entanto, existe a possibilidade de:
 
-- **Dormida em camarata no PCEG – Guimarães (4€/pessoa)**  
+- **Dormida em camarata no PCEG – Guimarães**  
 - Acesso a **banhos quentes**  
 - Sugestões de locais para refeições na cidade
 
@@ -121,8 +121,7 @@ No secretariado será solicitado a todos os participantes que assinem um **termo
 
 Inscrições abertas **até 11 de maio**.
 
-👉 *(Inserir link de inscrição aqui)*
-
+👉 [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
 ---
 
 # 💳 Pagamento
