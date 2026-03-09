@@ -48,6 +48,7 @@ A atividade é aberta a **praticantes autónomos, iniciados e curiosos**, propor
 Mínimo de **4** e máximo de **12** participantes iniciados.
 
 Sem limite para autónomos
+
 \*Disponibilidade de dormida em camarata para os primeiros 20 inscritos
 
 ---
