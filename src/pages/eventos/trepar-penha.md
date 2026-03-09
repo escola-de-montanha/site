@@ -45,7 +45,9 @@ A atividade é aberta a **praticantes autónomos, iniciados e curiosos**, propor
 - Iniciados e curiosos interessados em experimentar a modalidade  
 
 **Número de participantes:**  
-Mínimo de **4** e máximo de **18** participantes.
+Mínimo de **4** e máximo de **12** participantes iniciados.
+Sem limite para autónomos
+\*Disponibilidade de dormida em camarata para os primeiros 20 inscritos
 
 ---
 
@@ -54,19 +56,18 @@ Mínimo de **4** e máximo de **18** participantes.
 ## 🧗‍♂️ Dia 16 – Sábado
 
 - Receção dos participantes e secretariado  
-- Escalada no **Sector Varanda dos Namorados e Pio IX**  
-- Possibilidade de almoço na **Adega do Ermitão** (10€/pessoa)  
+- Escalada no **Sector Varanda dos Namorados e Pio IX**    
 - Escalada no **Sector Desfiladeiro**  
-- Possibilidade de jantar no centro da cidade ou cozinhar no local de pernoita  
-- Possibilidade de pernoitar no **PCEG – Guimarães** (camaratas)
+- Possibilidade de lanche/jantar na **Adega do Ermitão** (10€/pessoa)
+- Possibilidade de cozinhar no local de pernoita  
+- Possibilidade de pernoitar no **PCEG – Guimarães** (camaratas ou campismo)
 
 ---
 
 ## 🧗‍♀️ Dia 17 – Domingo
 
-- Viagem de **teleférico** e visita ao **centro histórico de Guimarães**  
 - **Escalada de bloco na Penha** *(levar crashpads)*  
-- Regresso
+- Possibilidade de viagem de **teleférico** e visita ao **centro histórico de Guimarães** na parte da tarde.  
 
 ---
 
@@ -80,19 +81,6 @@ Mínimo de **4** e máximo de **18** participantes.
 
 \*Considera-se **autónomo** o praticante com equipamento completo próprio e autonomia técnica.
 
-**Aluguer de equipamento:**  
-+ **15€/dia**
-
----
-
-## O valor inclui
-
-- Equipamento individual e coletivo  
-- Enquadramento técnico da atividade  
-- Seguro  
-- Apoio logístico  
-- Reportagem fotográfica  
-
 ---
 
 # 🍽️ Alimentação e Alojamento
@@ -101,7 +89,7 @@ As refeições e o alojamento são da responsabilidade do participante.
 
 No entanto, existe a possibilidade de:
 
-- **Dormida em camarata no PCEG – Guimarães**  
+- **Dormida em camarata ou acampar no PCEG – Guimarães**  
 - Acesso a **banhos quentes**  
 - Sugestões de locais para refeições na cidade
 
