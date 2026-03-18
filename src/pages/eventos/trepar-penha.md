@@ -83,6 +83,11 @@ Sem limite para autónomos
 
 \*Considera-se **autónomo** o praticante com equipamento completo próprio e autonomia técnica.
 
+## Inclui
+- Equipamento individual e coletivo  
+- Enquadramento da atividade  
+- Seguro  
+- Reportagem fotográfica  
 ---
 
 # 🍽️ Alimentação e Alojamento
