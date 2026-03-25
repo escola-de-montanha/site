@@ -51,8 +51,8 @@ category: escalada
 
 **Valor por dia:**
 
-- **10€** – Não sócios  
-- **15€** – Associados AEM e membros de entidades parceiras *(que necessitem apoio técnico)*  
+- **15€** – Não sócios  
+- **10€** – Associados AEM e membros de entidades parceiras *(que necessitem apoio técnico)*  
 - **5€** – Associados autónomos*
 
 \*Considera-se **autónomo** o praticante com equipamento completo próprio e autonomia técnica.
