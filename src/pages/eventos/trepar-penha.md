@@ -116,7 +116,7 @@ No secretariado será solicitado a todos os participantes que assinem um **termo
 
 Inscrições abertas **até 11 de maio**.
 
-👉 [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
+👉 [Clique aqui](https://docs.google.com/forms/d/13gSkrlD-UZn8O9U4UoD8vCXeprQdL41jgqBHcVmlznM/viewform?edit_requested=true)
 ---
 
 # 💳 Pagamento
