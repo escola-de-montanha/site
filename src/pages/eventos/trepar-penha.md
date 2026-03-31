@@ -60,7 +60,7 @@ Sem limite para autónomos
 - Receção dos participantes e secretariado  
 - Escalada no **Sector Varanda dos Namorados e Pio IX**    
 - Escalada no **Sector Desfiladeiro**  
-- Possibilidade de lanche/jantar na **Adega do Ermitão** (10€/pessoa)
+- Possibilidade de lanche/jantar na **Adega do Ermitão** (aproximadamente 10€/pessoa)
 - Possibilidade de cozinhar no local de pernoita  
 - Possibilidade de pernoitar no **PCEG – Guimarães** (camaratas ou campismo)
 
@@ -68,7 +68,7 @@ Sem limite para autónomos
 
 ## 🧗‍♀️ Dia 17 – Domingo
 
-- **Escalada de bloco na Penha** *(levar crashpads)*  
+- **Escalada de bloco no sector "O Barco" na Penha** *(levar crashpads)*  
 - Possibilidade de viagem de **teleférico** e visita ao **centro histórico de Guimarães** na parte da tarde.  
 
 ---
