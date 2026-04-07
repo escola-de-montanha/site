@@ -17,8 +17,8 @@ category: escalada
 📍 **Serras da Freita e São Macário**  
 
 ## 👨‍🏫 Formadores  
-- **#**  
-- 
+- **João Paulo**  
+- **Eduardo Ventura**
 
 ## 🎯 Objetivos  
 - Introduzir e contextualizar a atividade  

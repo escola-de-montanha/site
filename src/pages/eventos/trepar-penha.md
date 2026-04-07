@@ -2,6 +2,7 @@
 layout: ../../layouts/CalendarMdLayout.astro
 title: Escola a Trepar (Penha - Guimarães)
 shortTitle: Escola a Trepar Penha Guimarães
+keywords: "Escalada Penha, Guimarães escalada, iniciação à escalada"
 dates: 
   - 2026-05-16
   - 2026-05-17

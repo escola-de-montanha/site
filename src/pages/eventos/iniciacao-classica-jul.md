@@ -2,6 +2,7 @@
 layout: ../../layouts/CalendarMdLayout.astro
 title: Iniciação Escalada Clássica Julho
 shortTitle: Iniciação Escalada Clássica
+keywords: "Trad Climbing Course, Trad Climbing, Escalada Norte, montanhismo, Aemontanha, formação, curso de escalada, escalada clássica"
 dates: 
   - 2026-07-04
   - 2026-07-05
@@ -18,8 +19,8 @@ category: escalada
 📍 **Serras da Freita e São Macário**  
 
 ## 👨‍🏫 Formadores  
-- **#**  
-- 
+- **João Paulo**  
+- **Hugo Carvalho**
 
 ## 🎯 Objetivos  
 - Introduzir e contextualizar a atividade  
