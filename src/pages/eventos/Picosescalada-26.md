@@ -18,8 +18,6 @@ category: escalada
 
 ## Escalada Clássica nos Picos da Europa (Espanha) | 10 a 14 de Junho
 
-Vive uma experiência única de **Escalada Clássica nos Picos da Europa**, no norte de Espanha, através de uma travessia circular pelo Maciço Central.
-
 O projeto **“Grandes Paredes”**, promovido pela **Associação Escola de Montanha (AEM)**, consiste num estágio de escalada clássica dividido em dois momentos distintos, realizados em locais icónicos desta modalidade. O objetivo é proporcionar experiências progressivas e desafios técnicos cada vez mais exigentes aos participantes.
 
 ---
@@ -48,7 +46,9 @@ Serão dinamizadas várias atividades de preparação, em locais e com conteúdo
 - Melhorar técnicas de segurança e progressão em escalada clássica  
 - Realizar uma atividade final com elevado nível técnico e confiança 
 - Promover consciência das capacidades e limitações individuais  
-- Reforçar a coesão do grupo  
+- Reforçar a coesão do grupo
+
+---
 
 ## Programa
 
@@ -61,7 +61,7 @@ Serão dinamizadas várias atividades de preparação, em locais e com conteúdo
 
 ### Dia 11 – Quinta-feira
 
-- Escalada de via de ambientação no Naranjo  
+- Escalada de via de ambientação no Naranju  
 
 ### Dia 12 – Sexta-feira
 
@@ -69,7 +69,7 @@ Serão dinamizadas várias atividades de preparação, em locais e com conteúdo
 
 ### Dia 13 – Sábado
 
-- Escalada noutra face do Naranjo  
+- Escalada noutra face do Naranju  
 - Descida no final do dia  
 
 ### Dia 14 – Domingo
@@ -87,7 +87,7 @@ Serão dinamizadas várias atividades de preparação, em locais e com conteúdo
 
 ---
 
-## ✅ Requisitos para participar
+## Requisitos para participar
 
 Praticantes de escalada com autonomia que:
 
@@ -95,8 +95,10 @@ Praticantes de escalada com autonomia que:
 - Sejam autónomos em escalada desportiva  
 - Tenham experiência em vias de vários largos (equipadas ou clássicas)  
 
+---
 
-### Equipamento essencial
+## Equipamento essencial
+
 - Roupa desportiva e calçado robusto para caminhar 
 - Mochila média (20 a 30L) para transporta equipamento e alimentos
 - Saco-cama ou lençol  
@@ -110,6 +112,7 @@ Praticantes de escalada com autonomia que:
     - 1 anel de fita
     - 1 cordelete 
 > Disponibilizamos aluguer de EPI de escalda por 25€
+
 ---
 
 ## 💰 Preço do estágio de Escalada
@@ -134,7 +137,8 @@ Praticantes de escalada com autonomia que:
 - Enquadramento técnico  
 - Logística local  
 - Reportagem fotográfica  
-- Seguro de acidentes pessoais  
+- Seguro de acidentes pessoais 
+- Equipamento Colectivo de Escalada
 
 ---
 
@@ -166,8 +170,7 @@ Praticantes de escalada com autonomia que:
 ## Condições de Participação
 
 - Inscrição prévia com compromisso para a fase final  
-- Pagamento antecipado de 50% da atividade  
-- Participação em atividades de preparação (30€/dia)  
+- Pagamento antecipado de 50% da atividade   
 - Frequência mínima de **2 treinos obrigatórios**  
 - A equipa técnica poderá não recomendar a participação na fase final  
 - A pré-inscrição não obriga à participação final  
@@ -193,22 +196,4 @@ Indicar nome completo + atividade no pagamento.
 ---
 
 ## ❓ Dúvidas e contacto
-
 Email: aemontanha@gmail.com  
-
----
-# Projeto “Grandes Paredes”
-
-O projeto **“Grandes Paredes”**, promovido pela **Associação Escola de Montanha (AEM)**, consiste num estágio de escalada clássica dividido em dois momentos distintos, realizados em locais icónicos desta modalidade. O objetivo é proporcionar experiências progressivas e desafios técnicos cada vez mais exigentes aos participantes.
-
-## Locais e Datas
-
-- **Naranjo de Bulnes** | Parque Nacional dos Picos de Europa (Astúrias)  
-  📅 10 a 14 de junho  
-- **Galayos** | Parque Regional da Serra de Gredos (Ávila)  
-  📅 3 a 6 de outubro  
-
-O primeiro estágio decorre em rocha calcária, com vias técnicas exigentes. O segundo destaca-se pela escalada em granito, em impressionantes agulhas e pilares.
-
----
-
