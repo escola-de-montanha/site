@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/CalendarMdLayout.astro
 title: Picos da Europa 2026 | Estágio de Montanhismo em Semi-Autonomia
-shortTitle: Picos de Europa 2026
+shortTitle: Picos de Europa - Estágio Montanhismo 2026
 description: "Participa no estágio de montanhismo nos Picos da Europa (Espanha), de 10 a 14 de junho de 2026. Travessia em semi-autonomia com guias, refúgios de montanha e experiência técnica."
 keywords: "Picos da Europa 2026, montanhismo Portugal, trekking Espanha, estágio montanhismo, AEMontanha, caminhada montanha, travessia Picos Europa, escalada clássica"
 author: "Associação Escola de Montanha"
@@ -11,7 +11,7 @@ dates:
 - 2026-06-12
 - 2026-06-13
 - 2026-06-14
-category: multi
+category: montanhismo
 ---
 
 # Picos da Europa 2026 – Estágio de Montanhismo em Semi-Autonomia
