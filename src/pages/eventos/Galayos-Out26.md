@@ -25,7 +25,7 @@ Este projeto consiste no acompanhamento dum grupo ao longo de diversas atividade
 - Noção das suas capacidades e limitações
 - Mais confiança para os desafios a enfrentar
 
-<p>O projeto será liderado pelo técnico [JP Lopes] que irá acompanhar o grupo de inscritos ao longo de vários meses até à realização da atividade final prevista para os dias 25 a 28 de outubro.<br> 
+<p>O projeto será liderado pelo técnico [JP Lopes] que irá acompanhar o grupo de inscritos ao longo de vários meses até à realização da atividade final prevista para os dias 3 a 5 de outubro.<br> 
 Esse acompanhamento será feito em atividades a combinar entre o técnico e os participantes em diferentes locais, com diferentes temas.<br>
  Não sendo de carácter obrigatório, são altamente recomendadas e será estipulado um mínimo de participações para poder participar no estágio final.</p>
 
@@ -80,11 +80,11 @@ Esse acompanhamento será feito em atividades a combinar entre o técnico e os p
 ### Custos 
 
 ##### **Fase Final:**
-- **€** associados autónomos na prática de escalada clássica
+- **100€** associados autónomos na prática de escalada clássica
 (capazes de liderar uma cordada)
-- **€** Associados AEM, praticantes de escalada clássica, não autónomos
+- **300€** Associados AEM, praticantes de escalada clássica, não autónomos
 (habituados a escalar em segundo de cordada)
-- **€** para não associados (autónomos ou não)
+- **400€** para não associados (autónomos ou não)
 
 *na adesão ao projeto, pagam com 50% deste valor, reembolsável (25%)
 em caso de não participar na atividade final.*
@@ -96,8 +96,8 @@ em caso de não participar na atividade final.*
 
 
 ##### **Fase de preparação:**
-- €/dia associados
-- €/dia não associados
+- 30€/dia associados
+- 45€/dia não associados
 - Rácio máximo de 1 técnico para 4 participantes
 
 
