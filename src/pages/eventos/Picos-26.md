@@ -14,17 +14,6 @@ dates:
 category: multi
 ---
 
-## Opção 1
-
-Estágio de Montanhismo de 4 a 5 dias no Anel Central dos Picos de Europa
-
-## Opção 2
-
-Estágio de Escalada Clássica nas Paredes do Pico Uriellu (Naraju de Bulnes)
-
-O Estágio de Escalada Clássica da AEM será realizado em datas simultâneas. Pelo que será articulado um encontro entre os grupos, podendo uma caminhada, ou parte dela, ser realizada em conjunto.
-
-
 # Picos da Europa 2026 – Estágio de Montanhismo em Semi-Autonomia
 
 ## Travessia nos Picos da Europa (Espanha) | 10 a 14 de Junho
