@@ -11,7 +11,8 @@ excludeFromNav: true
 ## Estágios
 
 - [Sanábria](https://escolademontanha.com/eventos/sanabria26/)
-- [Picos de Europa](https://escolademontanha.com/eventos/picos-26/)
+- [Picos de Europa - Montanhismo](https://escolademontanha.com/eventos/picos-26/)
+- [Picos de Europa - Escalada Clássica](https://escolademontanha.com/eventos/picosescalada-26/)
 - [Madeira](https://escolademontanha.com/eventos/estagio-madeira-maio26/)
 - [Galayos](https://escolademontanha.com/eventos/galayos-out26/)
 
