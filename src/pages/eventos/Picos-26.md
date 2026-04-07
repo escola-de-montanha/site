@@ -13,9 +13,6 @@ dates:
 - 2026-06-14
 category: multi
 ---
-# Estágio de Escalada e Caminhada
-<p> Junho 2026</p>
-<p> Local: Espanha</p>
 
 ## Opção 1
 
@@ -23,8 +20,8 @@ Estágio de Montanhismo de 4 a 5 dias no Anel Central dos Picos de Europa
 
 ## Opção 2
 
-Estágio de Escalada Clássica nas Paredes do Pico Uriello (Naraju de Bulnes)
-
+Estágio de Escalada Clássica nas Paredes do Pico Uriellu (Naraju de Bulnes)
+O Estágio de Escalada Clássica da AEM será realizado em datas simultâneas. Pelo que será articulado um encontro entre os grupos, podendo uma caminhada, ou parte dela, ser realizada em conjunto.
 
 
 # Picos da Europa 2026 – Estágio de Montanhismo em Semi-Autonomia
@@ -112,8 +109,6 @@ Requisitos:
 - **200 €** — Associados  
 - **300 €** — Não associados  
 
-👉 https://escolademontanha.com/
-
 ---
 
 ## 📦 O que está incluído
@@ -139,7 +134,7 @@ Requisitos:
 ## 💸 Custos adicionais estimados
 
 - Refúgios: ~156 €  
-- Viagem: variável  
+- Viagem: variável (a combinar entre participantes) 
 - Alimentação autónoma  
 
 Alguns refúgios disponibilizam picnic (~16 €).
@@ -150,7 +145,7 @@ Alguns refúgios disponibilizam picnic (~16 €).
 
 **Data limite:** 20 de maio  
 
-(Link de inscrição a disponibilizar)
+[Inscrição](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
 
 ---
 
@@ -187,7 +182,3 @@ Indicar nome completo + atividade no pagamento.
 Email: aemontanha@gmail.com  
 
 ---
-
-## 🔎 Palavras-chave relacionadas
-
-montanhismo Picos da Europa, trekking Espanha, caminhada montanha guiada, estágio montanhismo Portugal, travessia Picos Europa, hiking Espanha guiado
