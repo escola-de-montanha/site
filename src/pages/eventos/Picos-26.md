@@ -6,11 +6,6 @@ description: "Participa no estágio de montanhismo nos Picos da Europa (Espanha)
 keywords: "Picos da Europa 2026, montanhismo Portugal, trekking Espanha, estágio montanhismo, AEMontanha, caminhada montanha, travessia Picos Europa, escalada clássica"
 author: "Associação Escola de Montanha"
 dates: 
-- 2026-06-10
-- 2026-06-11
-- 2026-06-12
-- 2026-06-13
-- 2026-06-14
 category: montanhismo
 ---
 
