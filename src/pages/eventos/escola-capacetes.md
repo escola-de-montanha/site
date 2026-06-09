@@ -25,6 +25,7 @@ category: canyoning
 
 ### Programa:
 **Sábado**
+
 <p>10h - Encontro na sede da associação parceira ICA (Lourido)</p>
 <p>Preparação do equipamento individual e coletivo</p>
 <p>11h - Deslocação para o rio Carcerelha</p>
@@ -33,6 +34,7 @@ category: canyoning
 <p>20h - Jantar convívio</p>
 
 **Domingo**
+
 9h -  Encontro na sede da associação parceira ICA (Lourido)
 
 Preparação do equipamento individual e coletivo
@@ -63,12 +65,19 @@ Preparação do equipamento individual e coletivo
 
 ### Equipamento obrigatório:
 Capacete
+
 Arnês 
+
 Longe dupla assimétrica 
+
 Descensor 8 e respetivo mosquetão 
+
 Fato de neoprene integral
+
 Meias de Neoprene 
+
 Calçado adequado à prática
+
 
 ### Dormida e Refeições:
 Recomenda-se que os participantes levem as próprias refeições
@@ -76,17 +85,24 @@ Recomenda-se que os participantes levem as próprias refeições
 Possibilidade de pernoita na SEDE da ICA ou alojamento local
 
 *Casos omissos*	
+
 Os casos omissos neste documento serão resolvidos pela organização do evento.
 
 *Termo de Responsabilidade*	
+
 No Secretariado será dado a todos os participantes um termo de responsabilidade no qual se declara que se teve conhecimento e concorda com as presentes condições de participação.
 
 ### Inscrições:
+
 Até dia 06 de julho no seguinte   link
+
 Mínimo de 4 participantes para realizar a atividade
 
 
 ### Pagamento
+
 Por transferência bancária: IBAN:PT50 0033 0000 45589654875 05.
+
 MBWAY: 911 843 936 
+
 Por favor, referir o nome e a atividade a que se refere o pagamento
