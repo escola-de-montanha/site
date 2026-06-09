@@ -10,14 +10,17 @@ category: canyoning
 
 
 ### Atividade de Canyoning
+
 # Escola a Molhar o Capacete
 ## Serras do Gerês
-                                 11 e 12 de julho
+## **11 e 12 de julho**
+
+
 ### Técnicos: 
 **Nelson Cunha**
 
 ### Objetivos 
--Evento destinado a proporcionar momentos de prática de canyoning a associados praticantes, admitindo a participação de simpatizantes não associados. 
+- Evento destinado a proporcionar momentos de prática de canyoning a associados praticantes, admitindo a participação de simpatizantes não associados. 
 - Promover a modalidade de Canyoning dentro da dinâmica da Associação na Escola de Montanha.
 
 ### Programa:
