@@ -26,28 +26,41 @@ category: canyoning
 ### Programa:
 **Sábado**
 10h - Encontro na sede da associação parceira ICA (Lourido)
+
 Preparação do equipamento individual e coletivo
+
 11h - Deslocação para o rio Carcerelha
+
 12h - Início da descida
+
 17h - Término da descida
+
 20h - Jantar convívio 
 
 **Domingo**
 9h -  Encontro na sede da associação parceira ICA (Lourido)
+
 Preparação do equipamento individual e coletivo
+
 10h - Deslocação para o Rio Arado
+
 11h - Início da descida
+
 17h - Término da descida
 
 ## Custo por dia: 
 
 10€ Associados autónomos
+
 20€ Associados com necessidade de apoio técnico
-30€ Não associados.
+
+30€ Não associados
+
 
 > Inclui: enquadramento técnico, equipamento coletivo, interpretação da paisagem,  seguro e reportagem fotográfica.
 
 Refeições e Alojamento da responsabilidade do participante
+
 Possibilidade de aluguer de equipamento individual por 30€/dia na empresa Tobogã
 
 ### Requisitos de participação:
@@ -65,12 +78,13 @@ Calçado adequado à prática
 
 ### Dormida e Refeições:
 Recomenda-se que os participantes levem as próprias refeições
+
 Possibilidade de pernoita na SEDE da ICA ou alojamento local
 
-Casos omissos	
+*Casos omissos*	
 Os casos omissos neste documento serão resolvidos pela organização do evento.
 
-Termo de Responsabilidade	
+*Termo de Responsabilidade*	
 No Secretariado será dado a todos os participantes um termo de responsabilidade no qual se declara que se teve conhecimento e concorda com as presentes condições de participação.
 
 ### Inscrições:
