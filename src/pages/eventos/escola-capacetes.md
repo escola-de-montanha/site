@@ -25,17 +25,12 @@ category: canyoning
 
 ### Programa:
 **Sábado**
-10h - Encontro na sede da associação parceira ICA (Lourido)
-
-Preparação do equipamento individual e coletivo
-
-11h - Deslocação para o rio Carcerelha
-
-12h - Início da descida
-
-17h - Término da descida
-
-20h - Jantar convívio 
+<p>10h - Encontro na sede da associação parceira ICA (Lourido)</p>
+<p>Preparação do equipamento individual e coletivo</p>
+<p>11h - Deslocação para o rio Carcerelha</p>
+<p>12h - Início da descida</p>
+<p>17h - Término da descida</p>
+<p>20h - Jantar convívio</p>
 
 **Domingo**
 9h -  Encontro na sede da associação parceira ICA (Lourido)
@@ -59,13 +54,12 @@ Preparação do equipamento individual e coletivo
 
 > Inclui: enquadramento técnico, equipamento coletivo, interpretação da paisagem,  seguro e reportagem fotográfica.
 
-Refeições e Alojamento da responsabilidade do participante
-
-Possibilidade de aluguer de equipamento individual por 30€/dia na empresa Tobogã
+<p>Refeições e Alojamento da responsabilidade do participante</p>
+<p>Possibilidade de aluguer de equipamento individual por 30€/dia na empresa Tobogã</p>
 
 ### Requisitos de participação:
-Como associado autónomo: praticante de canyoning, com equipamento próprio completo, autonomia técnica.
-Como iniciado ou curioso: com pouca ou nenhuma experiência, sem autonomia técnica para realizar descidas em autonomia e com boa condição física, para caminhar num piso muito irregular, saltar para a água e nadar em águas vivas.
+<p>Como associado autónomo: praticante de canyoning, com equipamento próprio completo, autonomia técnica.</p>
+<p>Como iniciado ou curioso: com pouca ou nenhuma experiência, sem autonomia técnica para realizar descidas em autonomia e com boa condição física, para caminhar num piso muito irregular, saltar para a água e nadar em águas vivas.</p>
 
 ### Equipamento obrigatório:
 Capacete
