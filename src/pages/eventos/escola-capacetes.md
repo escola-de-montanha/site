@@ -94,7 +94,7 @@ No Secretariado será dado a todos os participantes um termo de responsabilidade
 
 ### Inscrições:
 
-Até dia 06 de julho no seguinte   link
+Até dia 06 de julho no link ([INSCRIÇÃO](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)) 
 
 Mínimo de 4 participantes para realizar a atividade
 
