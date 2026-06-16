@@ -57,10 +57,9 @@ category: canyoning
 ### ✅ Inclui  
 ✔ **Seguro**  
 ✔ **Certificação**  
-✔ **Equipamento coletivo e individual**  
+✔ **Equipamento coletivo**  
 ✔ **Documentos de apoio**  
-
-📖 *Possibilidade de adquirir um **manual de escalada** por **10€***  
+  
 
 🚫 **Não inclui:** deslocações, dormida e refeições *(responsabilidade do participante)*  
 🏕 *Possibilidade de pernoita na sede, em chão duro*  
