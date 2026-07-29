@@ -1,12 +1,12 @@
---erro
+---
 layout: ../../layouts/CalendarMdLayout.astro
-title: Autonomia Escalada Desportiva Outubro
+title: Autonomia Escalada Desportiva Setembro
 shortTitle: Autonomia Escalada Desportiva
 dates: 
-  - 2025-10-18
-  - 2025-10-19
-  - 2025-11-01
-  - 2025-11-02
+  - 2026-10-12
+  - 2026-10-13
+  - 2026-10-19
+  - 2026-10-20
 category: 
 ---
 # Curso de Escalada Desportiva  
@@ -14,11 +14,11 @@ category:
 *(Presencial e Online)*  
 
 ## 📍 Data e Local  
-📅 **18 | 19 de Outubro e 01 | 02 de Novembro** + 2 sessões online  
-📍 **A definir**  
+📅 **Setembro 2026** + 2 sessões online  
+📍 **Serra da Freita**  
 
 ## 👨‍🏫 Formador Principal  
-- **?**  
+- **JP**  
 
 ## 🎯 Objetivos  
 - Contextualizar e esclarecer sobre a atividade *(conceitos e ética)*  
