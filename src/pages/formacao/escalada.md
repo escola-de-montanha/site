@@ -27,7 +27,7 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 |**Nível**||**Descrição**|
 |-----|--------------------------|----|
 |**1**|**Clássica** |**[Iniciação](https://escolademontanha.com/eventos/iniciacao-classica-set/)** |
-|**2**|**Clássica** |**Autonomia** |
+|**2**|**Clássica** |**[Autonomia](https://escolademontanha.com/eventos/autonomia-escala-marco-2025/)** |
 
 
 **TÉCNICO**
