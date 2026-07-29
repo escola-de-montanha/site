@@ -20,14 +20,13 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 |-----|--------------------------|----|
 |**1**|**Desportiva** |**Iniciação** |
 |**2**|**Desportiva** |**Autonomia** |
-|**3**|**Desportiva** |**[Multi-largos](https://escolademontanha.com/eventos/avan%C3%A7ado-multilargos/)** |
-|**3**|**Desportiva** |**[Aperfeiçoamento Segurança](https://escolademontanha.com/eventos/avan%C3%A7ado-seguran%C3%A7aes/)** |
-|**3**|**Desportiva** |**Equipamento de vias** |
+|**3**|**Desportiva** |**Multi-largos** |
+|**3**|**Desportiva** |**Equipamento de vias**|
 
 
 |**Nível**||**Descrição**|
 |-----|--------------------------|----|
-|**1**|**Clássica** |**[Iniciação](https://escolademontanha.com/eventos/iniciacao-classica-jul/)** |
+|**1**|**Clássica** |**[Iniciação](https://escolademontanha.com/eventos/iniciacao-classica-set/)** |
 |**2**|**Clássica** |**Autonomia** |
 
 

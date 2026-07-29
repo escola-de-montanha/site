@@ -21,7 +21,7 @@ excludeFromNav: true
 - Escola a Trepar - Castelo de Vide
 - Escola a Trepar - Penha Guimarães
 
-- [Escola a Molhar Capacetes - Arouca](https://escolademontanha.com/eventos/escola-capacetes/)
+- Escola a Molhar Capacetes - Arouca
 
 - [Escola a Caminhar - Gredos](https://escolademontanha.com/eventos/escola-caminhar-gredos/)
 - [Escola a Caminhar - Gerês](https://escolademontanha.com/eventos/escola-caminha-geres/)
