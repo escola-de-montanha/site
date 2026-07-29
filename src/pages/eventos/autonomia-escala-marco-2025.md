@@ -3,10 +3,10 @@ layout: ../../layouts/CalendarMdLayout.astro
 title: Autonomia Escalada Desportiva Setembro
 shortTitle: Autonomia Escalada Desportiva
 dates: 
-  - 2026-10-12
-  - 2026-10-13
-  - 2026-10-19
-  - 2026-10-20
+  - 2026-09-12
+  - 2026-09-13
+  - 2026-09-19
+  - 2026-09-20
 category: 
 ---
 # Curso de Escalada Desportiva  
