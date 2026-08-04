@@ -15,7 +15,7 @@ Prática que consiste na exploração e conquista de montanhas, abrangendo desde
 
 |**Nível**|**Descrição**| 
 |-----|--------------------------|
-|**1**| **[Iniciação](https://escolademontanha.com/eventos/iniciacao-montanhismo-junho-2026/)** |
+|**1**| **Iniciação** |
 |**2**|**Autonomia**|
 
 **TÉCNICO**

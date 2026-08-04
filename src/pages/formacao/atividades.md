@@ -10,7 +10,7 @@ excludeFromNav: true
 
 ## Estágios
 
-- Sanábria]
+- Sanábria
 - Picos de Europa - Montanhismo
 - Picos de Europa - Escalada Clássica
 - Madeira
