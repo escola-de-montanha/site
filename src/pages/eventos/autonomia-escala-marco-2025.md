@@ -45,9 +45,9 @@ category:
 🖥 **Aulas online:** às 21h, em dias a definir  
 
 ## 💰 Custo  ?
-- **Associados AEM:** € *(aplica-se a membros das entidades parceiras)*  
-- **Não sócios:** €  
-- **Reciclagem do curso para associados:** €/dia  
+- **Associados AEM:** 150€ *(aplica-se a membros das entidades parceiras)*  
+- **Não sócios:** 225€  
+- **Reciclagem do curso para associados:** 30€/dia  
 
 ### ✅ Inclui  
 ✔ Seguro  
