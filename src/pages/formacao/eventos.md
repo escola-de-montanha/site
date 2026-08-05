@@ -9,9 +9,9 @@ excludeFromNav: true
 
 # Eventos 2026
 
-- [Sicar](https://escolademontanha.com/eventos/sicar26/)
+- Sicar
 
-- [Escaramular](https://escolademontanha.com/eventos/escaramular/)
+- Escaramular
 
 - [Pedra Má](https://escolademontanha.com/eventos/pedram%C3%A126/)
 
