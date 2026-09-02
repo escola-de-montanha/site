@@ -18,4 +18,5 @@ A escola de Montanha quer levar um grupo de participante a participar no festiva
 
 Se tiver interesse em participar no evento envie e-mail para pedir mais informações
 
-[Informações e Programa](https://www.cogneiceopening.net/)
+[Informações e Programa](https://www.cogneiceopening.net/program2026?fbclid=PAdGRzdgT45DhwZG9mAmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp1kOE7F5nibB36HhjGJOb82GoSTdWmO27iZenMrV6ZHdVexHO2equBV_Bz8s_aem_yil41PktPeCEQk_AjmTFaQ)
+![Cogne](../../assets/images/cogne_1.png)
