@@ -14,3 +14,5 @@ category: socios
 
 
 Vamos apoiar e participar no evento organizado pelo MOA na nossa escola de Escalada da Pedra Má
+
+![Pedra](../../assets/images/pedra.jpeg)
