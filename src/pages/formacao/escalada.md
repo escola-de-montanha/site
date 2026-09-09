@@ -19,7 +19,7 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 |**Nível**||**Descrição**|
 |-----|--------------------------|----|
 |**1**|**Desportiva** |**Iniciação** |
-|**2**|**Desportiva** |**[Autonomia]** |
+|**2**|**Desportiva** |**Autonomia** |
 |**3**|**Desportiva** |**Multi-largos** |
 |**3**|**Desportiva** |**Equipamento de vias**|
 
