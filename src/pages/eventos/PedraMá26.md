@@ -18,3 +18,8 @@ Vamos apoiar e participar no evento organizado pelo MOA na nossa escola de Escal
 [INSCRIÇÃO](https://forms.gle/NDDU2n3D5DpWANc67)
 ![Pedra](../../assets/images/pedra.jpeg)
 [INSCRIÇÃO](https://forms.gle/NDDU2n3D5DpWANc67)
+
+
+
+[INFORMAÇÔES](https://docs.google.com/document/d/1AM9I8hadiJulChxaFB4mTXg5zTvkKgUz/edit?usp=sharing&ouid=101661911491163952513&rtpof=true&sd=true)
+
