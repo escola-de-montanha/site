@@ -10,15 +10,11 @@ category: socios
 
 # Encontro da Pedra Má
 
-## Local: Oliveira de Azemeis ( Cascata da Pedra Má)
-
-
-Vamos apoiar e participar no evento organizado pelo MOA na nossa escola de Escalada da Pedra Má
-
 [INSCRIÇÃO](https://forms.gle/NDDU2n3D5DpWANc67)
 ![Pedra](../../assets/images/pedra.jpeg)
 [INSCRIÇÃO](https://forms.gle/NDDU2n3D5DpWANc67)
 
+### Local: Oliveira de Azemeis ( Cascata da Pedra Má)
 ## Programa
 
 ### Sábado 26 de Setembro
@@ -45,7 +41,7 @@ Vamos apoiar e participar no evento organizado pelo MOA na nossa escola de Escal
 Preço Associado: 10€ 
 Inclui seguro, t-shirt e jantar**
 
-** Primeiras 40 inscrições para o jantar
+** Oferta Primeiras 40 inscrições para o jantar
 
 
 
