@@ -50,5 +50,5 @@ Inclui seguro, t-shirt e jantar**
 
 
 
-[INFORMAÇÔES](https://docs.google.com/document/d/1AM9I8hadiJulChxaFB4mTXg5zTvkKgUz/edit?usp=sharing&ouid=101661911491163952513&rtpof=true&sd=true)
+[+ INFORMAÇÔES](https://docs.google.com/document/d/1AM9I8hadiJulChxaFB4mTXg5zTvkKgUz/edit?usp=sharing&ouid=101661911491163952513&rtpof=true&sd=true)
 
