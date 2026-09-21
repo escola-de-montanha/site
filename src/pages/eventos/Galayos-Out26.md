@@ -6,6 +6,7 @@ dates:
 - 2026-10-03
 - 2026-10-04
 - 2026-10-05
+- 2026-10-06
 
 
 category: multi 
@@ -80,11 +81,11 @@ Esse acompanhamento será feito em atividades a combinar entre o técnico e os p
 ### Custos 
 
 ##### **Fase Final:**
-- **100€** associados autónomos na prática de escalada clássica
+- **125€** associados autónomos na prática de escalada clássica
 (capazes de liderar uma cordada)
-- **300€** Associados AEM, praticantes de escalada clássica, não autónomos
+- **250€** Associados AEM, praticantes de escalada clássica, não autónomos
 (habituados a escalar em segundo de cordada)
-- **400€** para não associados (autónomos ou não)
+- **375€** para não associados (autónomos ou não)
 
 *na adesão ao projeto, pagam com 50% deste valor, reembolsável (25%)
 em caso de não participar na atividade final.*
