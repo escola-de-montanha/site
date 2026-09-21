@@ -54,10 +54,10 @@ Inclui 8 aulas on-line, em horário pós-laboral, em dia da semana a combinar
 </p>
 
 #### Custo:
-- Associados AEM: 450€
-- Não sócios: 675€
+- Associados AEM: **450€**
+- Não sócios: **600€**
 - Reciclagem do curso para associados que queiram repetir sessões: 25€/dia
-
+- Desconto de 25% para técnicos da Associação Escola de Montanha
 <p>
 *Inclui: seguro, certificação DGERT e AEM, partilha de fotografias e documentos de apoio<br>
 Deslocações, dormida e refeições da responsabilidade do participante.<br>
@@ -78,6 +78,9 @@ Possibilidade de pernoita na sede, em chão duro*
 - Outros cursos da AEM
 - Ser guia de Percursos Pedestres no ativo
 - Proximidade Regional
+
+#### Informações 
+[Mais informações](https://docs.google.com/document/d/1gOUTTBnkzg7fZbS8q2ocpnVuiuziHzRLqRdf_NBBIa8/edit?usp=sharing)
 
 #### Inscrições:
 Até dia 10 dias antes
