@@ -26,7 +26,7 @@ Este projeto consiste no acompanhamento dum grupo ao longo de diversas atividade
 - Noção das suas capacidades e limitações
 - Mais confiança para os desafios a enfrentar
 
-<p>O projeto será liderado pelo técnico [JP Lopes] que irá acompanhar o grupo de inscritos ao longo de vários meses até à realização da atividade final prevista para os dias 3 a 5 de outubro.<br> 
+<p>O projeto será liderado pelo técnico *JP Lopes* que irá acompanhar o grupo de inscritos ao longo de vários meses até à realização da atividade final prevista para os dias 3 a 5 de outubro.<br> 
 Esse acompanhamento será feito em atividades a combinar entre o técnico e os participantes em diferentes locais, com diferentes temas.<br>
  Não sendo de carácter obrigatório, são altamente recomendadas e será estipulado um mínimo de participações para poder participar no estágio final.</p>
 
