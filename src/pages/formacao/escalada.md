@@ -26,7 +26,7 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 
 |**Nível**||**Descrição**|
 |-----|--------------------------|----|
-|**1**|**Clássica** |**[Iniciação](https://escolademontanha.com/eventos/iniciacao-classica-set/)** |
+|**1**|**Clássica** |**Iniciação**|
 |**2**|**Clássica** |**Autonomia** |
 
 
@@ -34,7 +34,7 @@ Atividade desafiante que envolve vencer a verticalidade de paredes artificias, d
 
 |**Nível**||**Descrição**|
 |-----|------------------------|----|
-|**1**|**Técnico** |**[Monitor de Escalada](https://escolademontanha.com/eventos/tecnico1-escalada/)** |
+|**1**|**Técnico** |**Monitor de Escalada**|
 
 
 

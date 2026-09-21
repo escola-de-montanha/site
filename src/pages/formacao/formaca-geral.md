@@ -12,7 +12,7 @@ order: 5
 ### [Curso de Socorrismo](https://escolademontanha.com/eventos/socorrismo-26-2/)
 
 
-## Curso de Meteorologia
+### Curso de Meteorologia
 
 ### Aulas Online
 

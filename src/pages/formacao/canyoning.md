@@ -16,7 +16,7 @@ Atividade refrescante de montanha e água que combina aventura e diversão. Cons
 
 |**Nível**|**Descrição**| 
 |-----|--------------------------|
-|**1**| **[Iniciação](https://escolademontanha.com/eventos/iniciacao-canyoning-setembro26/)** |
+|**1**| **Iniciação** |
 |**2**|**Autonomia**|
 
 [![INSCRIÇÕES](../../assets/images/insc.png)](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform)
