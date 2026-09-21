@@ -8,7 +8,9 @@ dates:
 category: socios
 ---
 
-# Encontro da Pedra Má
+# ESGOTADO 
+
+## Encontro da Pedra Má - ESGOTADO
 
 [INSCRIÇÃO](https://forms.gle/NDDU2n3D5DpWANc67)
 ![Pedra](../../assets/images/pedra.jpeg)
