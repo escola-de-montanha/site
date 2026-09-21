@@ -26,6 +26,7 @@ excludeFromNav: true
 - [Escola a Caminhar - Gredos]
 - [Escola a Caminhar - Gerês](https://escolademontanha.com/eventos/escola-caminha-geres/)
 
+
 ## Expedição
 
 - Expediçao Kilimanjaro
