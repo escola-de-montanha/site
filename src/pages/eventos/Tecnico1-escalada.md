@@ -1,4 +1,4 @@
----
+--
 layout: ../../layouts/CalendarMdLayout.astro
 title: Técnico N1 Escalada
 shortTitle: Técnico N1 Escalada

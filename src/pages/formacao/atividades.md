@@ -23,7 +23,7 @@ excludeFromNav: true
 
 - Escola a Molhar Capacetes - Arouca
 
-- [Escola a Caminhar - Gredos](https://escolademontanha.com/eventos/escola-caminhar-gredos/)
+- [Escola a Caminhar - Gredos]
 - [Escola a Caminhar - Gerês](https://escolademontanha.com/eventos/escola-caminha-geres/)
 
 ## Expedição
