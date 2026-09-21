@@ -26,13 +26,13 @@ Este projeto consiste no acompanhamento de um grupo ao longo de diversas ativida
 - Noção das suas capacidades e limitações
 - Mais confiança para os desafios a enfrentar
 
-<p>O projeto será liderado pelo técnico *JP Lopes* que irá acompanhar o grupo de inscritos ao longo de vários meses até à realização da atividade final prevista para os dias *3 a 6 de outubro*.<br> 
+<p>O projeto será liderado pelo técnico <b>JP Lopes</b> que irá acompanhar o grupo de inscritos ao longo de vários meses até à realização da atividade final prevista para os dias <b>3 a 6 de outubro</b>.<br> 
 Esse acompanhamento será feito em atividades a combinar entre o técnico e os participantes em diferentes locais, com diferentes temas.<br>
  Não sendo de carácter obrigatório, são altamente recomendadas e será estipulado um mínimo de participações para poder participar no estágio final.</p>
 
 ##### **Data:**
 - Fase preparatória: diversas atividades em datas a propor pelo técnico e participantes
-- Fase final: ? + 1 sessão preparatória online
+- Fase final: 3 a 6 de outubro 2026
 
 ##### **Técnicos:**
 - João Paulo Ferrão, Eduardo Ventura e Nelson Cunha.
