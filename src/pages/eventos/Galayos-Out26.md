@@ -19,14 +19,14 @@ category: multi
 
 ![Galayos](../../assets/images/jp-galayos.jpeg)
 ##### **Introdução:**
-Este projeto consiste no acompanhamento dum grupo ao longo de diversas atividades, tendo em vista um estágio final nos Galayos, de modo a que os participantes cheguem a esta atividade com:
+Este projeto consiste no acompanhamento de um grupo ao longo de diversas atividades, tendo em vista um estágio final nos Galayos, de modo a que os participantes cheguem a esta atividade com:
 
 - Mais treino técnico e físico
 - Melhor conhecimento do grupo
 - Noção das suas capacidades e limitações
 - Mais confiança para os desafios a enfrentar
 
-<p>O projeto será liderado pelo técnico *JP Lopes* que irá acompanhar o grupo de inscritos ao longo de vários meses até à realização da atividade final prevista para os dias 3 a 5 de outubro.<br> 
+<p>O projeto será liderado pelo técnico *JP Lopes* que irá acompanhar o grupo de inscritos ao longo de vários meses até à realização da atividade final prevista para os dias 3 a 6 de outubro.<br> 
 Esse acompanhamento será feito em atividades a combinar entre o técnico e os participantes em diferentes locais, com diferentes temas.<br>
  Não sendo de carácter obrigatório, são altamente recomendadas e será estipulado um mínimo de participações para poder participar no estágio final.</p>
 
@@ -35,7 +35,7 @@ Esse acompanhamento será feito em atividades a combinar entre o técnico e os p
 - Fase final: ? + 1 sessão preparatória online
 
 ##### **Técnicos:**
-- João Paulo Ferrão, entre outros, se necessário.
+- João Paulo Ferrão, Eduardo Ventura e Nelson Cunha.
 
 ##### **Público alvo:**
 - Praticantes de escalada autónomos:
@@ -49,36 +49,20 @@ Esse acompanhamento será feito em atividades a combinar entre o técnico e os p
 
 ##### **Condições de participação:**
 - Inscrição prévia no projeto, com intenção e compromisso de participar na fase final
-- Pagamento adiantado de uma parte do valor da atividade final.
-- Participação em atividades a marcar com os técnicos envolvidos, pagas ao dia.
+- Pagamento adiantado de uma parte do valor da atividade final(50%).
+- Participação em atividades a marcar com os técnicos envolvidos, pagas ao dia(30€).
 - Não poderá participar na fase final sem um mínimo de 2 atividades de treino prévio
 - Reserva-se aos técnicos o direito de não recomendar a participação na fase final do projeto
 - O pré-inscrito não se vê obrigado a participar na fase final.
 
 
 
-### Programa da fase final:
-
-**Dia 2 - 6ª feira**
-- Viagem: saída de Portugal ao final da tarde ou noite para chegar ao local de madrugada
-
-**Dia 3 - sábado**
-- Aproximação ao Torozo
-- Escalada de 1 via de ambientação (Diedro)
-- Viagem para o parque dos Galayos e aproximação ao refúgio
-
-**Dia 4 - domingo**
-- Escalada de uma grande via (Torreon, ou Punta Maria Luísa)
-
-**Dia 5 - 2ª feira**
-- Escalada de outra grande via (agulha Negra)
-
-**Dia 6 - opção de regresso na 3ª feira**
-
-
-
 
 ### Custos 
+
+##### **Treinos de Preparação:**
+- **30€/dia** sócios
+- **45€/dia** não sócios
 
 ##### **Fase Final:**
 - **125€** associados autónomos na prática de escalada clássica
@@ -96,13 +80,6 @@ em caso de não participar na atividade final.*
 > Aproximação de cerca de 6km com muito desnível que pode demorar até 3h.</p>
 
 
-##### **Fase de preparação:**
-- 30€/dia associados
-- 45€/dia não associados
-- Rácio máximo de 1 técnico para 4 participantes
-
-
-
 ##### **Equipamento individual necessário:**
 - Roupa desportiva e calçado robusto para caminhar
 - Reforço alimentar para meio da manhã, lanches e outras pausas
@@ -118,8 +95,8 @@ em caso de não participar na atividade final.*
 Em regime facultativo, disponibilizamos a aluguer de equipamento individual, pelo valor total de 25€ ou 5€ por equipamento necessário, pagos no dia ao formador.
 
 #### Inscrições 
-Até dia 
-[INSCRIÇÃO](link)
+
+[INSCRIÇÃO](https://docs.google.com/forms/d/e/1FAIpQLSelXCNTYBeTeoKgx9tc_A23BrDfwuzNpNhByjM3i102VbNctg/viewform?usp=header)
 
 #### Pagamento
 Por transferência bancária: **IBAN:PT50 0033 0000 45589654875 05**
