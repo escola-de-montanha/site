@@ -11,6 +11,7 @@ import netlify from '@astrojs/netlify';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://escolademontanha.com',
   prefetch: {
     defaultStrategy: 'viewport',
     prefetchAll: true
