@@ -9,10 +9,11 @@ dates:
 category: montanhismo
 ---
 
-# 28 e 29 Novembro
-Local: Serra da Peneda-Gerês
-Caminhada em Autonomia
 # AUTONOMIA GERÊS 2026
+
+A Autonomia Gerês 2026 é uma atividade de montanha promovida pela Escola de Montanha, destinada aos seus associados e não só, que pretende proporcionar dois dias de caminhada e vivência em ambiente de montanha, numa das regiões mais emblemáticas do Parque Nacional da Peneda-Gerês.
+A atividade decorrerá em regime de autonomia, privilegiando a experiência de caminhar em montanha, o contacto com a natureza e com o património natural e cultural da região e, sobretudo, o convívio e a partilha de experiências entre associados.
+A atividade será acompanhada pelos técnicos João Matos e Tiago Silva, responsáveis pelo enquadramento e acompanhamento do grupo durante os percursos
 
 ## DATA E LOCAL
 Data: 28 e 29 de novembro de 2026
