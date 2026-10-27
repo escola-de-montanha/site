@@ -83,8 +83,8 @@ Parque de Campismo da Cerdeira – Campo do Gerês – Geira Romana – Fenda da
 
 •	Encerramento da atividade e despedida dos participantes.
 
-Distância e desnível: 14km e 515m de desnível positivo.
-* O programa poderá sofrer alterações em função das condições meteorológicas, estado do terreno ou outras circunstâncias que possam condicionar a segurança e o normal desenvolvimento da atividade.
+> Distância e desnível: 14km e 515m de desnível positivo.
+> O programa poderá sofrer alterações em função das condições meteorológicas, estado do terreno ou outras circunstâncias que possam condicionar a segurança e o normal desenvolvimento da atividade.
 
 ## REQUISITOS DE PARTICIPAÇÃO
 
@@ -117,7 +117,7 @@ A atividade destina-se a associados com experiência e autonomia na prática de 
 
 •	**Grátis** – técnicos de montanha ou associados AEM com formação montanhismo*;
 
-*c/cotas em dia*
+> *c/cotas em dia*
 
 ## INCLUÍDO
 
@@ -133,7 +133,7 @@ O valor da inscrição inclui:
 
 •	Organização e acompanhamento do grupo durante a atividade
 
-## NÂO INCLUÍDO
+## NÃO INCLUÍDO
 
 Não estão incluídos:
 
@@ -147,7 +147,7 @@ Não estão incluídos:
 
 •	Quaisquer outras despesas pessoais.
 
-Todos estes custos são da responsabilidade dos participantes
+> Todos estes custos são da responsabilidade dos participantes
 
 ## EQUIPAMENTO
 
