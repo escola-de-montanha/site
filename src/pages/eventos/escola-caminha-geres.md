@@ -17,11 +17,13 @@ A atividade será acompanhada pelos técnicos João Matos e Tiago Silva, respons
 
 ## DATA E LOCAL
 Data: 28 e 29 de novembro de 2026
+
 Local: Serra da Peneda-Gerês
+
 Percurso: Vila do Gerês – Junceda – Pé de Cabril – Parque de Campismo da Cerdeira / Parque de Campismo da Cerdeira – Campo do Gerês – Geira Romana – Fenda da Calcedónia – Vila do Gerês
 
 ## TÉCNICOS
-João Matos
+<p>João Matos</p>
 Tiago Silva
 
 ## OBJETIVOS
