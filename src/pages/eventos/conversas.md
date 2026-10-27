@@ -22,3 +22,8 @@ category: institucional
 
 ## 14 de Dezembro
 ### Kilimanjaro
+
+
+[ENTRAR NA CONVERSA](https://meet.google.com/ryu-hsut-duq)
+
+> Pode alterar o link no dia 
