@@ -14,7 +14,7 @@ excludeFromNav: true
 - Picos de Europa - Montanhismo
 - Picos de Europa - Escalada Clássica
 - Madeira
-- [Galayos](https://escolademontanha.com/eventos/galayos-out26/)
+- Galayos
 
 ## Escolas
 
