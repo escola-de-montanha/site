@@ -2,11 +2,11 @@
 layout: ../../layouts/CalendarMdLayout.astro
 title:  Conversas de Montanha
 shortTitle: Conversas de Montanha
-date: 
+dates: 
+  - 2026-10-12
+  - 2026-11-09
+  - 2026-12-14
 
- - 2026-10-12
- - 2026-11-09
- - 2026-12-14
 category: institucional
 ---
 
